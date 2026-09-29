@@ -1,0 +1,29 @@
+{
+ "_note": "Question text sourced from tet.pyqs.in (bilingual, includes the Telugu subject in Telugu). Cross-checked against answer_keys.json.",
+ "sections": {
+  "cdp": {
+   "name": "CDP (Child Development & Pedagogy)",
+   "count": 630
+  },
+  "telugu": {
+   "name": "Telugu (language)",
+   "count": 630
+  },
+  "english": {
+   "name": "English (language)",
+   "count": 720
+  },
+  "maths": {
+   "name": "Mathematics",
+   "count": 240
+  },
+  "physics": {
+   "name": "Physical Science",
+   "count": 240
+  },
+  "biology": {
+   "name": "Biology",
+   "count": 240
+  }
+ }
+}

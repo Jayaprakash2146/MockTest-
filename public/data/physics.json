@@ -1,0 +1,7927 @@
+{
+ "section": "physics",
+ "name": "Physical Science",
+ "count": 240,
+ "questions": [
+  {
+   "id": "physics-0001",
+   "section": "physics",
+   "number": 1,
+   "question": {
+    "en": "The speed of a car is 36 Kmph. Its speed in m/s.",
+    "te": "ఒక కారు వడి 36 కి. మీ. /గం. దాని వడి మీ/సె లలో"
+   },
+   "options": [
+    {
+     "en": "18",
+     "te": null
+    },
+    {
+     "en": "72",
+     "te": null
+    },
+    {
+     "en": "5",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0002",
+   "section": "physics",
+   "number": 2,
+   "question": {
+    "en": "A car travels 16m in 3s and another 16m in 5s. The average speed of car is (in m/s)",
+    "te": "ఒక కారు 3 సె. లలో 16 మీ. లు ప్రయాణిస్తుంది. ఆ పై మరొక 5 సె. లలో మరో 16 మీ.లు ప్రయాణిస్తే, ఆ కారు సరాసరి వడి (మీ/సె లలో)"
+   },
+   "options": [
+    {
+     "en": "8",
+     "te": null
+    },
+    {
+     "en": "6",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0003",
+   "section": "physics",
+   "number": 3,
+   "question": {
+    "en": "The formula for average velocity is",
+    "te": "సరాసరి వేగానికి సూత్రం"
+   },
+   "options": [
+    {
+     "en": "Initial velocity + Final velocity",
+     "te": "తొలి వేగం + తుది వేగం"
+    },
+    {
+     "en": "Initial velocity – Final velocity",
+     "te": "తొలి వేగం - తుది వేగం"
+    },
+    {
+     "en": "Initial velocity + Final velocity\n2\n2",
+     "te": "తొలి వేగం+ తుది వేగం"
+    },
+    {
+     "en": "Initial velocity− Final velocity\n2\n2",
+     "te": "తొలి వేగం − తుది వేగం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0004",
+   "section": "physics",
+   "number": 4,
+   "question": {
+    "en": "The units of Acceleration in S.I System",
+    "te": "S.I పద్దతిలో త్వరణానికి ప్రమాణాలు"
+   },
+   "options": [
+    {
+     "en": "m",
+     "te": "మీ."
+    },
+    {
+     "en": "m/s",
+     "te": "మీ/సె"
+    },
+    {
+     "en": "m/s^2",
+     "te": "మీ/సె^2"
+    },
+    {
+     "en": "m s^2",
+     "te": "మీ. సె^2"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0005",
+   "section": "physics",
+   "number": 5,
+   "question": {
+    "en": "The initial velocity of a freely falling object is",
+    "te": "స్వేచ్చా పతన వస్తువు యొక్క తొలి వేగం"
+   },
+   "options": [
+    {
+     "en": "Zero",
+     "te": "శూన్యం"
+    },
+    {
+     "en": "Maximum",
+     "te": "గరిష్టం"
+    },
+    {
+     "en": "One",
+     "te": "ఒకటి"
+    },
+    {
+     "en": "Cannot say",
+     "te": "చెప్పలేము"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0006",
+   "section": "physics",
+   "number": 6,
+   "question": {
+    "en": "An athlete is running in a circular track of radius 120 m and reaches the starting point in 1 minute. The displacement of the athlete is (in meters)",
+    "te": "ఒక క్రీడాకారుడు 120 మీ. ల వ్యాసార్ధం గల ఒక వృత్తాకార ట్రాక్ పై పరిగెడుతూ, పరుగు మొదలు పెట్టిన స్థానానికి ఒక నిముషం లో చేరాడు. అయిన ఆ క్రీడాకారుడు పొందిన స్థానబ్రంశం (మీ. లలో)"
+   },
+   "options": [
+    {
+     "en": "120",
+     "te": null
+    },
+    {
+     "en": "60",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "0",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0007",
+   "section": "physics",
+   "number": 7,
+   "question": {
+    "en": "In the formula v^2 – u^2 = 2as, ‘a’ represents",
+    "te": "v^2 – u^2 = 2as సమీకరణము నందు ‘a’ సూచించేది"
+   },
+   "options": [
+    {
+     "en": "Initial velocity",
+     "te": "తొలివేగం"
+    },
+    {
+     "en": "Final velocity",
+     "te": "తుదివేగం"
+    },
+    {
+     "en": "Acceleration",
+     "te": "త్వరణం"
+    },
+    {
+     "en": "Distance",
+     "te": "దూరం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0008",
+   "section": "physics",
+   "number": 8,
+   "question": {
+    "en": "A train starting from rest gains a velocity 20m/s in 5 seconds. The acceleration of train is (in m/s^2)",
+    "te": "నిశ్చల స్థితి నుండి బయలుదేరిన ఒక రైలు బండి 5 సెకనులలో 20 మీ/సె వేగాన్ని పొందినది. ఆ రైలు బండి త్వరణం (మీ/సె^2 లలో)"
+   },
+   "options": [
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    },
+    {
+     "en": "6",
+     "te": null
+    },
+    {
+     "en": "8",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0009",
+   "section": "physics",
+   "number": 9,
+   "question": {
+    "en": "Five kilometres is equal to (in m.)",
+    "te": "ఐదు కిలోమీటర్లు దీనికి సమానం (మీ. లలో)"
+   },
+   "options": [
+    {
+     "en": "5",
+     "te": null
+    },
+    {
+     "en": "50",
+     "te": null
+    },
+    {
+     "en": "500",
+     "te": null
+    },
+    {
+     "en": "5000",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0010",
+   "section": "physics",
+   "number": 10,
+   "question": {
+    "en": "Motion of the needle of a sewing machine is in",
+    "te": "కుట్టు మిషన్ సూది యొక్క కదలిక ఈ చలనాన్ని కలిగి ఉంటుంది"
+   },
+   "options": [
+    {
+     "en": "Rectilinear motion",
+     "te": "సరళ రేఖీయ చలనం"
+    },
+    {
+     "en": "Oscillatory motion",
+     "te": "డోలన చలనం"
+    },
+    {
+     "en": "Rotatory motion",
+     "te": "భ్రమణ చలనం"
+    },
+    {
+     "en": "Circulatory motion",
+     "te": "వృత్తాకార చలనం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0011",
+   "section": "physics",
+   "number": 11,
+   "question": {
+    "en": "While measuring the length of knitting needle, the reading of the scale at one end is 3.0cm and the other end is 33.1cm. The length of the needle is (in cm)",
+    "te": "ఒక అల్లిన సూది పొడవును కొలిచేటప్పుడు, స్కేలు యొక్క ఒక చివరి రీడింగు 3.0సెం. మీ., మరొక చివర రీడింగు 33.1 సెం. మీ. అయిన ఆ సూది పొడవు (సెం. మీ.లలో)"
+   },
+   "options": [
+    {
+     "en": "3.1",
+     "te": null
+    },
+    {
+     "en": "36.1",
+     "te": null
+    },
+    {
+     "en": "30.1",
+     "te": null
+    },
+    {
+     "en": "11.1",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0012",
+   "section": "physics",
+   "number": 12,
+   "question": {
+    "en": "The correct order of the following lengths.",
+    "te": "క్రింది పొడవుల సరియైన క్రమం."
+   },
+   "options": [
+    {
+     "en": "1cm < 1mm < 1m < 1km",
+     "te": "1 సెం. మీ < 1 మి. మీ <1 మీ <1 కి. మీ."
+    },
+    {
+     "en": "1mm < 1cm < 1m < 1km",
+     "te": "1 మి. మీ < 1 సెం. మీ <1 మీ <1 కి. మీ."
+    },
+    {
+     "en": "1km < 1m < 1cm < 1mm",
+     "te": "1 కి. మీ < 1 మీ <1 సెం. మీ < 1 మి. మీ"
+    },
+    {
+     "en": "1km < 1m < 1mm < 1cm",
+     "te": "1 కి. మీ < 1 మీ <1 మి. మీ < 1 సెం. మీ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0013",
+   "section": "physics",
+   "number": 13,
+   "question": {
+    "en": "The frictional force between a wooden box and floor is 20N. The force required to move the wooden box is",
+    "te": "చెక్క పెట్టెకు మరియు నేలకు మధ్యలో గల ఘర్షణ బలం 20 N. ఆ చెక్క పెట్టెను కదుపుటకు కావలసిన బలం"
+   },
+   "options": [
+    {
+     "en": "10 N",
+     "te": null
+    },
+    {
+     "en": "15 N",
+     "te": null
+    },
+    {
+     "en": "21 N",
+     "te": null
+    },
+    {
+     "en": "0 N",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 167,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0014",
+   "section": "physics",
+   "number": 14,
+   "question": {
+    "en": "If the force applied on the object is in the direction of motion, then the speed of object",
+    "te": "వస్తువుపై ప్రయోగింపబడిన బలదిశలోనే వస్తువు కదులుతుంటే, ఆ వస్తువు యొక్క వడి"
+   },
+   "options": [
+    {
+     "en": "Increases",
+     "te": "పెరుగుతుంది"
+    },
+    {
+     "en": "Decreases",
+     "te": "తగ్గుతుంది"
+    },
+    {
+     "en": "First increases and then decreases",
+     "te": "మొదట పెరిగి తరువాత తగ్గుతుంది"
+    },
+    {
+     "en": "First decreases and then increases",
+     "te": "మొదట తగ్గి తరువాత పెరుగుతుంది"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0015",
+   "section": "physics",
+   "number": 15,
+   "question": {
+    "en": "The force applied by an archer to stretch the bow is an example of",
+    "te": "విలుకారిణి విల్లు సాగదీయడానికి ఉపయోగించే బలం ఈ రకమైన బలానికి ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Frictional force",
+     "te": "ఘర్షణ బలం"
+    },
+    {
+     "en": "Muscular force",
+     "te": "కండర బలం"
+    },
+    {
+     "en": "Gravitational force",
+     "te": "గురుత్వాకర్షణ బలం"
+    },
+    {
+     "en": "Magnetic force",
+     "te": "అయస్కాంత బలం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0016",
+   "section": "physics",
+   "number": 16,
+   "question": {
+    "en": "Pressure is the ratio of force and",
+    "te": "పీడనం అనేది బలం మరియు దీని నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "Area",
+     "te": "వైశాల్యం"
+    },
+    {
+     "en": "Volume",
+     "te": "ఘనపరిమాణం"
+    },
+    {
+     "en": "Density",
+     "te": "సాంద్రత"
+    },
+    {
+     "en": "Length",
+     "te": "పొడవు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0017",
+   "section": "physics",
+   "number": 17,
+   "question": {
+    "en": "The force exerted by a charged body on another charged body is known as",
+    "te": "ఒక ఆవేశ పూరిత వస్తువు మరొక ఆవేశ పూరిత వస్తువుపై కలుగ జేసే బలాన్ని ఇలా పిలుస్తారు."
+   },
+   "options": [
+    {
+     "en": "Muscular force",
+     "te": "కండర బలం"
+    },
+    {
+     "en": "Frictional force",
+     "te": "ఘర్షణ బలం"
+    },
+    {
+     "en": "Electrostatic force",
+     "te": "స్థావర విద్యుత్ బలం"
+    },
+    {
+     "en": "Magnetic force",
+     "te": "అయస్కాంత బలం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0018",
+   "section": "physics",
+   "number": 18,
+   "question": {
+    "en": "This is an example for Non-contact force",
+    "te": "ఇది స్పర్శించని బలానికి ఒక ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Muscular force",
+     "te": "కండర బలం"
+    },
+    {
+     "en": "Frictional force",
+     "te": "ఘర్షణ బలం"
+    },
+    {
+     "en": "Gravitational force",
+     "te": "గురుత్వాకర్షణ బలం"
+    },
+    {
+     "en": "Tension force",
+     "te": "తన్యతా బలం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0019",
+   "section": "physics",
+   "number": 19,
+   "question": {
+    "en": "This is an example for contact force",
+    "te": "స్పర్శా బలానికి ఇది ఒక ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Muscular force",
+     "te": "కండర బలం"
+    },
+    {
+     "en": "Gravitational force",
+     "te": "గురుత్వాకర్షణ బలం"
+    },
+    {
+     "en": "Electrostatic force",
+     "te": "స్థావర విద్యుత్ బలం"
+    },
+    {
+     "en": "Magnetic force",
+     "te": "అయస్కాంత బలం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0020",
+   "section": "physics",
+   "number": 20,
+   "question": {
+    "en": "This is not an example for muscular force",
+    "te": "కండర బలానికి ఉదాహరణ కానిది"
+   },
+   "options": [
+    {
+     "en": "squeezing a piece of lemon between fingers",
+     "te": "చేతివేళ్ళను ఉపయోగించి నిమ్మకాయను పిండుట"
+    },
+    {
+     "en": "Taking out toothpaste from toothpaste",
+     "te": "టూత్ పేస్టు ట్యూబు నుండి టూత్ పేస్టు తీయుట"
+    },
+    {
+     "en": "Lifting the bucket containing water with hands",
+     "te": "చేతులతో నీటిని కలిగి ఉన్న బక్కెట్ను ఎత్తుట"
+    },
+    {
+     "en": "Charged balloon attracting the pieces of paper",
+     "te": "ఆవేశ పూరిత బెలూన్ చిన్న పేపరు ముక్కలను ఆకర్షించుట"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0021",
+   "section": "physics",
+   "number": 21,
+   "question": {
+    "en": "The decreasing order of frictional forces",
+    "te": "ఘర్షణ బలాల అవరోహణాక్రమం"
+   },
+   "options": [
+    {
+     "en": "rolling, static, sliding",
+     "te": "దొర్లుడు, స్థైతిక, జారుడు"
+    },
+    {
+     "en": "rolling, sliding, static",
+     "te": "దొర్లుడు, జారుడు, స్థైతిక"
+    },
+    {
+     "en": "static, sliding, rolling",
+     "te": "స్థైతిక, జారుడు, దొర్లుడు"
+    },
+    {
+     "en": "sliding, static, rolling",
+     "te": "జారుడు, స్థైతిక, దొర్లుడు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0022",
+   "section": "physics",
+   "number": 22,
+   "question": {
+    "en": "The reason for sprinkling of powder on the carom board",
+    "te": "క్యారమ్ బోర్డుపై పౌడర్ను చిలకరించుటకు కారణం"
+   },
+   "options": [
+    {
+     "en": "To increase the friction",
+     "te": "ఘర్షణను పెంచుటకు"
+    },
+    {
+     "en": "To decrease the friction",
+     "te": "ఘర్షణను తగ్గించుటకు"
+    },
+    {
+     "en": "To decorate carom board",
+     "te": "క్యారమ్ బోర్డును అలంకరించుటకు"
+    },
+    {
+     "en": "To decrease force",
+     "te": "బలాన్ని తగ్గించుటకు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0023",
+   "section": "physics",
+   "number": 23,
+   "question": {
+    "en": "The correct statement among the following",
+    "te": "క్రింది వాటిలో సరియైన ప్రవచనం"
+   },
+   "options": [
+    {
+     "en": "Rolling friction is smaller than sliding friction",
+     "te": "జారుడు ఘర్షణ కన్నా దొర్లుడు ఘర్షణ తక్కువ"
+    },
+    {
+     "en": "Sliding friction is smaller than rolling friction",
+     "te": "దొర్లుడు ఘర్షణ కన్నా జారుడు ఘర్షణ తక్కువ"
+    },
+    {
+     "en": "Rolling friction is equal to sliding friction",
+     "te": "జారుడు ఘర్షణ, దొర్లుడు ఘర్షణకు సమానం"
+    },
+    {
+     "en": "Rolling friction is larger than sliding friction",
+     "te": "జారుడు ఘర్షణ కన్నా దొర్లుడు ఘర్షణ ఎక్కువ"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0024",
+   "section": "physics",
+   "number": 24,
+   "question": {
+    "en": "The reason that tyres are treaded",
+    "te": "టైర్లపై గల గాడులకు కారణం"
+   },
+   "options": [
+    {
+     "en": "To decrease the friction",
+     "te": "ఘర్షణను తగ్గించుటకు"
+    },
+    {
+     "en": "To increase the friction",
+     "te": "ఘర్షణను పెంచుటకు"
+    },
+    {
+     "en": "To obtain good looking",
+     "te": "అందంగా కనిపించుటకు"
+    },
+    {
+     "en": "To increase speed",
+     "te": "వేగాన్ని పెంచుటకు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0025",
+   "section": "physics",
+   "number": 25,
+   "question": {
+    "en": "S.I Unit of Universal gravitational constant (G) is",
+    "te": "విశ్వగురుత్వ స్థిరాంకం (G) యొక్క S.I ప్రమాణం"
+   },
+   "options": [
+    {
+     "en": "N.m^2.Kg^2",
+     "te": null
+    },
+    {
+     "en": "N.m^2 Kg^−2",
+     "te": null
+    },
+    {
+     "en": "N m^−2 Kg^2",
+     "te": null
+    },
+    {
+     "en": "N m^−2 Kg^−2",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 168,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0026",
+   "section": "physics",
+   "number": 26,
+   "question": {
+    "en": "The value of ‘g’ on earth",
+    "te": "భూమిపై ‘g’ విలువ"
+   },
+   "options": [
+    {
+     "en": "9.8 ms^−2",
+     "te": null
+    },
+    {
+     "en": "9.8 cms^−2",
+     "te": null
+    },
+    {
+     "en": "98 ms^−2",
+     "te": null
+    },
+    {
+     "en": "98 cms^−2",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0027",
+   "section": "physics",
+   "number": 27,
+   "question": {
+    "en": "If the weight of an object is 60 N on earth, then the weight of same object on moon is",
+    "te": "భూమి పై ఒక వస్తువు భారం 60 N అయిన అదే వస్తువు భారం చంద్రునిపై"
+   },
+   "options": [
+    {
+     "en": "6 N",
+     "te": null
+    },
+    {
+     "en": "10 N",
+     "te": null
+    },
+    {
+     "en": "0 N",
+     "te": null
+    },
+    {
+     "en": "36 N",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0028",
+   "section": "physics",
+   "number": 28,
+   "question": {
+    "en": "The mass of an object is 10 Kg. The weight of the object on the earth is (g=9.8m/s^2)",
+    "te": "ఒక వస్తువు యొక్క ద్రవ్యరాశి 10 కి. గ్రా. భూమి పై దాని భారం (g=9.8 మీ /సె^2)"
+   },
+   "options": [
+    {
+     "en": "9.8 N",
+     "te": null
+    },
+    {
+     "en": "0.2 N",
+     "te": null
+    },
+    {
+     "en": "98 N",
+     "te": null
+    },
+    {
+     "en": "0 N",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0029",
+   "section": "physics",
+   "number": 29,
+   "question": {
+    "en": "The thrust per unit area is called",
+    "te": "ప్రమాణ వైశాల్యం పై కలుగజేసే ఒత్తిడిని ఈ విధంగా పిలుస్తారు."
+   },
+   "options": [
+    {
+     "en": "Force",
+     "te": "బలం"
+    },
+    {
+     "en": "Pressure",
+     "te": "పీడనం"
+    },
+    {
+     "en": "Weight",
+     "te": "భారం"
+    },
+    {
+     "en": "Mass",
+     "te": "ద్రవ్యరాశి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0030",
+   "section": "physics",
+   "number": 30,
+   "question": {
+    "en": "S.I unit of pressure is",
+    "te": "పీడనానికి S.I ప్రమాణం"
+   },
+   "options": [
+    {
+     "en": "Newton",
+     "te": "న్యూటన్"
+    },
+    {
+     "en": "Pascal",
+     "te": "పాస్కల్"
+    },
+    {
+     "en": "dyne",
+     "te": "డైన్"
+    },
+    {
+     "en": "Watt",
+     "te": "వాట్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0031",
+   "section": "physics",
+   "number": 31,
+   "question": {
+    "en": "A stone is released from the top of a tower of height 20m. The final velocity before touching the ground is (g=10m/s^2)",
+    "te": "20 మీ. ఎత్తు గల టవర్పై నుండి ఒక రాయి వదలబడింది. భూమిని చేరేముందు దాని తుది వేగం. (g=10 మీ./ సె^2)"
+   },
+   "options": [
+    {
+     "en": "0 m/s",
+     "te": null
+    },
+    {
+     "en": "10 m/s",
+     "te": null
+    },
+    {
+     "en": "20 m/s",
+     "te": null
+    },
+    {
+     "en": "40 m/s",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0032",
+   "section": "physics",
+   "number": 32,
+   "question": {
+    "en": "The buoyant force acts on an object immersed in a liquid in this direction",
+    "te": "ద్రవంలో మునిగిన వస్తువుపై ఉత్ప్లవన బలం ఈ దిశలో పనిచేస్తుంది."
+   },
+   "options": [
+    {
+     "en": "In upward direction",
+     "te": "పై వైపుకు"
+    },
+    {
+     "en": "In downward direction",
+     "te": "క్రింది వైపుకు"
+    },
+    {
+     "en": "Towards right",
+     "te": "కుడి వైపుకు"
+    },
+    {
+     "en": "Towards left",
+     "te": "ఎడమ వైపుకు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0033",
+   "section": "physics",
+   "number": 33,
+   "question": {
+    "en": "The principle used in the designing of ships and submarines",
+    "te": "నౌకలు మరియు జలాంతర్గాముల రూపకల్పనలో ఉపయోగపడు సూత్రం"
+   },
+   "options": [
+    {
+     "en": "Newton’s principle",
+     "te": "న్యూటన్ సూత్రం"
+    },
+    {
+     "en": "Pascal’s principle",
+     "te": "పాస్కల్ సూత్రం"
+    },
+    {
+     "en": "Archimedes’ principle",
+     "te": "ఆర్కెమెడీస్ సూత్రం"
+    },
+    {
+     "en": "Boyle’s principle",
+     "te": "బాయిల్ సూత్రం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0034",
+   "section": "physics",
+   "number": 34,
+   "question": {
+    "en": "A: Mass of the body does not change from place to place\nB: Weight of the body changes from place to place",
+    "te": "A: వస్తువు యొక్క ద్రవ్యరాశి ప్రదేశాన్ని బట్టి మారదు\nB: వస్తువు భారం ఒక ప్రదేశం నుండి మరో ప్రదేశానికి మారుతుంది"
+   },
+   "options": [
+    {
+     "en": "Both A and B are correct",
+     "te": "A మరియు B లు రెండూ సరైనవి"
+    },
+    {
+     "en": "Both A and B are incorrect",
+     "te": "A మరియు B లు రెండూ సరికావు"
+    },
+    {
+     "en": "A is correct, B is incorrect",
+     "te": "A సరైనది, B సరికాదు"
+    },
+    {
+     "en": "A is incorrect, B is correct",
+     "te": "A సరికాదు, B సరైనది"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0035",
+   "section": "physics",
+   "number": 35,
+   "question": {
+    "en": "According to Newton’s Universal law of gravitation, Force acts between two bodies is",
+    "te": "న్యూటన్ విశ్వ గురుత్వ నియమం ప్రకారం, రెండు వస్తువుల మధ్య పనిచేసే బలం"
+   },
+   "options": [
+    {
+     "en": "Directly proportional to the Square of the distance between them",
+     "te": "వాటిమధ్య దూరవర్గానికి అనులోమానుపాతంలో ఉంటుంది"
+    },
+    {
+     "en": "Inversely proportional to the Square of the distance between them",
+     "te": "వాటిమధ్య దూరవర్గానికి విలోమానుపాతంలో ఉంటుంది"
+    },
+    {
+     "en": "Directly proportional to the distance between them",
+     "te": "వాటిమధ్య దూరానికి అనులోమానుపాతంలో ఉంటుంది"
+    },
+    {
+     "en": "Inversely proportional to the distance between them",
+     "te": "వాటిమధ్య దూరానికి విలోమానుపాతంలో ఉంటుంది"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0036",
+   "section": "physics",
+   "number": 36,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/8ac46c9920.png",
+   "imageW": 542,
+   "imageH": 525,
+   "sourcePage": 169,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0037",
+   "section": "physics",
+   "number": 37,
+   "question": {
+    "en": "The physical quantity work has",
+    "te": "పని అనే భౌతిక రాశికి"
+   },
+   "options": [
+    {
+     "en": "Only magnitude",
+     "te": "పరిమాణం మాత్రమే ఉంటుంది"
+    },
+    {
+     "en": "Only direction",
+     "te": "దిశ మాత్రమే ఉంటుంది"
+    },
+    {
+     "en": "Both magnitude and direction",
+     "te": "పరిమాణం మరియు దిశ రెండూ ఉంటాయి"
+    },
+    {
+     "en": "Neither magnitude nor direction",
+     "te": "పరిమాణం గాని, దిశ గాని ఉండవు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0038",
+   "section": "physics",
+   "number": 38,
+   "question": {
+    "en": "A force of 5N acting on an object to displace it through 2m in the direction of force. The work done becomes",
+    "te": "ఒక వస్తువుపై 5 N బలం పని చేసి బల ప్రయోగ దిశలోనే ఆ వస్తువును 2 మీ స్థానబ్రంశం చెందించింది. జరిగిన పని"
+   },
+   "options": [
+    {
+     "en": "2.5 J",
+     "te": null
+    },
+    {
+     "en": "10 J",
+     "te": null
+    },
+    {
+     "en": "0.4 J",
+     "te": null
+    },
+    {
+     "en": "20 J",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0039",
+   "section": "physics",
+   "number": 39,
+   "question": {
+    "en": "Unit of work in S.I system",
+    "te": "పనికి S.I ప్రమాణం"
+   },
+   "options": [
+    {
+     "en": "Newton",
+     "te": "న్యూటన్"
+    },
+    {
+     "en": "Erg",
+     "te": "ఎర్గ్"
+    },
+    {
+     "en": "Joule",
+     "te": "జౌల్"
+    },
+    {
+     "en": "Watt",
+     "te": "వాట్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0040",
+   "section": "physics",
+   "number": 40,
+   "question": {
+    "en": "Mechanical work is equals to",
+    "te": "యాంత్రిక శక్తి దీనికి సమానం"
+   },
+   "options": [
+    {
+     "en": "Potential energy × kinetic energy",
+     "te": "స్థితి శక్తి × గతి శక్తి"
+    },
+    {
+     "en": "Potential energy ÷ kinetic energy",
+     "te": "స్థితి శక్తి ÷ గతి శక్తి"
+    },
+    {
+     "en": "Potential energy ˗ kinetic energy",
+     "te": "స్థితి శక్తి ˗ గతి శక్తి"
+    },
+    {
+     "en": "Potential energy + kinetic energy",
+     "te": "స్థితి శక్తి + గతి శక్తి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0041",
+   "section": "physics",
+   "number": 41,
+   "question": {
+    "en": "Formula of potential energy",
+    "te": "స్థితి శక్తికి సూత్రం"
+   },
+   "options": [
+    {
+     "en": "mgh",
+     "te": null
+    },
+    {
+     "en": "1\n2mv^2",
+     "te": null
+    },
+    {
+     "en": "ma",
+     "te": null
+    },
+    {
+     "en": "F s",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0042",
+   "section": "physics",
+   "number": 42,
+   "question": {
+    "en": "Formula of kinetic energy",
+    "te": "గతి శక్తికి సూత్రం"
+   },
+   "options": [
+    {
+     "en": "mgh",
+     "te": null
+    },
+    {
+     "en": "1\n2mv^2",
+     "te": null
+    },
+    {
+     "en": "ma",
+     "te": null
+    },
+    {
+     "en": "F s",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0043",
+   "section": "physics",
+   "number": 43,
+   "question": {
+    "en": "Formula of power is",
+    "te": "సామర్ధ్యానికి సూత్రం"
+   },
+   "options": [
+    {
+     "en": "Work × time",
+     "te": "పని × కాలం"
+    },
+    {
+     "en": "Work / time",
+     "te": "పని / కాలం"
+    },
+    {
+     "en": "Force × distance",
+     "te": "బలం × దూరం"
+    },
+    {
+     "en": "Force / distance",
+     "te": "బలం / దూరం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0044",
+   "section": "physics",
+   "number": 44,
+   "question": {
+    "en": "The following two quantities has same units",
+    "te": "ఈ క్రింది రెండు రాశులకు ఒకే ప్రమాణాలు ఉంటాయి"
+   },
+   "options": [
+    {
+     "en": "Work, Force",
+     "te": "పని, బలం"
+    },
+    {
+     "en": "Work, Power",
+     "te": "పని, సామర్ధ్యం"
+    },
+    {
+     "en": "Power, Force",
+     "te": "సామర్ధ్యం, బలం"
+    },
+    {
+     "en": "Work, Energy",
+     "te": "పని, శక్తి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0045",
+   "section": "physics",
+   "number": 45,
+   "question": {
+    "en": "Water stored in the reservoir at a certain height has this energy",
+    "te": "రిజర్వాయర్ నందు కొంత ఎత్తులో నిల్వ చేయబడిన నీటికి ఈ శక్తి ఉంటుంది"
+   },
+   "options": [
+    {
+     "en": "Potential energy",
+     "te": "స్థితి శక్తి"
+    },
+    {
+     "en": "Kinetic energy",
+     "te": "గతి శక్తి"
+    },
+    {
+     "en": "Both potential and kinetic energies",
+     "te": "స్థితి మరియు గతి శక్తులు రెండూ"
+    },
+    {
+     "en": "Neither potential nor kinetic energies",
+     "te": "స్థితిశక్తి గాని గతిశక్తి గాని ఉండవు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0046",
+   "section": "physics",
+   "number": 46,
+   "question": {
+    "en": "For a freely falling body, during its free fall",
+    "te": "స్వేచ్చా పతన వస్తువుకు, స్వేచ్చా పతన సమయంలో"
+   },
+   "options": [
+    {
+     "en": "Potential energy is maximum",
+     "te": "స్థితిశక్తి గరిష్టం"
+    },
+    {
+     "en": "Kinetic energy is maximum",
+     "te": "గతిశక్తి గరిష్టం"
+    },
+    {
+     "en": "Potential energy decreases and kinetic energy increases",
+     "te": "స్థితిశక్తి తగ్గుతూ గతిశక్తి పెరుగుతూ వుంటుంది"
+    },
+    {
+     "en": "Potential energy increases and kinetic energy decreases",
+     "te": "స్థితిశక్తి పెరుగుతూ గతిశక్తి తగ్గుతూ వుంటుంది"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0047",
+   "section": "physics",
+   "number": 47,
+   "question": {
+    "en": "One of the following object has potential energy",
+    "te": "కింది వాటిలో ఒకవస్తువు స్థితిశక్తిని కలిగి వుంది"
+   },
+   "options": [
+    {
+     "en": "Blowing wind",
+     "te": "వీస్తున్న గాలి"
+    },
+    {
+     "en": "Rotating wheel",
+     "te": "తిరుగుతున్న చక్రం"
+    },
+    {
+     "en": "Flowing water",
+     "te": "ప్రవహిస్తున్న నీరు"
+    },
+    {
+     "en": "Stretched spring",
+     "te": "సాగదీయబడిన స్ప్రింగ్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0048",
+   "section": "physics",
+   "number": 48,
+   "question": {
+    "en": "One of the following object has kinetic energy",
+    "te": "కింది వాటిలో ఒకవస్తువు గతి శక్తిని కలిగి వుంది"
+   },
+   "options": [
+    {
+     "en": "Stretched rubber band",
+     "te": "సాగదీయబడిన రబ్బరు బ్యాండు"
+    },
+    {
+     "en": "Water stored in dam",
+     "te": "ఆనకట్టలో నిల్వచేయబడిన నీరు"
+    },
+    {
+     "en": "Ball kept at a height on the wall",
+     "te": "గోడపై కొంత ఎత్తులో ఉంచబడిన బంతి"
+    },
+    {
+     "en": "Flowing water",
+     "te": "ప్రవహిస్తున్న నీరు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0049",
+   "section": "physics",
+   "number": 49,
+   "question": {
+    "en": "S. I unit of wavelength is",
+    "te": "తరంగ ధైర్గ్యం యొక్క S. I ప్రమాణం"
+   },
+   "options": [
+    {
+     "en": "Centimetre",
+     "te": "సెంటీ మీటరు"
+    },
+    {
+     "en": "Metre",
+     "te": "మీటర్"
+    },
+    {
+     "en": "Hertz",
+     "te": "హెర్ట్జ్"
+    },
+    {
+     "en": "Second",
+     "te": "సెకను"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0050",
+   "section": "physics",
+   "number": 50,
+   "question": {
+    "en": "S. I unit of frequency",
+    "te": "పౌనః పున్యం యొక్క S. I ప్రమాణం"
+   },
+   "options": [
+    {
+     "en": "Metre",
+     "te": "మీటరు"
+    },
+    {
+     "en": "Hertz",
+     "te": "హెర్ట్జ్"
+    },
+    {
+     "en": "Second",
+     "te": "సెకను"
+    },
+    {
+     "en": "Meter / Second",
+     "te": "మీటర్/సెకను"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0051",
+   "section": "physics",
+   "number": 51,
+   "question": {
+    "en": "Magnitude of maximum disturbance in the medium on either side of mean value is called",
+    "te": "సగటు విలువకు ఇరు వైపులా యానకం లో ఏర్పడిన గరిష్ట అలజడిని ఈ విదంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Frequency",
+     "te": "పౌనః పున్యం"
+    },
+    {
+     "en": "Amplitude",
+     "te": "కంపన పరిమితి"
+    },
+    {
+     "en": "Wavelength",
+     "te": "తరంగ ధైర్గ్యం"
+    },
+    {
+     "en": "Time period",
+     "te": "కాల పరిమితి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 170,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0052",
+   "section": "physics",
+   "number": 52,
+   "question": {
+    "en": "If λ is the wavelength and υ is the frequency of sound produced then the formula for speed of sound wave is",
+    "te": "తరంగ ధైర్గ్యం λ మరియు పౌనః పున్యం υ గల ధ్వని తరంగంలో ధ్వని వేగం v కనుగొనుటకు సూత్రం"
+   },
+   "options": [
+    {
+     "en": "v = λ\nυ",
+     "te": null
+    },
+    {
+     "en": "υ = λ\nv",
+     "te": null
+    },
+    {
+     "en": "V = υ λ",
+     "te": null
+    },
+    {
+     "en": "λ = υ\nv",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0053",
+   "section": "physics",
+   "number": 53,
+   "question": {
+    "en": "The amount of sound energy passing through unit are in each second is called",
+    "te": "ప్రమాణ వైశాల్యం గుండా ప్రతి సెకనులో ప్రయాణించే ధ్వని శక్తి మొత్తాన్ని ఈ విధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Frequency",
+     "te": "పౌనః పున్యం"
+    },
+    {
+     "en": "Amplitude",
+     "te": "కంపన పరిమితి"
+    },
+    {
+     "en": "Intensity",
+     "te": "తీవ్రత"
+    },
+    {
+     "en": "Wave length",
+     "te": "తరంగ ధైర్ఘ్యం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0054",
+   "section": "physics",
+   "number": 54,
+   "question": {
+    "en": "A sound wave has a frequency of 20Hz and a wave length 35m then the speed of sound is",
+    "te": "ఒక ధ్వని తరంగం 20 హెర్ట్జ్ పౌనః పున్యాన్ని మరియు 35 మీటర్ల తరంగ ధైర్ఘ్యాన్ని కలిగి ఉంది. అయిన ఆ ధ్వని తరంగ వేగం"
+   },
+   "options": [
+    {
+     "en": "70 m/s",
+     "te": "70 మీ/సె"
+    },
+    {
+     "en": "700 m/s",
+     "te": "700 మీ/సె"
+    },
+    {
+     "en": "7000 m/s",
+     "te": "7000 మీ/సె"
+    },
+    {
+     "en": "7 m/s",
+     "te": "7 మీ/సె"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0055",
+   "section": "physics",
+   "number": 55,
+   "question": {
+    "en": "The repeated reflection that results in the persistence of sound is calle",
+    "te": "పలు మార్లు పరావర్తనం కారణంగా సాగదీయబడిన ధ్వనిని ఈ విధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Echo",
+     "te": "ప్రతిధ్వని"
+    },
+    {
+     "en": "Multiple reflections",
+     "te": "బహుళ పరావర్తనాలు"
+    },
+    {
+     "en": "Reverberation",
+     "te": "ప్రతినాదం"
+    },
+    {
+     "en": "Frequency",
+     "te": "పౌనఃపున్యం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0056",
+   "section": "physics",
+   "number": 56,
+   "question": {
+    "en": "The frequency of sound wave is 60 Hz. The number of times does it vibrate in one second is",
+    "te": "ఒక ధ్వని తరంగం యొక్క పౌనఃపున్యం 60 Hz. అది ఒక సెకనులో చేసే కంపనాల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "6",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    },
+    {
+     "en": "60",
+     "te": null
+    },
+    {
+     "en": "1/60",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0057",
+   "section": "physics",
+   "number": 57,
+   "question": {
+    "en": "Temperature of an object is 25^0C. Its temperature in kelvin scale",
+    "te": "ఒక వస్తువు యొక్క ఉష్ణోగ్రత 25^0C. దాని ఉష్ణోగ్రత కెల్విన్ స్కేలులో"
+   },
+   "options": [
+    {
+     "en": "298 K",
+     "te": null
+    },
+    {
+     "en": "248 K",
+     "te": null
+    },
+    {
+     "en": "300 K",
+     "te": null
+    },
+    {
+     "en": "25 K",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0058",
+   "section": "physics",
+   "number": 58,
+   "question": {
+    "en": "Two objects A and B are in thermal equilibrium. If the temperature of A is 30^0C, Then the temperature of B is",
+    "te": "A మరియు B అనే వస్తువులు ఉష్ణ సమతాస్థితిలో ఉన్నాయి. A యొక్క ఉష్ణోగ్రత 30^0C అయిన B యొక్క ఉష్ణోగ్రత"
+   },
+   "options": [
+    {
+     "en": "0^0C",
+     "te": null
+    },
+    {
+     "en": "30^0C",
+     "te": null
+    },
+    {
+     "en": "300^0C",
+     "te": null
+    },
+    {
+     "en": "60^0C",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0059",
+   "section": "physics",
+   "number": 59,
+   "question": {
+    "en": "1 Calorie is equal to",
+    "te": "1 కెలోరీ దీనికి సమానం"
+   },
+   "options": [
+    {
+     "en": "4186 J",
+     "te": null
+    },
+    {
+     "en": "418.6 J",
+     "te": null
+    },
+    {
+     "en": "41.86 J",
+     "te": null
+    },
+    {
+     "en": "4.186 J",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0060",
+   "section": "physics",
+   "number": 60,
+   "question": {
+    "en": "Boiling point of water at normal atmospheric pressure is",
+    "te": "సాదారణ వాతావరణ పీడనం వద్ద నీటి మరుగు స్థానం"
+   },
+   "options": [
+    {
+     "en": "0^0C",
+     "te": null
+    },
+    {
+     "en": "100^0C",
+     "te": null
+    },
+    {
+     "en": "110^0C",
+     "te": null
+    },
+    {
+     "en": "-5^0C",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0061",
+   "section": "physics",
+   "number": 61,
+   "question": {
+    "en": "A spherical mirror whose reflecting surface curved inwards is called",
+    "te": "ఒక గోళాకార దర్పణ పరావర్తన తలం లోపలివైపుకు వంగి వుంటే దానిని ఈ విధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Concave mirror",
+     "te": "పుటాకార దర్పణం"
+    },
+    {
+     "en": "Convex mirror",
+     "te": "కుంభాకార దర్పణం"
+    },
+    {
+     "en": "Plane mirror",
+     "te": "సమతల దర్పణం"
+    },
+    {
+     "en": "Plano convex mirror",
+     "te": "సమతల కుంభాకార దర్పణం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0062",
+   "section": "physics",
+   "number": 62,
+   "question": {
+    "en": "If an object is placed at centre of curvature in front of a concave mirror then the characteristics of image",
+    "te": "ఒక పుటాకార దర్పణం ముందు దాని వక్రత కేంద్రం వద్ద వస్తువును ఉంచినప్పుడు ప్రతిబింబ లక్షణాలు"
+   },
+   "options": [
+    {
+     "en": "Real, inverted and diminished",
+     "te": "నిజ, తలక్రిందులు మరియు క్షయీకృత"
+    },
+    {
+     "en": "Real, inverted and magnified",
+     "te": "నిజ, తలక్రిందులు మరియు వృద్దీకృత"
+    },
+    {
+     "en": "Real, inverted and same size",
+     "te": "నిజ, తలక్రిందులు మరియు సమాన పరిమాణం"
+    },
+    {
+     "en": "Virtual, erect and same size",
+     "te": "మిధ్యా, నిటారు మరియు సమాన పరిమాణం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0063",
+   "section": "physics",
+   "number": 63,
+   "question": {
+    "en": "To form an image at infinite distance, the object should be placed in front of a concave mirror at",
+    "te": "ప్రతిబింబం అనంత దూరంలో ఏర్పడటానికి వస్తువును పుటాకార దర్పణం ముందు ఈ స్థానం లో ఉంచాలి"
+   },
+   "options": [
+    {
+     "en": "At focus",
+     "te": "నాభి వద్ద"
+    },
+    {
+     "en": "At pole",
+     "te": "ధృవం వద్ద"
+    },
+    {
+     "en": "At centre of curvature",
+     "te": "వక్రత కేంద్రం వద్ద"
+    },
+    {
+     "en": "Between pole and focus",
+     "te": "ధృవం మరియు నాభి మధ్యలో"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 171,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0064",
+   "section": "physics",
+   "number": 64,
+   "question": {
+    "en": "This lens is called converging lens",
+    "te": "ఈ కటకాన్ని కేంద్రీకరణ కటకం అని పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Concave lens",
+     "te": "పుటాకార కటకం"
+    },
+    {
+     "en": "Convex lens",
+     "te": "కుంభాకార కటకం"
+    },
+    {
+     "en": "Plano concave lens",
+     "te": "సమతల పుటాకార కటకం"
+    },
+    {
+     "en": "Plano convex lens",
+     "te": "సమతల కుంభాకార కటకం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0065",
+   "section": "physics",
+   "number": 65,
+   "question": {
+    "en": "Lens formula among the following",
+    "te": "కింది వాటిలో కటక సూత్రం"
+   },
+   "options": [
+    {
+     "en": "1\nu + 1/v = 1/f",
+     "te": null
+    },
+    {
+     "en": "1\nv - 1/u = 1/f",
+     "te": null
+    },
+    {
+     "en": "1\nv = 1/f - 1/u",
+     "te": null
+    },
+    {
+     "en": "1\nu = 1/f - 1/v",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0066",
+   "section": "physics",
+   "number": 66,
+   "question": {
+    "en": "The power of the lens with focal length 2metres (in diapters)",
+    "te": "2 మీటర్ల నాబ్యాంతరం గల కటక సామర్ధ్యం (డై అప్టర్ లలో)"
+   },
+   "options": [
+    {
+     "en": "0.1",
+     "te": null
+    },
+    {
+     "en": "0.2",
+     "te": null
+    },
+    {
+     "en": "0.5",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0067",
+   "section": "physics",
+   "number": 67,
+   "question": {
+    "en": "The following material cannot be used to make a lens",
+    "te": "కటక తయారీకి ఉపయోగ పడని పదార్దం"
+   },
+   "options": [
+    {
+     "en": "Water",
+     "te": "నీరు"
+    },
+    {
+     "en": "Glass",
+     "te": "గాజు"
+    },
+    {
+     "en": "Plastic",
+     "te": "ప్లాస్టిక్"
+    },
+    {
+     "en": "Clay",
+     "te": "బంక మట్టి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0068",
+   "section": "physics",
+   "number": 68,
+   "question": {
+    "en": "The human eye forms the image of an object at its",
+    "te": "మానవుని కన్ను ఒక వస్తువు యొక్క ప్రతి బింబాన్ని ఇక్కడ ఏర్పరుస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Cornea",
+     "te": "కార్నియా"
+    },
+    {
+     "en": "Iris",
+     "te": "కనుపాప"
+    },
+    {
+     "en": "Pupil",
+     "te": "తారక"
+    },
+    {
+     "en": "Retina",
+     "te": "రెటీనా"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0069",
+   "section": "physics",
+   "number": 69,
+   "question": {
+    "en": "The change in the focal length of the eye lens is caused by the action of",
+    "te": "దీని వలన కంటి కటకం యొక్క నాబ్యాంతరం మారుతుంది"
+   },
+   "options": [
+    {
+     "en": "Pupil",
+     "te": "తారక"
+    },
+    {
+     "en": "Retina",
+     "te": "రెటీనా"
+    },
+    {
+     "en": "Ciliary muscles",
+     "te": "సిలియరీ కండరాలు"
+    },
+    {
+     "en": "Iris",
+     "te": "కనుపాప"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0070",
+   "section": "physics",
+   "number": 70,
+   "question": {
+    "en": "The splitting of white light into component colours is",
+    "te": "తెల్లని కాంతి దాని అంశీబూత రంగులుగా విడిపోవడాన్ని ఈ విదంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Scattering",
+     "te": "పరిక్షేపణము"
+    },
+    {
+     "en": "Dispersion",
+     "te": "విక్షేపణము"
+    },
+    {
+     "en": "Reflection",
+     "te": "పరావర్తనము"
+    },
+    {
+     "en": "Refraction",
+     "te": "వక్రీభవనము"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0071",
+   "section": "physics",
+   "number": 71,
+   "question": {
+    "en": "The defect arises due to gradual weakening of ciliary muscles and diminishing the flexibility of eye lens is",
+    "te": "సిలియారీ కండరాలు క్రమంగా బలహీన పడడం మరియు కంటి కటకం యొక్క సాగే గుణం తగ్గడం వలన ఏర్పడే లోపం"
+   },
+   "options": [
+    {
+     "en": "Myopia",
+     "te": "హ్రస్వ దృష్టి"
+    },
+    {
+     "en": "Hypermetropia",
+     "te": "ధీర్ఘదృష్టి"
+    },
+    {
+     "en": "Presbyopia",
+     "te": "చత్వారం"
+    },
+    {
+     "en": "blindness",
+     "te": "అంధత్వం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0072",
+   "section": "physics",
+   "number": 72,
+   "question": {
+    "en": "The lens used to correct the eye defect myopia",
+    "te": "హ్రస్వ దృష్టి లోపాన్ని సవరించుటకు వాడే కటకం"
+   },
+   "options": [
+    {
+     "en": "concave lens",
+     "te": "పుటాకార కటకం"
+    },
+    {
+     "en": "convex lens",
+     "te": "కుంభాకార కటకం"
+    },
+    {
+     "en": "plano convex lens",
+     "te": "సమతల కుంభాకార కటకం"
+    },
+    {
+     "en": "plano concave lens",
+     "te": "సమతల పుటాకార కటకం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0073",
+   "section": "physics",
+   "number": 73,
+   "question": {
+    "en": "The S.I unit of potential difference",
+    "te": "పొటెన్షియల్ బేధానికి S.I ప్రమాణం"
+   },
+   "options": [
+    {
+     "en": "Ampere",
+     "te": "ఆంపియర్"
+    },
+    {
+     "en": "Volt",
+     "te": "వోల్ట్"
+    },
+    {
+     "en": "Joule",
+     "te": "జౌల్"
+    },
+    {
+     "en": "Ohm",
+     "te": "ఓమ్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0074",
+   "section": "physics",
+   "number": 74,
+   "question": {
+    "en": "Work done in moving a charge of 2C across two points having a potential difference 12V is",
+    "te": "12 V పొటెన్షియల్ భేదం గల రెండు బిందువుల మధ్య 2 C ఆవేశాన్ని కదిలించుటకు జరగవలసిన పని"
+   },
+   "options": [
+    {
+     "en": "6 J",
+     "te": null
+    },
+    {
+     "en": "12 J",
+     "te": null
+    },
+    {
+     "en": "24 J",
+     "te": null
+    },
+    {
+     "en": "10 J",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0075",
+   "section": "physics",
+   "number": 75,
+   "question": {
+    "en": "If the length of the wire increased by 2 times, then the resistance of the wire increases by",
+    "te": "తీగ పొడవును 2 రెట్లు పెంచినప్పుడు ఆ తీగ నిరోధం విలువ ఇన్ని రెట్లు పెరుగును"
+   },
+   "options": [
+    {
+     "en": "2 times",
+     "te": "2 రెట్లు"
+    },
+    {
+     "en": "4 times",
+     "te": "4 రెట్లు"
+    },
+    {
+     "en": "½ times",
+     "te": "½ రెట్లు"
+    },
+    {
+     "en": "¼ times",
+     "te": "¼ రెట్లు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0076",
+   "section": "physics",
+   "number": 76,
+   "question": {
+    "en": "If the area of the cross section of the wire increases by 2 times, then the resistance increases by",
+    "te": "తీగ మధ్యచ్ఛేదన వైశాల్యాన్ని 2 రెట్లు పెంచినపుడు దాని నిరోధం విలువ ఇన్ని రెట్లు పెరుగుతుంది"
+   },
+   "options": [
+    {
+     "en": "2 times",
+     "te": "2 రెట్లు"
+    },
+    {
+     "en": "4 times",
+     "te": "4 రెట్లు"
+    },
+    {
+     "en": "½ times",
+     "te": "½ రెట్లు"
+    },
+    {
+     "en": "¼ times",
+     "te": "¼ రెట్లు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 172,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0077",
+   "section": "physics",
+   "number": 77,
+   "question": {
+    "en": "Resistors with resistance values 2 Ω, 4Ω are connected in series then the resultant resistance will be",
+    "te": "2 Ω, 4Ω నిరోధ విలువలు కలిగిన నిరోధాలను శ్రేణిలో కలిపినపుడు ఫలిత నిరోధ విలువ"
+   },
+   "options": [
+    {
+     "en": "2 Ω",
+     "te": null
+    },
+    {
+     "en": "4 Ω",
+     "te": null
+    },
+    {
+     "en": "6 Ω",
+     "te": null
+    },
+    {
+     "en": "1/6 Ω",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0078",
+   "section": "physics",
+   "number": 78,
+   "question": {
+    "en": "Resistors with resistances 5 Ω and 10 Ω are connected in parallel then the resultant resistance will be",
+    "te": "5 Ω మరియు 10 Ω నిరోధ విలువలు కలిగిన నిరోధాలను సమాంతరంగా కలిపినపుడు ఫలిత నిరోధం విలువ"
+   },
+   "options": [
+    {
+     "en": "5 Ω",
+     "te": null
+    },
+    {
+     "en": "15 Ω",
+     "te": null
+    },
+    {
+     "en": "3/10 Ω",
+     "te": null
+    },
+    {
+     "en": "10/3 Ω",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0079",
+   "section": "physics",
+   "number": 79,
+   "question": {
+    "en": "When a current of 2A passed through the resistance of 5 Ω then the potential difference between the terminals of resistor is",
+    "te": "5 Ω ల నిరోధం గుండా 2 A కరెంట్ ప్రవహిస్తున్నపుడు ఆ నిరోధం రెండు కొనల మధ్య పొటెన్షియల్ భేధం"
+   },
+   "options": [
+    {
+     "en": "3 V",
+     "te": null
+    },
+    {
+     "en": "2.5 V",
+     "te": null
+    },
+    {
+     "en": "0.4 V",
+     "te": null
+    },
+    {
+     "en": "10 V",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0080",
+   "section": "physics",
+   "number": 80,
+   "question": {
+    "en": "One kilo watt hour (KWH) is equal to",
+    "te": "ఒక కిలో వాట్ అవర్ (KWH) దీనికి సమానం"
+   },
+   "options": [
+    {
+     "en": "3.6×10^6 erg",
+     "te": "3.6×10^6 ఎర్గ్"
+    },
+    {
+     "en": "3.6×10^6 joul",
+     "te": "3.6×10^6 జౌల్"
+    },
+    {
+     "en": "3.6 erg",
+     "te": "3.6 ఎర్గ్"
+    },
+    {
+     "en": "3.6 joule",
+     "te": "3.6 జౌల్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0081",
+   "section": "physics",
+   "number": 81,
+   "question": {
+    "en": "The following terms does not represent electrical power in a circuit",
+    "te": "కింది వానిలో ఒక విద్యుత్ వలయంలో విద్యుత్ సామర్ధ్యమును సూచించనిది"
+   },
+   "options": [
+    {
+     "en": "i^2R",
+     "te": null
+    },
+    {
+     "en": "iR^2",
+     "te": null
+    },
+    {
+     "en": "V i",
+     "te": null
+    },
+    {
+     "en": "V^2/ R",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0082",
+   "section": "physics",
+   "number": 82,
+   "question": {
+    "en": "The S.I unit of resistivity",
+    "te": "నిరోదకత యొక్క S. I ప్రమాణం"
+   },
+   "options": [
+    {
+     "en": "Ω",
+     "te": null
+    },
+    {
+     "en": "Ω - m",
+     "te": null
+    },
+    {
+     "en": "Ω m^2",
+     "te": null
+    },
+    {
+     "en": "Ω / m^2",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0083",
+   "section": "physics",
+   "number": 83,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/dd5765bc98.png",
+   "imageW": 293,
+   "imageH": 393,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0084",
+   "section": "physics",
+   "number": 84,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/9ab9fc8ee4.png",
+   "imageW": 268,
+   "imageH": 418,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0085",
+   "section": "physics",
+   "number": 85,
+   "question": {
+    "en": "The physical quantity magnetic field has",
+    "te": "అయస్కాంత క్షేత్రం అనే భౌతిక రాశికి"
+   },
+   "options": [
+    {
+     "en": "Only magnitude",
+     "te": "పరిమాణం మాత్రమే ఉంటుంది"
+    },
+    {
+     "en": "Only direction",
+     "te": "దిశ మాత్రమే ఉంటుంది"
+    },
+    {
+     "en": "Both magnitude and direction",
+     "te": "పరిమాణం మరియు దిశ రెండు వుంటాయి"
+    },
+    {
+     "en": "Neither magnitude nor direction",
+     "te": "పరిమాణం కానీ దిశ కానీ ఉండదు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0086",
+   "section": "physics",
+   "number": 86,
+   "question": {
+    "en": "In right hand thumb rule, thumb indicates the direction of",
+    "te": "కుడిచేతి బొటన వేలి నిబంధనలో బొటన వేలు ఈ దిశను చూపుతుంది"
+   },
+   "options": [
+    {
+     "en": "Magnetic field",
+     "te": "అయస్కాంత క్షేత్రం"
+    },
+    {
+     "en": "Electric current",
+     "te": "విద్యుత్ ప్రవాహం"
+    },
+    {
+     "en": "Induced current",
+     "te": "నివేశ విద్యుత్"
+    },
+    {
+     "en": "Induced magnetic field",
+     "te": "నివేశ అయస్కాంత క్షేత్రం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0087",
+   "section": "physics",
+   "number": 87,
+   "question": {
+    "en": "The direction of magnetic lines of force outside the bar magnet",
+    "te": "దండయస్కాంత వెలుపల అయస్కాంత బలరేఖల దిశ"
+   },
+   "options": [
+    {
+     "en": "From north to south",
+     "te": "ఉత్తరం నుండి దక్షిణం వైపు"
+    },
+    {
+     "en": "From south to north",
+     "te": "దక్షిణం నుండి ఉత్తరం వైపు"
+    },
+    {
+     "en": "From east to west",
+     "te": "తూర్పు నుండి పడమరకు"
+    },
+    {
+     "en": "From west to east",
+     "te": "పడమర నుండి తూర్పుకు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0088",
+   "section": "physics",
+   "number": 88,
+   "question": {
+    "en": "If a current passes through the horizontal powerline from east to west then the direction of magnetic field at a point below the wire when viewed from east to west",
+    "te": "క్షితిజ సమాంతర విధ్యుత్ తీగలో విధ్యుత్ ప్రవాహం తూర్పు నుండి పడమర వైపు ప్రవహిస్తుంటే దాని కింద ఒక బిందువు వద్ద తూర్పు నుండి చూసినప్పుడు అయస్కాంత క్షేత్ర దిశ"
+   },
+   "options": [
+    {
+     "en": "In clockwise direction in a plane perpendicular to the wire",
+     "te": "తీగకు లంబ దిశలో గల తలంలో సవ్య దిశలో"
+    },
+    {
+     "en": "In anti clockwise direction in a plane perpendicular to the wire",
+     "te": "తీగకు లంబ దిశలో గల తలంలో అపసవ్యదిశలో"
+    },
+    {
+     "en": "In clockwise direction in a plane parallel to the wire",
+     "te": "తీగకు సమాంతర దిశలో గల తలంలో సవ్య దిశలో"
+    },
+    {
+     "en": "In anti clockwise direction in a plane parallel to the wire",
+     "te": "తీగకు సమాంతర దిశలో గల తలంలో అపసవ్యదిశలో"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0089",
+   "section": "physics",
+   "number": 89,
+   "question": {
+    "en": "In Flemings left hand rule central finger indicates the direction of",
+    "te": "ఫ్లెమింగ్ ఎడమ చేతి నిబందనలో మధ్య వేలు ఈ దిశను చూపిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Magnetic field",
+     "te": "అయస్కాంత క్షేత్రం"
+    },
+    {
+     "en": "Current",
+     "te": "విద్యుత్ ప్రవాహం"
+    },
+    {
+     "en": "Force on the conductor",
+     "te": "వాహకంపై పనిచేసే బలం"
+    },
+    {
+     "en": "Induced current",
+     "te": "నివేశ విద్యుత్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0090",
+   "section": "physics",
+   "number": 90,
+   "question": {
+    "en": "In Flemings left hand rule fore finger indicates the direction of",
+    "te": "ఫ్లెమింగ్ ఎడమ చేతి నిబందనలో చూపుడు వేలు ఈ దిశను చూపిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Magnetic field",
+     "te": "అయస్కాంత క్షేత్రం"
+    },
+    {
+     "en": "Current electricity",
+     "te": "విద్యుత్ ప్రవాహం"
+    },
+    {
+     "en": "Force on the conductor",
+     "te": "వాహకంపై పనిచేసే బలం"
+    },
+    {
+     "en": "Induced current",
+     "te": "నివేశ విద్యుత్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 173,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0091",
+   "section": "physics",
+   "number": 91,
+   "question": {
+    "en": "In Flemings left hand rule, thumb indicates the direction of",
+    "te": "ఫ్లెమింగ్ ఎడమ చేతి నిబందనలో బొటన వేలు ఈ దిశను చూపిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Magnetic field",
+     "te": "అయస్కాంత క్షేత్రం"
+    },
+    {
+     "en": "Current electricity",
+     "te": "విద్యుత్ ప్రవాహం"
+    },
+    {
+     "en": "Force on the conductor",
+     "te": "వాహకంపై పనిచేసే బలం"
+    },
+    {
+     "en": "Induced current",
+     "te": "నివేశ విద్యుత్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0092",
+   "section": "physics",
+   "number": 92,
+   "question": {
+    "en": "At the time of short circuit, the current in the circuit",
+    "te": "షార్ట్ సర్క్యూట్ సమయంలో వలయంలో విద్యుత్ ప్రవాహం"
+   },
+   "options": [
+    {
+     "en": "Reduces substantially",
+     "te": "గణనీయంగా తగ్గుతుంది"
+    },
+    {
+     "en": "Does not change",
+     "te": "మారదు"
+    },
+    {
+     "en": "Increases heavily",
+     "te": "బారీగా పెరుగుతుంది"
+    },
+    {
+     "en": "Vary continuously",
+     "te": "నిరంతరంగా మారుతూ ఉంటుంది"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0093",
+   "section": "physics",
+   "number": 93,
+   "question": {
+    "en": "Units of magnetic flux density is",
+    "te": "అయస్కాంత అభివాహ సాంద్రతకు ప్రమాణాలు"
+   },
+   "options": [
+    {
+     "en": "Weber",
+     "te": "వెబర్"
+    },
+    {
+     "en": "Weber- meter",
+     "te": "వెబర్- మీటర్"
+    },
+    {
+     "en": "Weber/meter",
+     "te": "వెబర్/మీటర్"
+    },
+    {
+     "en": "Weber/meter^2",
+     "te": "వెబర్/మీటర్^2"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0094",
+   "section": "physics",
+   "number": 94,
+   "question": {
+    "en": "If a charge ‘q’ move with a velocity ‘v’ perpendicular to the magnetic field ‘B’ then the magnetic force on the charge is",
+    "te": "‘q’ ఆవేశం ‘v’ వేగంతో ‘B’ అయస్కాంత క్షేత్రానికి లంబంగా కదులుతుంటే ఆ ఆవేశం పై పనిచేసే అయస్కాంత బలం"
+   },
+   "options": [
+    {
+     "en": "qvB",
+     "te": null
+    },
+    {
+     "en": "qvB\n2",
+     "te": null
+    },
+    {
+     "en": "qvB\n3",
+     "te": null
+    },
+    {
+     "en": "0",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0095",
+   "section": "physics",
+   "number": 95,
+   "question": {
+    "en": "Non-magnetic material among the following is",
+    "te": "కింది వాటిలో అనయస్కాంత పదార్ధం"
+   },
+   "options": [
+    {
+     "en": "Iron",
+     "te": "ఐరన్"
+    },
+    {
+     "en": "Cobalt",
+     "te": "కోబాల్ట్"
+    },
+    {
+     "en": "Nickel",
+     "te": "నికెల్"
+    },
+    {
+     "en": "Wood",
+     "te": "చెక్క"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0096",
+   "section": "physics",
+   "number": 96,
+   "question": {
+    "en": "If you cut the magnet into two pieces number of poles does each piece has",
+    "te": "ఒక ఆయస్కాంతాన్ని మీరు రెండు ముక్కలుగా చేస్తే ప్రతి ముక్కలో గల దృవాల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0097",
+   "section": "physics",
+   "number": 97,
+   "question": {
+    "en": "Bauxite is an ore of this metal",
+    "te": "బాక్సైట్ అనేది ఈ లోహము యొక్క దాతువు"
+   },
+   "options": [
+    {
+     "en": "Zinc",
+     "te": "జింక్"
+    },
+    {
+     "en": "Barium",
+     "te": "బేరియం"
+    },
+    {
+     "en": "Aluminium",
+     "te": "అల్యూమినియం"
+    },
+    {
+     "en": "Iron",
+     "te": "ఐరన్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0098",
+   "section": "physics",
+   "number": 98,
+   "question": {
+    "en": "Formula of cinnabar is",
+    "te": "సిన్నబార్ యొక్క ఫార్ములా"
+   },
+   "options": [
+    {
+     "en": "HgS",
+     "te": null
+    },
+    {
+     "en": "PbS",
+     "te": null
+    },
+    {
+     "en": "AlCl_3",
+     "te": null
+    },
+    {
+     "en": "MnO_2",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0099",
+   "section": "physics",
+   "number": 99,
+   "question": {
+    "en": "The impurity present in the ore is called",
+    "te": "దాతువులో ఉన్న మలినాలను ఈ విధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Gangue",
+     "te": "గ్యాంగ్"
+    },
+    {
+     "en": "Flux",
+     "te": "ద్రవకారి"
+    },
+    {
+     "en": "Slag",
+     "te": "లోహ మలం"
+    },
+    {
+     "en": "Mineral",
+     "te": "ఖనిజం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0100",
+   "section": "physics",
+   "number": 100,
+   "question": {
+    "en": "The reducing agent in thermite process is",
+    "te": "ధర్మిట్ విధానంలో క్షయకరణ కారకం"
+   },
+   "options": [
+    {
+     "en": "Al",
+     "te": null
+    },
+    {
+     "en": "Mg",
+     "te": null
+    },
+    {
+     "en": "Fe",
+     "te": null
+    },
+    {
+     "en": "Si",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0101",
+   "section": "physics",
+   "number": 101,
+   "question": {
+    "en": "The correct formula of gypsum",
+    "te": "జిప్సమ్ యొక్క సరియైన ఫార్ములా"
+   },
+   "options": [
+    {
+     "en": "CuSO_4. 2H_2O",
+     "te": null
+    },
+    {
+     "en": "CaSO_4. 1/2H_2O",
+     "te": null
+    },
+    {
+     "en": "CuSO_4. 5H_2O",
+     "te": null
+    },
+    {
+     "en": "CaSO_4. 2H_2O",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0102",
+   "section": "physics",
+   "number": 102,
+   "question": {
+    "en": "Corrosion occurs in the presence of",
+    "te": "లోహ క్షయం వీటి సమక్షంలో జరుగుతుంది"
+   },
+   "options": [
+    {
+     "en": "Oxygen and Carbon dioxide",
+     "te": "ఆక్సిజన్ మరియు కార్బన్ డై ఆక్సైడ్"
+    },
+    {
+     "en": "Oxygen and Water",
+     "te": "ఆక్సిజన్ మరియు నీరు"
+    },
+    {
+     "en": "Nitrogen and Water",
+     "te": "నైట్రోజన్ మరియు నీరు"
+    },
+    {
+     "en": "Oxygen and Nitrogen",
+     "te": "ఆక్సిజన్ మరియు నైట్రోజన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0103",
+   "section": "physics",
+   "number": 103,
+   "question": {
+    "en": "Heating the ore in the absence of air or oxygen is called",
+    "te": "ధాతువును గాలి లేదా ఆక్సిజన్ లేకుండా వేడిచేయడాన్ని ఈ విధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Roasting",
+     "te": "భర్జనము"
+    },
+    {
+     "en": "Smelting",
+     "te": "ప్రగలనము"
+    },
+    {
+     "en": "Calcination",
+     "te": "భస్మీకరణము"
+    },
+    {
+     "en": "Refining",
+     "te": "శుద్ధిచేయడము"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0104",
+   "section": "physics",
+   "number": 104,
+   "question": {
+    "en": "Heating the ore strongly in the presence of air or oxygen is called",
+    "te": "ధాతువును గాలి లేదా ఆక్సిజన్ సమక్షములో అధిక ఉష్ణోగ్రతకు వేడి చేయడాన్ని ఈ విధంగా పిలిస్తారు"
+   },
+   "options": [
+    {
+     "en": "Roasting",
+     "te": "భర్జనము"
+    },
+    {
+     "en": "Smelting",
+     "te": "ప్రగలనము"
+    },
+    {
+     "en": "Calcination",
+     "te": "భస్మీకరణము"
+    },
+    {
+     "en": "Refining",
+     "te": "శుద్ధిచేయడము"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0105",
+   "section": "physics",
+   "number": 105,
+   "question": {
+    "en": "Heating the ore strongly by adding flux is called",
+    "te": "ధాతువును ద్రవకారితో కలిపి అధిక ఉష్ణోగ్రతకు వేడిచేయడాన్ని ఈ విధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Roasting",
+     "te": "భర్జనము"
+    },
+    {
+     "en": "Smelting",
+     "te": "ప్రగలనము"
+    },
+    {
+     "en": "Calcination",
+     "te": "భస్మీకరణము"
+    },
+    {
+     "en": "Refining",
+     "te": "శుద్ధిచేయడము"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0106",
+   "section": "physics",
+   "number": 106,
+   "question": {
+    "en": "The most abundant metal in earth crust is",
+    "te": "భూపటలంలో అతి సమృద్దిగా లభించే లోహం"
+   },
+   "options": [
+    {
+     "en": "Silver",
+     "te": "వెండి"
+    },
+    {
+     "en": "Aluminium",
+     "te": "అల్యూమినియం"
+    },
+    {
+     "en": "Zinc",
+     "te": "జింకు"
+    },
+    {
+     "en": "Iron",
+     "te": "ఐరన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 174,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0107",
+   "section": "physics",
+   "number": 107,
+   "question": {
+    "en": "Bronze is an alloy of these metals",
+    "te": "కంచు అనేది ఈ లోహాల మిశ్రమ లోహం"
+   },
+   "options": [
+    {
+     "en": "Iron and Copper",
+     "te": "ఐరన్ మరియు రాగి"
+    },
+    {
+     "en": "Copper and Aluminium",
+     "te": "రాగి మరియు అల్యూమినియం"
+    },
+    {
+     "en": "Copper and Tin",
+     "te": "రాగి మరియు తగరం"
+    },
+    {
+     "en": "Zinc and Tin",
+     "te": "జింక్ మరియు తగరం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0108",
+   "section": "physics",
+   "number": 108,
+   "question": {
+    "en": "The oil used in froth floatation process is",
+    "te": "ప్లవన ప్రక్రియలోవాడే నూనె"
+   },
+   "options": [
+    {
+     "en": "Kerosene oil",
+     "te": "కిరోసిన్ నూనె"
+    },
+    {
+     "en": "Pine oil",
+     "te": "పైన్ నూనె"
+    },
+    {
+     "en": "Coconut oil",
+     "te": "కొబ్బరి నూనె"
+    },
+    {
+     "en": "Olive oil",
+     "te": "ఆలివ్ నూనె"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0109",
+   "section": "physics",
+   "number": 109,
+   "question": {
+    "en": "Formula of chloroform",
+    "te": "క్లోరోఫామ్ యొక్క ఫార్ములా"
+   },
+   "options": [
+    {
+     "en": "CH_3COOH",
+     "te": null
+    },
+    {
+     "en": "CHCl_3",
+     "te": null
+    },
+    {
+     "en": "CH_3CH_2OH",
+     "te": null
+    },
+    {
+     "en": "CH_4",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0110",
+   "section": "physics",
+   "number": 110,
+   "question": {
+    "en": "The major component of biogas and compressed natural gas is",
+    "te": "బయో గ్యాస్ మరియు సంపీడ్య సహజ వాయువు నందు ముఖ్య అనుఘటకం"
+   },
+   "options": [
+    {
+     "en": "Ehane",
+     "te": "ఈథేన్"
+    },
+    {
+     "en": "Methane",
+     "te": "మీథేన్"
+    },
+    {
+     "en": "Propane",
+     "te": "ప్రొపేన్"
+    },
+    {
+     "en": "Butane",
+     "te": "బ్యూటేన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0111",
+   "section": "physics",
+   "number": 111,
+   "question": {
+    "en": "Butanone is a four carbon compound with the functional group",
+    "te": "బ్యుటనోన్ అనేది ఈ ప్రమేయ సమూహమును కలిగి ఉన్న నాలుగు కార్బన్ల సమ్మేళనం"
+   },
+   "options": [
+    {
+     "en": "Carboxylic acid",
+     "te": "కార్బాక్సిలిక్ ఆమ్లం"
+    },
+    {
+     "en": "Aldehyde",
+     "te": "ఆల్డిహైడ్"
+    },
+    {
+     "en": "Ketone",
+     "te": "కీటోన్"
+    },
+    {
+     "en": "Alcohol",
+     "te": "ఆల్కహాల్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0112",
+   "section": "physics",
+   "number": 112,
+   "question": {
+    "en": "Saturated hydrocarbon among the following",
+    "te": "కింది వానిలో సంతృప్త హైడ్రో కార్బన్"
+   },
+   "options": [
+    {
+     "en": "Ethane",
+     "te": "ఈథెన్"
+    },
+    {
+     "en": "Ethene",
+     "te": "ఈథీన్"
+    },
+    {
+     "en": "Ethyne",
+     "te": "ఇథైన్"
+    },
+    {
+     "en": "Methene",
+     "te": "మీథీన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0113",
+   "section": "physics",
+   "number": 113,
+   "question": {
+    "en": "Chemical formula of benzene is",
+    "te": "బెంజీన్ యొక్క రసాయన ఫార్ములా"
+   },
+   "options": [
+    {
+     "en": "C_4H_10",
+     "te": null
+    },
+    {
+     "en": "C_5H_6",
+     "te": null
+    },
+    {
+     "en": "C_6H_6",
+     "te": null
+    },
+    {
+     "en": "C_6H_12",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0114",
+   "section": "physics",
+   "number": 114,
+   "question": {
+    "en": "Formula of alcohol functional group",
+    "te": "ఆల్కహాల్ ప్రమేయ సమూహం ఫార్ములా"
+   },
+   "options": [
+    {
+     "en": "-OH",
+     "te": null
+    },
+    {
+     "en": "-COOH",
+     "te": null
+    },
+    {
+     "en": "-CHO",
+     "te": null
+    },
+    {
+     "en": "-NH_2",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0115",
+   "section": "physics",
+   "number": 115,
+   "question": {
+    "en": "Catalyst used in the hydrogenation of oils",
+    "te": "నూనెల హైడ్రోజనీకరణం నందు ఉపయోగపడే ఉత్ప్రేరకం"
+   },
+   "options": [
+    {
+     "en": "Iron",
+     "te": "ఐరన్"
+    },
+    {
+     "en": "Nickle",
+     "te": "నికెల్"
+    },
+    {
+     "en": "Chromium",
+     "te": "క్రోమియం"
+    },
+    {
+     "en": "Manganese",
+     "te": "మాంగనీస్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0116",
+   "section": "physics",
+   "number": 116,
+   "question": {
+    "en": "Ethanol is commonly called as",
+    "te": "ఇథనోల్ను సాదారణంగా ఇలా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Alcohol",
+     "te": "ఆల్కహాల్"
+    },
+    {
+     "en": "Acid",
+     "te": "ఆమ్లం"
+    },
+    {
+     "en": "Ketone",
+     "te": "కీటోన్"
+    },
+    {
+     "en": "Ester",
+     "te": "ఎస్టర్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0117",
+   "section": "physics",
+   "number": 117,
+   "question": {
+    "en": "Ethanoic acid is commonly called as",
+    "te": "ఇథనోయిక్ ఆమ్లాన్ని సాధారణంగా ఇలా కూడా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Hydrochloric acid",
+     "te": "హైడ్రో క్లోరిక్ ఆమ్లం"
+    },
+    {
+     "en": "Sulphuric acid",
+     "te": "సల్ఫ్యూరిక్ ఆమ్లం"
+    },
+    {
+     "en": "Acetic acid",
+     "te": "ఎసిటిక్ ఆమ్లం"
+    },
+    {
+     "en": "Nitric acid",
+     "te": "నైట్రిక్ ఆమ్లం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0118",
+   "section": "physics",
+   "number": 118,
+   "question": {
+    "en": "The name of hydrocarbon C_4H_8",
+    "te": "C_4H_8 హైడ్రోకార్బన్ యొక్క పేరు"
+   },
+   "options": [
+    {
+     "en": "Butane",
+     "te": "బ్యూటేన్"
+    },
+    {
+     "en": "Butene",
+     "te": "బ్యూటీన్"
+    },
+    {
+     "en": "Butyne",
+     "te": "బ్యూటైన్"
+    },
+    {
+     "en": "Propane",
+     "te": "ప్రోపేన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0119",
+   "section": "physics",
+   "number": 119,
+   "question": {
+    "en": "Carbon has the ability to form long chains with other carbon elements called",
+    "te": "కార్బన్ ఇతర పరమాణువులతో కలిసి పొడవైన గొలుసులు వంటి సమ్మేళనాలను ఏర్పరచుటను ఈ విధంగా అంటారు"
+   },
+   "options": [
+    {
+     "en": "Isomerism",
+     "te": "సాదృశ్యత"
+    },
+    {
+     "en": "Catenation",
+     "te": "శృంఖల ధర్మం"
+    },
+    {
+     "en": "Formation of multiple bonds",
+     "te": "బహు బంధాల ఏర్పాటు"
+    },
+    {
+     "en": "Substitution",
+     "te": "ప్రతిక్షేపణ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0120",
+   "section": "physics",
+   "number": 120,
+   "question": {
+    "en": "Methane undergo substitution reaction with chlorine in the presence of sunlight to form",
+    "te": "మీథేన్ క్లోరిన్ తో సూర్యకాంతి సమక్షంలో ప్రతిక్షేపణ చర్యలలో పాల్గొని వీటిని ఏర్పరుస్తాయి"
+   },
+   "options": [
+    {
+     "en": "Methyl chloride and HCl",
+     "te": "మిథైల్ క్లోరైడ్ మరియు HCl"
+    },
+    {
+     "en": "Ethyl chloride and HCl",
+     "te": "ఇథైల్ క్లోరైడ్ మరియు HCl"
+    },
+    {
+     "en": "Methyl chloride and CO_2",
+     "te": "మిథైల్ క్లోరైడ్ మరియు CO_2"
+    },
+    {
+     "en": "Ethyl chloride and CO_2",
+     "te": "ఇథైల్ క్లోరైడ్ మరియు CO_2"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0121",
+   "section": "physics",
+   "number": 121,
+   "question": {
+    "en": "The following cannot be changed easily by friction",
+    "te": "ఘర్షణ ద్వారా ఈ కింది వాటిని త్వరగా ఆవేశితం చేయలేము"
+   },
+   "options": [
+    {
+     "en": "A plastic scale",
+     "te": "ప్లాస్టిక్ స్కేలు"
+    },
+    {
+     "en": "A copper rod",
+     "te": "రాగి కడ్డీ"
+    },
+    {
+     "en": "An inflated balloon",
+     "te": "ఊదిన బెలూన్"
+    },
+    {
+     "en": "A woollen cloth",
+     "te": "ఉన్ని వస్త్రం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 175,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0122",
+   "section": "physics",
+   "number": 122,
+   "question": {
+    "en": "Choose the correct option\nA: Like charges repel each other\nB: Unlike charges attract each other",
+    "te": "సరైన ఐచ్ఛికాన్ని ఎన్నుకోండి\nA: సజాతి ఆవేశాలు వికర్షించుకుంటాయి\nB: విజాతి ఆవేశాలు ఆకర్షించుకుంటాయి"
+   },
+   "options": [
+    {
+     "en": "Both A and B are correct",
+     "te": null
+    },
+    {
+     "en": "Both A and B are incorrect",
+     "te": null
+    },
+    {
+     "en": "A is correct, B is incorrect",
+     "te": null
+    },
+    {
+     "en": "A is incorrect, B is correct",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0123",
+   "section": "physics",
+   "number": 123,
+   "question": {
+    "en": "A device used to test whether an object is carrying a charge or not is",
+    "te": "ఒక వస్తువు ఆవేశాన్ని కలిగి ఉందా లేదా అని పరీక్షించుటకు ఉపయోగపడే పరికరం"
+   },
+   "options": [
+    {
+     "en": "Microscope",
+     "te": "మైక్రోస్కోప్"
+    },
+    {
+     "en": "Colonoscope",
+     "te": "కొలనొస్కోప్"
+    },
+    {
+     "en": "Electroscope",
+     "te": "ఎలక్ట్రోస్కోప్"
+    },
+    {
+     "en": "Telescope",
+     "te": "టెలిస్కోప్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0124",
+   "section": "physics",
+   "number": 124,
+   "question": {
+    "en": "When a glass rod rubbed with silk cloth",
+    "te": "గాజు కడ్డీని సిల్కు గుడ్డతో రుద్దినప్పుడు"
+   },
+   "options": [
+    {
+     "en": "The glass rod and the silk cloth both acquire positive charge",
+     "te": "గాజు కడ్డీ మరియు సిల్కు గుడ్డ రెండూ ధనావేశాన్ని పొందుతాయి"
+    },
+    {
+     "en": "The glass rod and the silk cloth both acquire negative charge",
+     "te": "గాజు కడ్డీ మరియు సిల్కు గుడ్డ రెండూ ఋణావేశాన్ని పొందుతాయి"
+    },
+    {
+     "en": "The rod acquire positive charge and the cloth acquire negative charge",
+     "te": "కడ్డీ ధనావేశాన్ని మరియు గుడ్డ రుణావేశాన్ని పొందుతాయి"
+    },
+    {
+     "en": "The rod acquire negative charge and the cloth acquire positive charge",
+     "te": "కడ్డీ ఋణావేశాన్ని మరియు గుడ్డ ధనావేశాన్ని పొందుతాయి"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0125",
+   "section": "physics",
+   "number": 125,
+   "question": {
+    "en": "The uppermost layer of the earth",
+    "te": "భూమి యొక్క పొరలలో అన్నిటికన్నా పైన ఉన్న పొర"
+   },
+   "options": [
+    {
+     "en": "Crust",
+     "te": "భూపటలం"
+    },
+    {
+     "en": "Mantle",
+     "te": "భూ ప్రావారము"
+    },
+    {
+     "en": "Inner core",
+     "te": "అంతర కేంద్రం"
+    },
+    {
+     "en": "Outer core",
+     "te": "బాహ్య కేంద్రం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0126",
+   "section": "physics",
+   "number": 126,
+   "question": {
+    "en": "Physical change among the following is",
+    "te": "కింది వాటిలో బౌతిక మార్పు"
+   },
+   "options": [
+    {
+     "en": "Converting ice into water",
+     "te": "మంచు నీరుగా మార్చుట"
+    },
+    {
+     "en": "Rusting of iron",
+     "te": "ఇనుము తుప్పు పట్టుట"
+    },
+    {
+     "en": "Burning of magnesium ribbon",
+     "te": "మెగ్నీషియం రిబ్బనును మండించుట"
+    },
+    {
+     "en": "Changing milk into curd",
+     "te": "పాలను పెరుగుగా మార్చుట"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0127",
+   "section": "physics",
+   "number": 127,
+   "question": {
+    "en": "The gas released by the action of vinegar with baking soda",
+    "te": "వెనిగర్ ను బేకింగ్ సోడాతో కలిపి చర్య నొందించడం ద్వారా విడుదలయ్యే వాయువు"
+   },
+   "options": [
+    {
+     "en": "Hydrogen",
+     "te": "హైడ్రోజన్"
+    },
+    {
+     "en": "Oxygen",
+     "te": "ఆక్సిజన్"
+    },
+    {
+     "en": "Carbon dioxide",
+     "te": "కార్బన్ డైఆక్సైడ్"
+    },
+    {
+     "en": "Nitrogen",
+     "te": "నైట్రోజన్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0128",
+   "section": "physics",
+   "number": 128,
+   "question": {
+    "en": "The chemical change among the following is",
+    "te": "కింది వాటిలో రసాయన మార్పు"
+   },
+   "options": [
+    {
+     "en": "Converting ice into water",
+     "te": "మంచుగడ్డ నీరుగా మార్చుట"
+    },
+    {
+     "en": "Cutting a paper into four parts",
+     "te": "పేపరును నాలుగు భాగాలుగా చేయుట"
+    },
+    {
+     "en": "Stretching a rubber band",
+     "te": "రబ్బరు బ్యాండును సాగదీయుట"
+    },
+    {
+     "en": "Burning crackers",
+     "te": "బాణాసంచా కాల్చుట"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0129",
+   "section": "physics",
+   "number": 129,
+   "question": {
+    "en": "The process of depositing this metal layer on iron articles called as galvanisation",
+    "te": "ఇనుముపై ఈ లోహ పూత పూసే ప్రక్రియను గాల్వనీకరణము అంటారు"
+   },
+   "options": [
+    {
+     "en": "Aluminium",
+     "te": "అల్యూమినియం"
+    },
+    {
+     "en": "Chromium",
+     "te": "క్రోమియం"
+    },
+    {
+     "en": "Zinc",
+     "te": "జింక్"
+    },
+    {
+     "en": "Copper",
+     "te": "రాగి"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0130",
+   "section": "physics",
+   "number": 130,
+   "question": {
+    "en": "The chemical name of baking soda is",
+    "te": "వంట సోడా రసాయన నామము"
+   },
+   "options": [
+    {
+     "en": "Sodium carbonate",
+     "te": "సోడియం కార్బోనేట్"
+    },
+    {
+     "en": "Sodium bicarbonate",
+     "te": "సోడియం బై కార్బోనేట్"
+    },
+    {
+     "en": "Sodium sulphate",
+     "te": "సోడియం సల్ఫేట్"
+    },
+    {
+     "en": "Sodium chloride",
+     "te": "సోడియం క్లోరైడ్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0131",
+   "section": "physics",
+   "number": 131,
+   "question": {
+    "en": "Choose the correct option\nA: Iron and rust are different substances\nB: Condensation is a physical change",
+    "te": "సరైన ఐచ్ఛికాన్ని ఎన్నుకోండి\nA: ఇనుము మరియు తుప్పు వేరు వేరు పదార్దాలు\nB: సాంద్రీకరణం ఒక భౌతిక మార్పు"
+   },
+   "options": [
+    {
+     "en": "Both A and B are correct",
+     "te": null
+    },
+    {
+     "en": "Both A and B are incorrect",
+     "te": null
+    },
+    {
+     "en": "A is correct, B is incorrect",
+     "te": null
+    },
+    {
+     "en": "A is incorrect, B is correct",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0132",
+   "section": "physics",
+   "number": 132,
+   "question": {
+    "en": "Freezing mixture is a combination of",
+    "te": "ఘనీభవన మిశ్రమం ఈ రెండింటి యొక్క కలయిక"
+   },
+   "options": [
+    {
+     "en": "Ice and water",
+     "te": "మంచు మరియు నీరు"
+    },
+    {
+     "en": "Ice and common salt",
+     "te": "మంచు మరియు ఉప్పు"
+    },
+    {
+     "en": "Water and common salt",
+     "te": "నీరు మరియు ఉప్పు"
+    },
+    {
+     "en": "Water and starch",
+     "te": "నీరు మరియు పిండి పదార్ధం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0133",
+   "section": "physics",
+   "number": 133,
+   "question": {
+    "en": "The surface phenomenon among the following",
+    "te": "క్రింది వాటిలో ఉపరితల దృగ్విషయం"
+   },
+   "options": [
+    {
+     "en": "Melting",
+     "te": "ద్రవీభవనం"
+    },
+    {
+     "en": "Boiling",
+     "te": "మరుగుట"
+    },
+    {
+     "en": "Evaporation",
+     "te": "భాష్పీభవనం"
+    },
+    {
+     "en": "Deposition",
+     "te": "నిక్షేపణం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0134",
+   "section": "physics",
+   "number": 134,
+   "question": {
+    "en": "Metal present in liquid state at room temperature",
+    "te": "గది ఉష్ణోగ్రత వద్ద ద్రవస్థితిలో ఉండే లోహం"
+   },
+   "options": [
+    {
+     "en": "Sodium",
+     "te": "సోడియం"
+    },
+    {
+     "en": "Potassium",
+     "te": "పొటాషియం"
+    },
+    {
+     "en": "Calcium",
+     "te": "కాల్షియం"
+    },
+    {
+     "en": "Mercury",
+     "te": "పాదరసం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0135",
+   "section": "physics",
+   "number": 135,
+   "question": {
+    "en": "Among the following example for metalloid",
+    "te": "క్రింది వానిలో అర్ధలోహానికి ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Silicon",
+     "te": "సిలికాన్"
+    },
+    {
+     "en": "Iron",
+     "te": "ఐరన్"
+    },
+    {
+     "en": "Sulphur",
+     "te": "సల్ఫర్"
+    },
+    {
+     "en": "Chlorine",
+     "te": "క్లోరిన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 176,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0136",
+   "section": "physics",
+   "number": 136,
+   "question": {
+    "en": "Example for homogeneous mixture",
+    "te": "సజాతీయ మిశ్రమానికి ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Sand and salt",
+     "te": "ఇసుక మరియు ఉప్పు"
+    },
+    {
+     "en": "Sugar and salt",
+     "te": "చక్కెర మరియు ఉప్పు"
+    },
+    {
+     "en": "Water and oil",
+     "te": "నీరు మరియు నూనె"
+    },
+    {
+     "en": "Salt and water",
+     "te": "ఉప్పు మరియు నీరు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0137",
+   "section": "physics",
+   "number": 137,
+   "question": {
+    "en": "Example for heterogenous mixture",
+    "te": "విజాతీయ మిశ్రమానికి ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Water in alcohol",
+     "te": "ఆల్కహాల్లో ఉన్న నీరు"
+    },
+    {
+     "en": "Salt in water",
+     "te": "నీటిలో ఉప్పు"
+    },
+    {
+     "en": "Sulphur in carbon disulphide",
+     "te": "కార్బన్ డై సల్ఫైడ్లో సల్ఫర్"
+    },
+    {
+     "en": "Water in oil",
+     "te": "నూనెలో కలిసి ఉన్న నీరు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0138",
+   "section": "physics",
+   "number": 138,
+   "question": {
+    "en": "The percentage of Oxygen and Nitrogen in air respectively",
+    "te": "గాలిలో ఆక్సిజన్ మరియు నైట్రోజన్ శాతాలు వరుసగా"
+   },
+   "options": [
+    {
+     "en": "21, 78",
+     "te": null
+    },
+    {
+     "en": "78, 21",
+     "te": null
+    },
+    {
+     "en": "10, 80",
+     "te": null
+    },
+    {
+     "en": "80, 10",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0139",
+   "section": "physics",
+   "number": 139,
+   "question": {
+    "en": "CNG means",
+    "te": "CNG అనగా"
+   },
+   "options": [
+    {
+     "en": "Controlled Natural Gas",
+     "te": null
+    },
+    {
+     "en": "Compressed Natural Gas",
+     "te": null
+    },
+    {
+     "en": "Compressed Nature Gas",
+     "te": null
+    },
+    {
+     "en": "Controlled Nature Gas",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0140",
+   "section": "physics",
+   "number": 140,
+   "question": {
+    "en": "The melting point of Ice is nearly (in Kelvin)",
+    "te": "మంచు ద్రవీభవన స్థానం సుమారుగా (కెల్విన్లలో)"
+   },
+   "options": [
+    {
+     "en": "100",
+     "te": null
+    },
+    {
+     "en": "273.15",
+     "te": null
+    },
+    {
+     "en": "0",
+     "te": null
+    },
+    {
+     "en": "373.15",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0141",
+   "section": "physics",
+   "number": 141,
+   "question": {
+    "en": "Example of a substance that Sublimise",
+    "te": "ఉత్పతనం చెందు పదార్ధమునకు ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Camphor",
+     "te": "కర్పూరం"
+    },
+    {
+     "en": "Common salt",
+     "te": "సాధారణ ఉప్పు"
+    },
+    {
+     "en": "Ice",
+     "te": "మంచు"
+    },
+    {
+     "en": "Magnesium",
+     "te": "మెగ్నీషియం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0142",
+   "section": "physics",
+   "number": 142,
+   "question": {
+    "en": "Changing directly from gaseous state to solid state without converting into liquid state called",
+    "te": "ద్రవస్థితిలోకి మారకుండా వాయు స్థితి నుండి నేరుగా ఘన స్థితికి మారడాన్ని ఈ విధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Melting",
+     "te": "ద్రవీభవనం"
+    },
+    {
+     "en": "Sublimation",
+     "te": "ఉత్పతనం"
+    },
+    {
+     "en": "Deposition",
+     "te": "నిక్షేపణం"
+    },
+    {
+     "en": "Crystallization",
+     "te": "స్పటికీకరణం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0143",
+   "section": "physics",
+   "number": 143,
+   "question": {
+    "en": "The rate of evaporation increases with",
+    "te": "భాష్పీభవన రేటు దీనితో పెరుగుతుంది"
+   },
+   "options": [
+    {
+     "en": "Increase in surface area",
+     "te": "ఉపరితల వైశాల్యంలో పెరుగుదల"
+    },
+    {
+     "en": "Decrease in temperature",
+     "te": "ఉష్ణోగ్రతలో తగ్గుదల"
+    },
+    {
+     "en": "High humidity",
+     "te": "అధిక ఆర్ద్రత"
+    },
+    {
+     "en": "Decrease in wind speed",
+     "te": "గాలి వేగంలో తగ్గుదల"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0144",
+   "section": "physics",
+   "number": 144,
+   "question": {
+    "en": "300 K value in Celsius scale",
+    "te": "300 K విలువ సెల్సియస్ స్కేలు నందు"
+   },
+   "options": [
+    {
+     "en": "100^0C",
+     "te": null
+    },
+    {
+     "en": "273^0C",
+     "te": null
+    },
+    {
+     "en": "27^0C",
+     "te": null
+    },
+    {
+     "en": "573^0C",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0145",
+   "section": "physics",
+   "number": 145,
+   "question": {
+    "en": "The chemical formula of Magnesium Chloride",
+    "te": "మెగ్నీషియం క్లోరైడ్ రసాయన సాంకేతికం"
+   },
+   "options": [
+    {
+     "en": "MgCl",
+     "te": null
+    },
+    {
+     "en": "MgCl_2",
+     "te": null
+    },
+    {
+     "en": "Mg_2Cl",
+     "te": null
+    },
+    {
+     "en": "Mg_2Cl_2",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0146",
+   "section": "physics",
+   "number": 146,
+   "question": {
+    "en": "Molecular mass of CaCl_2",
+    "te": "CaCl_2 అణుద్రవ్య రాశి"
+   },
+   "options": [
+    {
+     "en": "75 u",
+     "te": null
+    },
+    {
+     "en": "11 u",
+     "te": null
+    },
+    {
+     "en": "106 u",
+     "te": null
+    },
+    {
+     "en": "111 u",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0147",
+   "section": "physics",
+   "number": 147,
+   "question": {
+    "en": "Among the following the element with atomicity One",
+    "te": "క్రింది వానిలో పరమాణుకత విలువ ఒకటి గల మూలకం"
+   },
+   "options": [
+    {
+     "en": "Helium",
+     "te": "హీలియం"
+    },
+    {
+     "en": "Oxygen",
+     "te": "ఆక్సిజన్"
+    },
+    {
+     "en": "Hydrogen",
+     "te": "హైడ్రోజన్"
+    },
+    {
+     "en": "Nitrogen",
+     "te": "నైట్రోజన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0148",
+   "section": "physics",
+   "number": 148,
+   "question": {
+    "en": "The ratio of Nitrogen and Hydrogen in Ammonia by mass",
+    "te": "అమ్మోనియాలో నైట్రోజన్ మరియు హైడ్రోజన్ల ద్రవ్యరాశి నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "14:3",
+     "te": null
+    },
+    {
+     "en": "7:3",
+     "te": null
+    },
+    {
+     "en": "7:1",
+     "te": null
+    },
+    {
+     "en": "14:1",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0149",
+   "section": "physics",
+   "number": 149,
+   "question": {
+    "en": "The symbol of Carbonate ion is",
+    "te": "కార్బోనేట్ అయాన్ సంకేతం"
+   },
+   "options": [
+    {
+     "en": "CO_3^−",
+     "te": null
+    },
+    {
+     "en": "CO_3^−2",
+     "te": null
+    },
+    {
+     "en": "CO_3^−3",
+     "te": null
+    },
+    {
+     "en": "CO^+2",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 177,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0150",
+   "section": "physics",
+   "number": 150,
+   "question": {
+    "en": "Tetra atomic element among the following is",
+    "te": "క్రింది వాటిలో చతు:పరమాణుక మూలకం"
+   },
+   "options": [
+    {
+     "en": "Oxygen",
+     "te": "ఆక్సిజన్"
+    },
+    {
+     "en": "Sulphur",
+     "te": "సల్పర్"
+    },
+    {
+     "en": "Argon",
+     "te": "ఆర్గాన్"
+    },
+    {
+     "en": "Phosphorous",
+     "te": "పాస్ఫరస్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0151",
+   "section": "physics",
+   "number": 151,
+   "question": {
+    "en": "The number of valency shell electrons present in Chlorine atom",
+    "te": "క్లోరిన్ పరమాణువు బాహ్య కక్ష్యలో గల ఎలక్ట్రాన్ల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "7",
+     "te": null
+    },
+    {
+     "en": "8",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0152",
+   "section": "physics",
+   "number": 152,
+   "question": {
+    "en": "The number of protons present in Tritium (_1H^3)",
+    "te": "ట్రిటియం (_1H^3)లో గల ప్రొటాన్ల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0153",
+   "section": "physics",
+   "number": 153,
+   "question": {
+    "en": "The correct electron configuration of Sodium (Na)",
+    "te": "సోడియం (Na) యొక్క సరైన ఎలక్ట్రాన్ విన్యాసం"
+   },
+   "options": [
+    {
+     "en": "2, 8",
+     "te": null
+    },
+    {
+     "en": "2, 8,1",
+     "te": null
+    },
+    {
+     "en": "2, 1, 8",
+     "te": null
+    },
+    {
+     "en": "8, 2, 1",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0154",
+   "section": "physics",
+   "number": 154,
+   "question": {
+    "en": "Rutherford’s Alpha particle scattering experiment was responsible for the discovery of",
+    "te": "రూథర్ఫర్డ్ ఆల్ఫా కణ పరిక్షేపణ ప్రయోగం ద్వారా కనుగొనబడినది"
+   },
+   "options": [
+    {
+     "en": "Atomic nucleus",
+     "te": "పరమాణు కేంద్రకం"
+    },
+    {
+     "en": "Electron",
+     "te": "ఎలక్ట్రాన్"
+    },
+    {
+     "en": "Proton",
+     "te": "ప్రొటాన్"
+    },
+    {
+     "en": "Neutron",
+     "te": "న్యూట్రాన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0155",
+   "section": "physics",
+   "number": 155,
+   "question": {
+    "en": "Isotopes of an element have",
+    "te": "మూలక ఐసోటోపులు కలిగి ఉండునది"
+   },
+   "options": [
+    {
+     "en": "The same physical properties",
+     "te": "ఒకే భౌతిక ధర్మాలు"
+    },
+    {
+     "en": "Different chemical properties",
+     "te": "వేర్వేరు రసాయన ధర్మాలు"
+    },
+    {
+     "en": "Different number of neutrons",
+     "te": "వేర్వేరు న్యూట్రాన్ల సంఖ్య"
+    },
+    {
+     "en": "Different atomic numbers",
+     "te": "వేర్వేరు పరమాణు సంఖ్యలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0156",
+   "section": "physics",
+   "number": 156,
+   "question": {
+    "en": "Isotope used as a fuel in nuclear reactors",
+    "te": "న్యూక్లియర్ రియాక్టర్లలో ఇంధనంగా వాడే ఐసోటోపు"
+   },
+   "options": [
+    {
+     "en": "Cobalt",
+     "te": "కోబాల్ట్"
+    },
+    {
+     "en": "Uranium",
+     "te": "యురేనియం"
+    },
+    {
+     "en": "Iodine",
+     "te": "అయోడిన్"
+    },
+    {
+     "en": "Carbon",
+     "te": "కార్బన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0157",
+   "section": "physics",
+   "number": 157,
+   "question": {
+    "en": "The ability of metals to be drawn into thin wires is called",
+    "te": "లోహాలను సన్నని తీగలుగా మార్చగలిగే ధర్మాన్ని ఇలా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Malleability",
+     "te": "స్థరణీయత"
+    },
+    {
+     "en": "Ductility",
+     "te": "తాంతవత"
+    },
+    {
+     "en": "Sonority",
+     "te": "ధ్వనిగుణం"
+    },
+    {
+     "en": "Lustrous",
+     "te": "ద్యుతిగుణం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0158",
+   "section": "physics",
+   "number": 158,
+   "question": {
+    "en": "All metals exist as solids at room temperature except",
+    "te": "ఈ లోహం తప్ప మిగిలిన లోహాలన్నీ గది ఉష్ణోగ్రత వద్ద ఘన స్థితిలో ఉంటాయి"
+   },
+   "options": [
+    {
+     "en": "Sodium",
+     "te": "సోడియం"
+    },
+    {
+     "en": "Magnesium",
+     "te": "మెగ్నీషియం"
+    },
+    {
+     "en": "Zinc",
+     "te": "జింకు"
+    },
+    {
+     "en": "Mercury",
+     "te": "పాదరసం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0159",
+   "section": "physics",
+   "number": 159,
+   "question": {
+    "en": "Most non metals produce these when dissolves in water",
+    "te": "అలోహాలన్నీ నీటిలో కరిగినప్పుడు వీటిని ఇస్తాయి"
+   },
+   "options": [
+    {
+     "en": "Acidic oxides",
+     "te": "ఆమ్ల ఆక్సైడ్లు"
+    },
+    {
+     "en": "Basic oxides",
+     "te": "క్షార ఆక్సైడ్లు"
+    },
+    {
+     "en": "Neutral oxides",
+     "te": "తటస్థ ఆక్సైడ్లు"
+    },
+    {
+     "en": "peroxides",
+     "te": "పెరాక్సైడ్లు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0160",
+   "section": "physics",
+   "number": 160,
+   "question": {
+    "en": "Metals that have low melting points",
+    "te": "అల్ప ద్రవీభవన స్థానాలు గల లోహాలు"
+   },
+   "options": [
+    {
+     "en": "Sodium, Magnesium",
+     "te": "సోడియం, మెగ్నీషియం"
+    },
+    {
+     "en": "Zinc, Potassium",
+     "te": "జింక్, పొటాషియం"
+    },
+    {
+     "en": "Gallium, Caesium",
+     "te": "గాలియం, సీజియం"
+    },
+    {
+     "en": "Calcium, Barium",
+     "te": "కాల్షియం, బేరియం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0161",
+   "section": "physics",
+   "number": 161,
+   "question": {
+    "en": "Metal that reacts with water",
+    "te": "నీటితో చర్య జరిపే లోహం"
+   },
+   "options": [
+    {
+     "en": "Sodium",
+     "te": "సోడియం"
+    },
+    {
+     "en": "Gold",
+     "te": "బంగారం"
+    },
+    {
+     "en": "Silver",
+     "te": "వెండి"
+    },
+    {
+     "en": "Copper",
+     "te": "కాపర్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0162",
+   "section": "physics",
+   "number": 162,
+   "question": {
+    "en": "Cation present in NaCl",
+    "te": "NaCl లో ఉండే కేటయాను"
+   },
+   "options": [
+    {
+     "en": "Na^+",
+     "te": null
+    },
+    {
+     "en": "Na^+2",
+     "te": null
+    },
+    {
+     "en": "Cl^−1",
+     "te": null
+    },
+    {
+     "en": "Cl^−2",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0163",
+   "section": "physics",
+   "number": 163,
+   "question": {
+    "en": "Cation present in MgCl_2",
+    "te": "MgCl_2నందు గల కేటయాను"
+   },
+   "options": [
+    {
+     "en": "Mg^+",
+     "te": null
+    },
+    {
+     "en": "Mg^+2",
+     "te": null
+    },
+    {
+     "en": "Cl^−1",
+     "te": null
+    },
+    {
+     "en": "Cl^−2",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0164",
+   "section": "physics",
+   "number": 164,
+   "question": {
+    "en": "Bond formed by the transfer of electrons from metals to nonmetal is",
+    "te": "లోహాల నుండి అలోహాలకు ఎలక్ట్రాన్ల బదిలీవల్ల ఏర్పడే బంధం"
+   },
+   "options": [
+    {
+     "en": "Ionic bond",
+     "te": "అయానిక బంధం"
+    },
+    {
+     "en": "Covalent bond",
+     "te": "సంయోజనీయ బంధం"
+    },
+    {
+     "en": "Polar covalent bond",
+     "te": "ధృవ సంయోజనీయ బంధం"
+    },
+    {
+     "en": "Non polar covalent bond",
+     "te": "అదృవ సంయోజనీయ బంధం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0165",
+   "section": "physics",
+   "number": 165,
+   "question": {
+    "en": "The layer of the earth that is major source of metals",
+    "te": "లోహాల ప్రధాన వనరైన భూమి యొక్క పొర"
+   },
+   "options": [
+    {
+     "en": "Crust",
+     "te": "భూపటలం"
+    },
+    {
+     "en": "Mantle",
+     "te": "భూప్రావారం"
+    },
+    {
+     "en": "Inner core",
+     "te": "అంతర కేంద్రం"
+    },
+    {
+     "en": "Outer core",
+     "te": "బాహ్య కేంద్రం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 178,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0166",
+   "section": "physics",
+   "number": 166,
+   "question": {
+    "en": "Galvanization is a method of coating a thin layer of this metal",
+    "te": "పలుచని ఈ లోహపు పొరను పూతగా పూయడాన్ని గాల్వనీకరణం అంటారు"
+   },
+   "options": [
+    {
+     "en": "Iron",
+     "te": "ఇనుము"
+    },
+    {
+     "en": "Zinc",
+     "te": "జింక్"
+    },
+    {
+     "en": "Aluminium",
+     "te": "అల్యూమినియం"
+    },
+    {
+     "en": "Chromium",
+     "te": "క్రోమియం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0167",
+   "section": "physics",
+   "number": 167,
+   "question": {
+    "en": "To get Stainless steel, Iron is added to",
+    "te": "ఉక్కును పొందుటకు ఇనుముకు వీటిని కలుపుతారు"
+   },
+   "options": [
+    {
+     "en": "Nickel and Copper",
+     "te": "నికెల్ మరియు కాపర్"
+    },
+    {
+     "en": "Nickel and Chromium",
+     "te": "నికెల్ మరియు క్రోమియం"
+    },
+    {
+     "en": "Chromium and Platinum",
+     "te": "క్రోమియం మరియు ప్లాటినం"
+    },
+    {
+     "en": "Nickel and Platinum",
+     "te": "నికెల్ మరియు ప్లాటినం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0168",
+   "section": "physics",
+   "number": 168,
+   "question": {
+    "en": "Example of molecule with Covalent bond",
+    "te": "సంయోజనీయ బంధ అణువుకు ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "NaCl",
+     "te": null
+    },
+    {
+     "en": "AlCl_3",
+     "te": null
+    },
+    {
+     "en": "MgCl_2",
+     "te": null
+    },
+    {
+     "en": "HCl",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0169",
+   "section": "physics",
+   "number": 169,
+   "question": {
+    "en": "This fibre is called artificial silk",
+    "te": "ఈ దారాన్ని కృత్రిమ పట్టు అని పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Nylon",
+     "te": "నైలాన్"
+    },
+    {
+     "en": "Rayon",
+     "te": "రేయాన్"
+    },
+    {
+     "en": "Acrylic",
+     "te": "ఆక్రలిక్"
+    },
+    {
+     "en": "Polyester",
+     "te": "పాలిస్టర్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0170",
+   "section": "physics",
+   "number": 170,
+   "question": {
+    "en": "Polycot is a mixture of",
+    "te": "పాలికాట్ అనేది వీటి మిశ్రమం"
+   },
+   "options": [
+    {
+     "en": "Polyester and wool",
+     "te": "పాలిస్టర్ మరియు ఉన్ని"
+    },
+    {
+     "en": "Polyester and cotton",
+     "te": "పాలిస్టర్ మరియు నూలు"
+    },
+    {
+     "en": "Polyester and silk",
+     "te": "పాలిస్టర్ మరియు సిల్క్"
+    },
+    {
+     "en": "Polyester and nylon",
+     "te": "పాలిస్టర్ మరియు నైలాన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0171",
+   "section": "physics",
+   "number": 171,
+   "question": {
+    "en": "Thermosetting plastic used in the preparation of electrical switches, handles of utensils",
+    "te": "విద్యుత్ స్విచ్లు, వంట పాత్రల పిడుల తయారీలో వాడే థర్మో సెట్టింగ్ ప్లాస్టిక్"
+   },
+   "options": [
+    {
+     "en": "Bakelite",
+     "te": "బేకలైట్"
+    },
+    {
+     "en": "Melamine",
+     "te": "మెలమైన్"
+    },
+    {
+     "en": "Polythene",
+     "te": "పాలిథీన్"
+    },
+    {
+     "en": "PVC",
+     "te": "పీవీసీ"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0172",
+   "section": "physics",
+   "number": 172,
+   "question": {
+    "en": "Artificial fibre used in the preparation of Parachutes and ropes for rock climbing",
+    "te": "పారాచూట్ల తయారీలో మరియు పర్వతారోహణకు ఉపయోగించే తాళ్ల తయారీలో వాడే కృత్రిమ దారం"
+   },
+   "options": [
+    {
+     "en": "Rayon",
+     "te": "రేయాన్"
+    },
+    {
+     "en": "Nylon",
+     "te": "నైలాన్"
+    },
+    {
+     "en": "Acrylic",
+     "te": "ఆక్రలిక్"
+    },
+    {
+     "en": "Polyester",
+     "te": "పాలిస్టర్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0173",
+   "section": "physics",
+   "number": 173,
+   "question": {
+    "en": "Inexhaustible natural resource among the following",
+    "te": "క్రింది వానిలో తరగని శక్తి వనరు"
+   },
+   "options": [
+    {
+     "en": "Forest",
+     "te": "అడవులు"
+    },
+    {
+     "en": "Minerals",
+     "te": "ఖనిజాలు"
+    },
+    {
+     "en": "Petroleum",
+     "te": "పెట్రోలియం"
+    },
+    {
+     "en": "Sunlight",
+     "te": "సూర్యరశ్మి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0174",
+   "section": "physics",
+   "number": 174,
+   "question": {
+    "en": "The process of conversion of dead vegetation into coal is called",
+    "te": "వృక్ష సంపద నెమ్మదిగా నేలబొగ్గుగా మారే ప్రక్రియను ఈ విధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Carbonisation",
+     "te": "కార్బోనైజేషన్"
+    },
+    {
+     "en": "Oxidation",
+     "te": "ఆక్సీకరణం"
+    },
+    {
+     "en": "Calcination",
+     "te": "భస్మీకరణం"
+    },
+    {
+     "en": "Reduction",
+     "te": "క్షయకరణం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0175",
+   "section": "physics",
+   "number": 175,
+   "question": {
+    "en": "The purest form of carbon is",
+    "te": "కార్బన్ యొక్క స్వచ్ఛమైన రూపం"
+   },
+   "options": [
+    {
+     "en": "Coal",
+     "te": "నేల బొగ్గు"
+    },
+    {
+     "en": "Coke",
+     "te": "కోక్"
+    },
+    {
+     "en": "Coal tar",
+     "te": "కోల్తారు"
+    },
+    {
+     "en": "Coal gas",
+     "te": "కోల్వాయువు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0176",
+   "section": "physics",
+   "number": 176,
+   "question": {
+    "en": "CNG means",
+    "te": "CNG అనగా"
+   },
+   "options": [
+    {
+     "en": "Compressed Natural Gas",
+     "te": null
+    },
+    {
+     "en": "Contract Natural Gas",
+     "te": null
+    },
+    {
+     "en": "Compressed Nano Gas",
+     "te": null
+    },
+    {
+     "en": "Contract Nano Gas",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0177",
+   "section": "physics",
+   "number": 177,
+   "question": {
+    "en": "This is not an inflammable substance",
+    "te": "ఇది దహనశీలి పదార్ధం కాదు"
+   },
+   "options": [
+    {
+     "en": "Wood",
+     "te": "చెక్క"
+    },
+    {
+     "en": "Petrol",
+     "te": "పెట్రోల్"
+    },
+    {
+     "en": "Alcohol",
+     "te": "ఆల్కహాల్"
+    },
+    {
+     "en": "LPG",
+     "te": "ఎల్. పి. జి"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0178",
+   "section": "physics",
+   "number": 178,
+   "question": {
+    "en": "The best fire extinguisher for fires involving electrical equipment and inflammable materials",
+    "te": "విద్యుత్ పరికరాలు మరియు దహనశీలి పదార్ధాలు మండుతున్నప్పుడు వాటిని ఆర్పడానికి ఉత్తమమైనది"
+   },
+   "options": [
+    {
+     "en": "Water",
+     "te": "నీరు"
+    },
+    {
+     "en": "Oxygen",
+     "te": "ఆక్సిజన్"
+    },
+    {
+     "en": "Coconut oil",
+     "te": "కొబ్బరినూనె"
+    },
+    {
+     "en": "Carbon dioxide",
+     "te": "కార్బన్ డై ఆక్సైడ్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0179",
+   "section": "physics",
+   "number": 179,
+   "question": {
+    "en": "The dangerous gas released by the incomplete combustion of fuels is",
+    "te": "ఇంధనాల అసంపూర్ణ దహనం వలన విడుదలయ్యే ప్రమాదకర వాయువు"
+   },
+   "options": [
+    {
+     "en": "Carbon monoxide",
+     "te": "కార్బన్ మోనాక్సైడ్"
+    },
+    {
+     "en": "Carbon dioxide",
+     "te": "కార్బన్ డై ఆక్సైడ్"
+    },
+    {
+     "en": "Oxygen",
+     "te": "ఆక్సిజన్"
+    },
+    {
+     "en": "Hydrogen",
+     "te": "హైడ్రోజన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0180",
+   "section": "physics",
+   "number": 180,
+   "question": {
+    "en": "The cleaner fuel among the following is",
+    "te": "క్రింది వాటిలో స్వచ్ఛమైన ఇంధనం"
+   },
+   "options": [
+    {
+     "en": "Petrol",
+     "te": "పెట్రోల్"
+    },
+    {
+     "en": "Diesel",
+     "te": "డీజిల్"
+    },
+    {
+     "en": "Coal",
+     "te": "నేలబొగ్గు"
+    },
+    {
+     "en": "CNG",
+     "te": "సీ. ఎన్. జి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 179,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0181",
+   "section": "physics",
+   "number": 181,
+   "question": {
+    "en": "Acid among the following",
+    "te": "క్రింది వానిలో ఆమ్లం"
+   },
+   "options": [
+    {
+     "en": "NaOH",
+     "te": null
+    },
+    {
+     "en": "CH_3COOH",
+     "te": null
+    },
+    {
+     "en": "KOH",
+     "te": null
+    },
+    {
+     "en": "NH_4OH",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0182",
+   "section": "physics",
+   "number": 182,
+   "question": {
+    "en": "This cannot be used as an olfactory indicator",
+    "te": "దీనిని ఘ్రాణ సూచికగా ఉపయోగించలేము"
+   },
+   "options": [
+    {
+     "en": "Vanilla essence",
+     "te": "వెనీలా ఎసెన్స్"
+    },
+    {
+     "en": "Clove oil",
+     "te": "లవంగ నూనె"
+    },
+    {
+     "en": "Hibiscus",
+     "te": "మందారం"
+    },
+    {
+     "en": "Onion",
+     "te": "ఉల్లిపాయ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0183",
+   "section": "physics",
+   "number": 183,
+   "question": {
+    "en": "The gas released by the reaction of zinc with hydrochloric acid",
+    "te": "జింక్ హైడ్రోక్లోరిక్ ఆమ్లంతో చర్య వలన విడుదలయ్యే వాయువు"
+   },
+   "options": [
+    {
+     "en": "Oxygen",
+     "te": "ఆక్సిజన్"
+    },
+    {
+     "en": "Hydrogen",
+     "te": "హైడ్రోజన్"
+    },
+    {
+     "en": "Nitrogen",
+     "te": "నైట్రోజన్"
+    },
+    {
+     "en": "Carbon dioxide",
+     "te": "కార్బన్ డై ఆక్సైడ్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0184",
+   "section": "physics",
+   "number": 184,
+   "question": {
+    "en": "Acids reacts with bases to form",
+    "te": "ఆమ్లాలు క్షారాలతో చర్య జరపడం వలన ఏర్పడేవి"
+   },
+   "options": [
+    {
+     "en": "Only salts",
+     "te": "లవణాలు మాత్రమే"
+    },
+    {
+     "en": "Only water",
+     "te": "నీరు మాత్రమే"
+    },
+    {
+     "en": "Salt and water",
+     "te": "లవణం మరియు నీరు"
+    },
+    {
+     "en": "Bases",
+     "te": "క్షారాలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0185",
+   "section": "physics",
+   "number": 185,
+   "question": {
+    "en": "Bases that are soluble in water are called",
+    "te": "నీటిలో కరిగే క్షారాలను ఈవిధంగా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Alcohols",
+     "te": "ఆల్కహాల్లు"
+    },
+    {
+     "en": "Alkaloids",
+     "te": "ఆల్కలాయిడ్లు"
+    },
+    {
+     "en": "Alkalis",
+     "te": "ఆల్కలీలు"
+    },
+    {
+     "en": "Alkyls",
+     "te": "ఆల్కైల్స్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0186",
+   "section": "physics",
+   "number": 186,
+   "question": {
+    "en": "Acidic solution among the following is",
+    "te": "క్రింది వానిలో ఆమ్ల ద్రావణం"
+   },
+   "options": [
+    {
+     "en": "Gastric juice",
+     "te": "జీర్ణరసం"
+    },
+    {
+     "en": "Pure water",
+     "te": "స్వచ్ఛమైన నీరు"
+    },
+    {
+     "en": "Milk of magnesia",
+     "te": "మిల్క్ ఆఫ్ మెగ్నీషియ"
+    },
+    {
+     "en": "Sodium hydroxide",
+     "te": "సోడియం హైడ్రాక్సైడ్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0187",
+   "section": "physics",
+   "number": 187,
+   "question": {
+    "en": "Milk of magnesia is a",
+    "te": "మిల్క్ ఆఫ్ మెగ్నీషియ అనేది ఒక"
+   },
+   "options": [
+    {
+     "en": "Strong Acid",
+     "te": "బలమైన ఆమ్లం"
+    },
+    {
+     "en": "Weak Acid",
+     "te": "బలహీన ఆమ్లం"
+    },
+    {
+     "en": "Strong Base",
+     "te": "బలమైన క్షారం"
+    },
+    {
+     "en": "Weak Base",
+     "te": "బలహీన క్షారం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0188",
+   "section": "physics",
+   "number": 188,
+   "question": {
+    "en": "The acid present in Tomato",
+    "te": "టోమాటోలో ఉండే ఆమ్లం"
+   },
+   "options": [
+    {
+     "en": "Oxalic acid",
+     "te": "ఆక్జాలిక్ ఆమ్లం"
+    },
+    {
+     "en": "Tartaric acid",
+     "te": "టార్టారిక్ ఆమ్లం"
+    },
+    {
+     "en": "Citric acid",
+     "te": "సిట్రిక్ ఆమ్లం"
+    },
+    {
+     "en": "Acetic acid",
+     "te": "ఎసిటిక్ ఆమ్లం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0189",
+   "section": "physics",
+   "number": 189,
+   "question": {
+    "en": "Number of water molecules present in Washing soda formula",
+    "te": "వాషింగ్ సోడా ఫార్ములా నందు గల నీటి అణువుల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "5",
+     "te": null
+    },
+    {
+     "en": "8",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0190",
+   "section": "physics",
+   "number": 190,
+   "question": {
+    "en": "Plaster of Paris is derived by heating",
+    "te": "దీనిని వేడి చేయడం ద్వారా ప్లాస్టర్ ఆఫ్ పారిస్ ను పొందవచ్చు"
+   },
+   "options": [
+    {
+     "en": "Sodium carbonate",
+     "te": "సోడియం కార్బోనేట్"
+    },
+    {
+     "en": "Copper sulphate",
+     "te": "కాపర్ సల్ఫేట్"
+    },
+    {
+     "en": "Gypsum",
+     "te": "జిప్సం"
+    },
+    {
+     "en": "Sodium chloride",
+     "te": "సోడియం క్లోరైడ్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0191",
+   "section": "physics",
+   "number": 191,
+   "question": {
+    "en": "The substance that turns the red litmus into blue colour is",
+    "te": "ఎరుపు లిట్మస్ను నీలి రంగులోకి మార్చే పదార్ధం"
+   },
+   "options": [
+    {
+     "en": "Acid",
+     "te": "ఆమ్లం"
+    },
+    {
+     "en": "Base",
+     "te": "క్షారం"
+    },
+    {
+     "en": "Neutral",
+     "te": "తటస్థం"
+    },
+    {
+     "en": "Water",
+     "te": "నీరు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0192",
+   "section": "physics",
+   "number": 192,
+   "question": {
+    "en": "The type of medicines used for treating indigestion",
+    "te": "ఈ రకమైన మందులను అజీర్ణానికి చికిత్స చేయడానికి వాడతారు"
+   },
+   "options": [
+    {
+     "en": "Antibiotic",
+     "te": "యాంటీ బయోటిక్"
+    },
+    {
+     "en": "Analgesic",
+     "te": "ఏనాల్జిసిక్"
+    },
+    {
+     "en": "Antacid",
+     "te": "యాంటాసిడ్"
+    },
+    {
+     "en": "Antiseptic",
+     "te": "యాంటీ సెప్టిక్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0193",
+   "section": "physics",
+   "number": 193,
+   "question": {
+    "en": "The statement of an actual event or a physical event is",
+    "te": "ఒక భౌతిక వస్తువు లేదా యధార్ధ సంఘటనను వివరించే ప్రవచనమే ఒక"
+   },
+   "options": [
+    {
+     "en": "Fact",
+     "te": "యధార్ధం"
+    },
+    {
+     "en": "Generalization",
+     "te": "సాదారణీకరణం"
+    },
+    {
+     "en": "Concept",
+     "te": "భావన"
+    },
+    {
+     "en": "Hypothesis",
+     "te": "ప్రాకల్పన"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0194",
+   "section": "physics",
+   "number": 194,
+   "question": {
+    "en": "“Magnets attracts iron objects” this statement is an example for",
+    "te": "“అయస్కాంతం ఇనుప వస్తువులను ఆకర్షిస్తుంది” అనే వాఖ్యం దీనికి ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Fact",
+     "te": "యధార్ధం"
+    },
+    {
+     "en": "Generalization",
+     "te": "సాదారణీకరణం"
+    },
+    {
+     "en": "Concept",
+     "te": "భావన"
+    },
+    {
+     "en": "Hypothesis",
+     "te": "ప్రాకల్పన"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0195",
+   "section": "physics",
+   "number": 195,
+   "question": {
+    "en": "‘Can water be boiled at any temperature?’ this statement is an example for this type of hypothesis",
+    "te": "‘నీటిని ఏ ఉష్ణోగ్రత వద్ద నైనా మరిగించవచ్చా?’ ప్రవచనం ఈ రకమైన ప్రాకల్పనకు ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Null hypothesis",
+     "te": "నల్ ప్రాకల్పన"
+    },
+    {
+     "en": "Declarative hypothesis",
+     "te": "ప్రకటనాత్మక ప్రాకల్పన"
+    },
+    {
+     "en": "Prediction hypothesis",
+     "te": "ప్రాగుక్తి ప్రాకల్పన"
+    },
+    {
+     "en": "Question hypothesis",
+     "te": "ప్రశ్న ప్రాకల్పన"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 180,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0196",
+   "section": "physics",
+   "number": 196,
+   "question": {
+    "en": "‘There is relation between pressure and boiling point of water’ this statement is an example for this type of hypothesis",
+    "te": "‘నీరు మరిగే ఉష్ణోగ్రతకు పీడనానికి సంబందం ఉంది’అనే ప్రవచనం ఈ రకమైన ప్రాకల్పనకు ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Null hypothesis",
+     "te": "నల్ ప్రాకల్పన"
+    },
+    {
+     "en": "Declarative hypothesis",
+     "te": "ప్రకటనాత్మక ప్రాకల్పన"
+    },
+    {
+     "en": "Prediction hypothesis",
+     "te": "ప్రాగుక్తి ప్రాకల్పన"
+    },
+    {
+     "en": "Question hypothesis",
+     "te": "ప్రశ్న ప్రాకల్పన"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0197",
+   "section": "physics",
+   "number": 197,
+   "question": {
+    "en": "‘Science learning is useful for entering into different professions like Doctors, Engineers and Teachers’ indicates this value",
+    "te": "‘డాక్టర్లు, ఇంజనీర్లు మరియు ఉపాధ్యాయులు మొదలైన వృత్తులలోనికి ప్రవేశించుటకు విజ్ఞానశాస్త్ర అభ్యసనం తోడ్పడుతుంది’ ఇది ఈ రకమైన విలువను తెలుపుతుంది"
+   },
+   "options": [
+    {
+     "en": "Intellectual value",
+     "te": "బౌద్ధిక విలువ"
+    },
+    {
+     "en": "Cultural value",
+     "te": "సాంస్కృతిక విలువ"
+    },
+    {
+     "en": "Moral value",
+     "te": "నైతిక విలువ"
+    },
+    {
+     "en": "Vocational value",
+     "te": "వృత్తిపరమైన విలువ"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0198",
+   "section": "physics",
+   "number": 198,
+   "question": {
+    "en": "‘Learning science develops discipline in taking readings in laboratory and while working in laboratory’ indicates this value",
+    "te": "‘విజ్ఞాన శాస్త్ర అధ్యయనం ద్వారా ప్రయోగశాలలో పనిచేసేప్పుడు మరియు రీడింగులు తీసుకునేటప్పుడు విధ్యార్ధి క్రమశిక్షణగా వ్యవహరిస్తారు’ అని తెలియజేసే విలువ"
+   },
+   "options": [
+    {
+     "en": "Moral value",
+     "te": "నైతిక విలువ"
+    },
+    {
+     "en": "Aesthetic value",
+     "te": "సౌందర్యాత్మక విలువ"
+    },
+    {
+     "en": "Disciplinary value",
+     "te": "క్రమశిక్షణ విలువ"
+    },
+    {
+     "en": "Utilitarian value",
+     "te": "ఉపయోగిత విలువ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0199",
+   "section": "physics",
+   "number": 199,
+   "question": {
+    "en": "First step in ‘Scientific method’ is",
+    "te": "‘శాస్త్రీయ పద్దతిలోని’ మొదటి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Identification of problem",
+     "te": "సమస్యను గుర్తించడం"
+    },
+    {
+     "en": "Analysing problem",
+     "te": "సమస్యను విశ్లేషించడం"
+    },
+    {
+     "en": "Testing Hypothesis",
+     "te": "ప్రాకల్పనను పరీక్షించడం"
+    },
+    {
+     "en": "Generalization of results",
+     "te": "ఫలితాలను సాధారణీకరించడం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0200",
+   "section": "physics",
+   "number": 200,
+   "question": {
+    "en": "The cognitive domain was explained by",
+    "te": "జ్ఞానాత్మక రంగాన్ని వివరించిన వారు"
+   },
+   "options": [
+    {
+     "en": "B.S. Blooms",
+     "te": "బి.యస్. బ్లూమ్స్"
+    },
+    {
+     "en": "David R. Krathwohl",
+     "te": "డేవిడ్. ఆర్. క్రాత్ వోల్"
+    },
+    {
+     "en": "R. H. Dawey",
+     "te": "ఆర్. హెచ్. డేవి"
+    },
+    {
+     "en": "Jeevan",
+     "te": "జీవన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0201",
+   "section": "physics",
+   "number": 201,
+   "question": {
+    "en": "The first step in cognitive domain of Blooms classification of educational objectives",
+    "te": "బ్లూమ్స్ విద్యాలక్ష్యాల వర్గీకరణలోని జ్ఞానాత్మకరంగం లోని మొదటి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Understanding",
+     "te": "అవగాహన"
+    },
+    {
+     "en": "Application",
+     "te": "అన్వయము"
+    },
+    {
+     "en": "Knowledge",
+     "te": "జ్ఞానం"
+    },
+    {
+     "en": "Evaluation",
+     "te": "మూల్యాంకనం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0202",
+   "section": "physics",
+   "number": 202,
+   "question": {
+    "en": "The first step in ‘Affective domain’ of Blooms classification of educational objectives",
+    "te": "బ్లూమ్స్ విద్యాలక్ష్యాల వర్గీకరణలో భావావేశరంగం లోని మొదటి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Responding",
+     "te": "ప్రతిస్పందన"
+    },
+    {
+     "en": "Valuing",
+     "te": "విలువకట్టడం"
+    },
+    {
+     "en": "Organisation",
+     "te": "వ్యవస్థాపనం"
+    },
+    {
+     "en": "Receiving",
+     "te": "గ్రహించడం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0203",
+   "section": "physics",
+   "number": 203,
+   "question": {
+    "en": "The first step in ‘Psychomotor domain’ of Blooms classification of educational objectives",
+    "te": "బ్లూమ్స్ విద్యాలక్ష్యాల వర్గీకరణలో భావావేశరంగం లోని మొదటి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Imitation",
+     "te": "అనుకరణ"
+    },
+    {
+     "en": "Manipulation",
+     "te": "హస్తలాఘవం"
+    },
+    {
+     "en": "Precision",
+     "te": "సునిశితత్వం"
+    },
+    {
+     "en": "Articulation",
+     "te": "ఉచ్ఛారణ"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0204",
+   "section": "physics",
+   "number": 204,
+   "question": {
+    "en": "The specification “Recall” belongs to this objective",
+    "te": "“జ్ఞప్తికి తెచ్చుకుంటారు” అనే స్పష్టీకరణ ఈ లక్ష్యానికి చెందింది"
+   },
+   "options": [
+    {
+     "en": "Knowledge",
+     "te": "జ్ఞానం"
+    },
+    {
+     "en": "Understanding",
+     "te": "అవగాహన"
+    },
+    {
+     "en": "Application",
+     "te": "అన్వయము"
+    },
+    {
+     "en": "Skill",
+     "te": "నైపుణ్యము"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0205",
+   "section": "physics",
+   "number": 205,
+   "question": {
+    "en": "‘Teaching is an interaction process’ defined by",
+    "te": "‘బోధన ఒక పరస్పర చర్యా ప్రక్రియ’ అని నిర్వచించిన వారు"
+   },
+   "options": [
+    {
+     "en": "Edmund Amidon",
+     "te": "ఎడ్మండ్ అమిడాన్"
+    },
+    {
+     "en": "A. Flander",
+     "te": "ఎ. ఫ్లాండర్"
+    },
+    {
+     "en": "B.O. Smith",
+     "te": "బి. ఓ. స్మిత్"
+    },
+    {
+     "en": "H. C. Morrison",
+     "te": "హెచ్. సి. మోరిసన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0206",
+   "section": "physics",
+   "number": 206,
+   "question": {
+    "en": "‘Memory level of Teaching’ designed by",
+    "te": "‘స్మృతి స్థాయి బోధనా నమూనా’ ను రూపొందించిన వారు"
+   },
+   "options": [
+    {
+     "en": "Edmund Amidon",
+     "te": "ఎడ్మండ్ అమిడాన్"
+    },
+    {
+     "en": "A. Flander",
+     "te": "ఎ. ఫ్లాండర్"
+    },
+    {
+     "en": "J. F. Herbart",
+     "te": "జె. ఎఫ్. హెర్బార్ట్"
+    },
+    {
+     "en": "H. C. Morrison",
+     "te": "హెచ్. సి. మోరిసన్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0207",
+   "section": "physics",
+   "number": 207,
+   "question": {
+    "en": "Student centred teaching method among the following",
+    "te": "క్రింది వానిలో విద్యార్ధి కేంద్రక బోధనా పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Heuristic method",
+     "te": "అన్వేషణా పద్దతి"
+    },
+    {
+     "en": "Lecture method",
+     "te": "ఉపన్యాస పద్దతి"
+    },
+    {
+     "en": "Lecture demonstration method",
+     "te": "ఉపన్యాస-ప్రదర్శనా పద్దతి"
+    },
+    {
+     "en": "Historical method",
+     "te": "చారిత్రక పద్దతి"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0208",
+   "section": "physics",
+   "number": 208,
+   "question": {
+    "en": "Teacher centred teaching method among the following",
+    "te": "క్రింది వానిలో ఉపాధ్యాయ కేంద్రక బోధనా పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Lecture method",
+     "te": "ఉపన్యాస పద్దతి"
+    },
+    {
+     "en": "Heuristic method",
+     "te": "అన్వేషణా పద్దతి"
+    },
+    {
+     "en": "Project method",
+     "te": "ప్రాజెక్టు పద్దతి"
+    },
+    {
+     "en": "Laboratory method",
+     "te": "ప్రయోగశాల పద్దతి"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0209",
+   "section": "physics",
+   "number": 209,
+   "question": {
+    "en": "The first step in Project method is",
+    "te": "ప్రాకల్పన పద్దతిలో మొదటి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Planning",
+     "te": "ప్రణాళిక"
+    },
+    {
+     "en": "Execution",
+     "te": "నిర్వహణ"
+    },
+    {
+     "en": "Evaluation",
+     "te": "మూల్యాంకనం"
+    },
+    {
+     "en": "Providing a situation",
+     "te": "పరిస్థితిని కల్పించడం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0210",
+   "section": "physics",
+   "number": 210,
+   "question": {
+    "en": "The last step in Project method is",
+    "te": "ప్రాకల్పన పద్దతిలో చివరి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Preparing a report",
+     "te": "నివేదిక తయారుచేయుట"
+    },
+    {
+     "en": "Evaluation",
+     "te": "మూల్యాంకనం"
+    },
+    {
+     "en": "Planning",
+     "te": "ప్రణాళిక"
+    },
+    {
+     "en": "Providing a situation",
+     "te": "పరిస్థితిని కల్పించడం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 181,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0211",
+   "section": "physics",
+   "number": 211,
+   "question": {
+    "en": "In this method students learn the lesson by doing experiment on their own",
+    "te": "ఈ పద్దతిలో విద్యార్ధులు స్వయంగా ప్రయోగాన్ని చేస్తూ పాఠ్యాంశాలను నేర్చుకుంటారు"
+   },
+   "options": [
+    {
+     "en": "Lecture demonstration method",
+     "te": "ఉపన్యాస-ప్రదర్శనా పద్దతి"
+    },
+    {
+     "en": "Lecture method",
+     "te": "ఉపన్యాస పద్దతి"
+    },
+    {
+     "en": "Historical method",
+     "te": "చారిత్రక పద్దతి"
+    },
+    {
+     "en": "Laboratory method",
+     "te": "ప్రయోగశాల పద్దతి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0212",
+   "section": "physics",
+   "number": 212,
+   "question": {
+    "en": "The first step in ‘Problem solving method’ is",
+    "te": "సమస్యా పరిష్కార పద్దతిలో మొదటి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Conclusion",
+     "te": "ముగింపు"
+    },
+    {
+     "en": "Analysing problem",
+     "te": "సమస్యను విశ్లేషించడం"
+    },
+    {
+     "en": "Defining problem",
+     "te": "సమస్యను నిర్వచించడం"
+    },
+    {
+     "en": "Identifying problem",
+     "te": "సమస్యను గుర్తించడం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0213",
+   "section": "physics",
+   "number": 213,
+   "question": {
+    "en": "‘Heuristic’ is derived from the Greek word Heurisco. The meaning of Heurisco is",
+    "te": "హ్యూరిస్టిక్ అనే పదం హ్యూరిస్కో అనే గ్రీకు పదం నుండి గ్రహించారు. హ్యూరిస్కో అంటే అర్ధం"
+   },
+   "options": [
+    {
+     "en": "Experiment",
+     "te": "ప్రయోగం"
+    },
+    {
+     "en": "Investigation",
+     "te": "పరిశోధించుట"
+    },
+    {
+     "en": "Doing work",
+     "te": "పని చేయడం"
+    },
+    {
+     "en": "Hypothesis",
+     "te": "ప్రకల్పన"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0214",
+   "section": "physics",
+   "number": 214,
+   "question": {
+    "en": "‘Communication’ is derived from the following Latin word",
+    "te": "‘కమ్యూనికేషన్’ అనే పదం ఈ క్రింది లాటిన్ పదం నుండి రాబట్టారు"
+   },
+   "options": [
+    {
+     "en": "Comments",
+     "te": "కామెంట్స్"
+    },
+    {
+     "en": "Communis",
+     "te": "కమ్యూనిస్"
+    },
+    {
+     "en": "Commons",
+     "te": "కామన్స్"
+    },
+    {
+     "en": "Connections",
+     "te": "కనెక్షన్స్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0215",
+   "section": "physics",
+   "number": 215,
+   "question": {
+    "en": "In this teaching method, the teacher explains the concept by showing the experiment to him",
+    "te": "ఈ బోధనా పద్దతిలో ఉపాధ్యాయుడు ప్రయోగాన్ని చేసి చూపిస్తూ భావనను వివరిస్తాడు"
+   },
+   "options": [
+    {
+     "en": "Lecture method",
+     "te": "ఉపన్యాస పద్దతి"
+    },
+    {
+     "en": "Lecture demonstration method",
+     "te": "ఉపన్యాస-ప్రదర్శనా పద్దతి"
+    },
+    {
+     "en": "Heuristic method",
+     "te": "అన్వేషణా పద్దతి"
+    },
+    {
+     "en": "Problem solving method",
+     "te": "సమస్యా పరిష్కార పద్దతి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0216",
+   "section": "physics",
+   "number": 216,
+   "question": {
+    "en": "‘Heuristic method’ was first introduced by",
+    "te": "అన్వేషణా పద్దతిని మొట్టమొదటిగా ప్రవేశపెట్టినది"
+   },
+   "options": [
+    {
+     "en": "H. E. Armstrong",
+     "te": "హెచ్. ఈ. ఆర్మ్స్ట్రాంగ్"
+    },
+    {
+     "en": "F. W. Westway",
+     "te": "ఎఫ్. డబ్లు. వెస్ట్వే"
+    },
+    {
+     "en": "Kilpatrick",
+     "te": "కిల్ పాట్రిక్"
+    },
+    {
+     "en": "H. C. Morrison",
+     "te": "హెచ్. సి. మోరిసన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0217",
+   "section": "physics",
+   "number": 217,
+   "question": {
+    "en": "Plan prepared to teach the lessons present in the curriculum year long",
+    "te": "విద్యా ప్రణాళికలోని పాఠ్యాంశాలను సంవత్సరం పొడవునా బోధించడానికి తయారుచేసుకునే పథకం"
+   },
+   "options": [
+    {
+     "en": "Unit plan",
+     "te": "యూనిట్ పథకం"
+    },
+    {
+     "en": "Period plan",
+     "te": "పీరియడ్ పథకం"
+    },
+    {
+     "en": "Year plan",
+     "te": "వార్షిక పథకం"
+    },
+    {
+     "en": "Monthly plan",
+     "te": "నెలవారీ పథకం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0218",
+   "section": "physics",
+   "number": 218,
+   "question": {
+    "en": "‘A unit is a large block of related subject matter as can be over viewed by the learner’ said by",
+    "te": "‘విద్యార్థి చూడగల పరస్పర సంబంధం గల పాఠ్యవిషయం గల ఒక సమైక్యభాగం యూనిట్’ అని చెప్పినది"
+   },
+   "options": [
+    {
+     "en": "Bossing",
+     "te": "బాసింగ్"
+    },
+    {
+     "en": "Preston",
+     "te": "ప్రెస్టన్"
+    },
+    {
+     "en": "Bagley",
+     "te": "బాగ్లే"
+    },
+    {
+     "en": "Morrison",
+     "te": "మోరిసన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0219",
+   "section": "physics",
+   "number": 219,
+   "question": {
+    "en": "The educationalist who prepared the steps in ‘Lesson planning’",
+    "te": "పాఠ్యపధకంలోని సోపానాలను తయారు చేసిన విద్యావేత్త"
+   },
+   "options": [
+    {
+     "en": "Herbert",
+     "te": "హెర్బార్ట్"
+    },
+    {
+     "en": "Bassing",
+     "te": "బాస్సింగ్"
+    },
+    {
+     "en": "Morrison",
+     "te": "మోరిసన్"
+    },
+    {
+     "en": "Bagley",
+     "te": "బాగ్లె"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0220",
+   "section": "physics",
+   "number": 220,
+   "question": {
+    "en": "The first step in the execution of ‘Steps in lesson planning’",
+    "te": "‘పాఠ్యపధకంలోని దశల’ అమలులోని మొదటి దశ"
+   },
+   "options": [
+    {
+     "en": "Preparation",
+     "te": "సన్నాహం"
+    },
+    {
+     "en": "Presentation",
+     "te": "హాజరుపరచడం"
+    },
+    {
+     "en": "Association",
+     "te": "సంసర్గం"
+    },
+    {
+     "en": "Generalization",
+     "te": "సాదారణీకరణం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0221",
+   "section": "physics",
+   "number": 221,
+   "question": {
+    "en": "‘Curriculum should be prepared based on the Physical and Mental levels of students’. The principle involved in this is sentence",
+    "te": "‘పాఠ్యప్రణాళిక విధ్యార్ధి శారీరక, మానసిక స్థాయిలను అనుసరించి రూపొందించాలి’ ఈ వాక్యంలో ఇమిడి ఉన్న సూత్రం."
+   },
+   "options": [
+    {
+     "en": "Principle of Balance",
+     "te": "సమతౌల్యతా సూత్రం"
+    },
+    {
+     "en": "Principle of Articulation",
+     "te": "కలుపబడే సూత్రం"
+    },
+    {
+     "en": "Principle of Utility",
+     "te": "ఉపయోగితా సూత్రం"
+    },
+    {
+     "en": "Principle of Maturity",
+     "te": "పరిపక్వతా సూత్రం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0222",
+   "section": "physics",
+   "number": 222,
+   "question": {
+    "en": "Curriculum must include “Learning by doing” activities. The principle involved in this is sentence",
+    "te": "పాఠ్యప్రణాళికలో “చేయడం ద్వారా అభ్యసనం” కృత్యాలను ఉంచాలి. ఈ వాక్యంలో ఇమిడి ఉన్న సూత్రం"
+   },
+   "options": [
+    {
+     "en": "Principle of Activity centredness",
+     "te": "కృత్యకేంద్రీకృత సూత్రం"
+    },
+    {
+     "en": "Principle of Articulation",
+     "te": "కలుపబడే సూత్రం"
+    },
+    {
+     "en": "Principle of Creativity",
+     "te": "సృజనాత్మక సూత్రం"
+    },
+    {
+     "en": "Principle of Conservation",
+     "te": "పరిరక్షణ సూత్రం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0223",
+   "section": "physics",
+   "number": 223,
+   "question": {
+    "en": "In Programmed learning, based on this principle The students will learn with his own capacity based on individual differences",
+    "te": "కార్యక్రమయుత అభ్యసనంలోని ఈ సూత్రం ఆధారంగా విధ్యార్ధులు తమ సామర్ధ్యానికి తగిన వేగంతో వైయుక్తిక భేదాలకనుగుణంగా అభ్యసించవచ్చు"
+   },
+   "options": [
+    {
+     "en": "Principle of Small steps",
+     "te": "చిన్న సోపానాల సూత్రం"
+    },
+    {
+     "en": "Principle of Self pacing",
+     "te": "స్వీయగమన సూత్రం"
+    },
+    {
+     "en": "Principle of Immediate self reinforcement",
+     "te": "తక్షణ పునర్భలనసూత్రం"
+    },
+    {
+     "en": "Principle of Student testing",
+     "te": "విద్యార్ధి పరీక్షా సూత్రం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0224",
+   "section": "physics",
+   "number": 224,
+   "question": {
+    "en": "The first step in micro teaching is",
+    "te": "సూక్ష్మ బోధనలోని మొదటి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Skill demonstration",
+     "te": "నైపుణ్య ప్రదర్శన"
+    },
+    {
+     "en": "Micro teaching",
+     "te": "సూక్ష్మ బోధన"
+    },
+    {
+     "en": "Defining the Skill",
+     "te": "నైపుణ్యాన్ని నిర్వచించడం"
+    },
+    {
+     "en": "Transfer of Skill",
+     "te": "నైపుణ్య బదిలీ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 182,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0225",
+   "section": "physics",
+   "number": 225,
+   "question": {
+    "en": "The final step in micro teaching is",
+    "te": "సూక్ష్మ బోధనలోని చివరి సోపానం"
+   },
+   "options": [
+    {
+     "en": "Defining the Skill",
+     "te": "నైపుణ్యాన్ని నిర్వచించడం"
+    },
+    {
+     "en": "Skill demonstration",
+     "te": "నైపుణ్య ప్రదర్శన"
+    },
+    {
+     "en": "Micro teaching",
+     "te": "సూక్ష్మ బోధన"
+    },
+    {
+     "en": "Transfer of Skill",
+     "te": "నైపుణ్య బదిలీ"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0226",
+   "section": "physics",
+   "number": 226,
+   "question": {
+    "en": "The word ‘Curriculum’ is derived from Latin word ‘Currere’ means",
+    "te": "‘కర్రికులం’ అనే పదం ‘కరెరె’ అనే లాటిన్ పదం నుండి వచ్చినది. దాని అర్ధం"
+   },
+   "options": [
+    {
+     "en": "To run",
+     "te": "పరిగెత్తుటకు మార్గం"
+    },
+    {
+     "en": "To learn",
+     "te": "నేర్చుకోవడానికి"
+    },
+    {
+     "en": "To understand",
+     "te": "అర్ధంచేసుకోవడానికి"
+    },
+    {
+     "en": "To write",
+     "te": "వ్రాయడానికి"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0227",
+   "section": "physics",
+   "number": 227,
+   "question": {
+    "en": "This occupied a major role in teaching learning process apart from teacher and student",
+    "te": "బోధనాభ్యసనా ప్రక్రియలో ఉపాధ్యాయుడు మరియు విద్యార్ధితో పాటు ప్రముఖ స్థానాన్ని ఆక్రమించేది"
+   },
+   "options": [
+    {
+     "en": "Black board",
+     "te": "నల్ల బల్ల"
+    },
+    {
+     "en": "Laboratory",
+     "te": "ప్రయోగశాల"
+    },
+    {
+     "en": "Text book",
+     "te": "పాఠ్య పుస్తకం"
+    },
+    {
+     "en": "Atmosphere",
+     "te": "వాతావరణం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0228",
+   "section": "physics",
+   "number": 228,
+   "question": {
+    "en": "This is not a mechanical feature of a text book",
+    "te": "పాఠ్యపుస్తకం యొక్క యాంత్రిక లక్షణం కానిది"
+   },
+   "options": [
+    {
+     "en": "Book binding should be neat",
+     "te": "పుస్తకం బైండింగ్ నీటుగా ఉండాలి"
+    },
+    {
+     "en": "The cover page of text book should be attractive",
+     "te": "పాఠ్య పుస్తక కవర్ పేజీ ఆకర్షణీయంగా ఉండాలి"
+    },
+    {
+     "en": "The size of letters in the text book should be visible",
+     "te": "పాఠ్య పుస్తకంలోని అక్షరాలు కనిపించేంత పరిమాణంలో ఉండాలి"
+    },
+    {
+     "en": "The content in the text book should be logical and meaningful",
+     "te": "పాఠ్య పుస్తకంలో విషయం తార్కికంగానూ మరియు అర్ధవంతంగాను ఉండాలి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0229",
+   "section": "physics",
+   "number": 229,
+   "question": {
+    "en": "Choose the correct option\nA: Evaluation depends on Measurement\nB: Measurement depends on Evaluation",
+    "te": "సరి అయిన ఐచ్ఛికాన్ని ఎంచుకోండి\nమూల్యాంకనం మాపనంపై ఆధారపడుతుంది\nమాపనం మూల్యాంకనంపై ఆధారపడుతుంది"
+   },
+   "options": [
+    {
+     "en": "Both A and B are Correct",
+     "te": "A మరియు B లు రెండూ సరైనవి"
+    },
+    {
+     "en": "Both A and B are Incorrect",
+     "te": "A మరియు Bలు రెండూ సరైనవికావు"
+    },
+    {
+     "en": "Ais correct, B is incorrect",
+     "te": "A సరైనది, B సరికాదు"
+    },
+    {
+     "en": "Ais incorrect, B is correct",
+     "te": "A సరికాదు, B సరైనది"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0230",
+   "section": "physics",
+   "number": 230,
+   "question": {
+    "en": "The evaluation occur during teaching learning process is called",
+    "te": "బోధనాభ్యసన ప్రక్రియ జరుగుతున్నప్పుడే జరిగే మూల్యాంకనాన్ని ఇలా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Placement evaluation",
+     "te": "స్థాన నిర్ధేశిత మూల్యాంకనం"
+    },
+    {
+     "en": "Formative evaluation",
+     "te": "రూపణ మూల్యాంకనం"
+    },
+    {
+     "en": "Summative evaluation",
+     "te": "సంకలన మూల్యాంకనం"
+    },
+    {
+     "en": "Diagnostic evaluation",
+     "te": "సమస్యా నిర్ధారణ మూల్యాంకనం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0231",
+   "section": "physics",
+   "number": 231,
+   "question": {
+    "en": "The type of evaluation used before teaching learning process is",
+    "te": "బోధనాభ్యసన ప్రక్రియ ప్రారంభానికి ముందే జరిగే మూల్యాంకన రకం"
+   },
+   "options": [
+    {
+     "en": "Placement evaluation",
+     "te": "స్థాన నిర్ధేశిత మూల్యాంకనం"
+    },
+    {
+     "en": "Formative evaluation",
+     "te": "రూపణ మూల్యాంకనం"
+    },
+    {
+     "en": "Diagnostic evaluation",
+     "te": "లోప నిర్ధారణ మూల్యాంకనం"
+    },
+    {
+     "en": "Summative evaluation",
+     "te": "సంకలన మూల్యాంకనం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0232",
+   "section": "physics",
+   "number": 232,
+   "question": {
+    "en": "The tests used to identify the problem faced by students in a particular area and its solution are",
+    "te": "ఒక నిర్దిష్ట విభాగంలో విద్యార్ధి ఎదుర్కొనే సమస్యల గుర్తింపుకు మరియు వాటి సాధనకు (లోప నిర్ధారణకు) ఉపయోగించే పరీక్షలు"
+   },
+   "options": [
+    {
+     "en": "Achievement tests",
+     "te": "సాధనా పరీక్షలు"
+    },
+    {
+     "en": "Diagnostic tests",
+     "te": "లోప నిర్ధారణ పరీక్షలు"
+    },
+    {
+     "en": "Aptitude tests",
+     "te": "సహజ సామర్ధ్య పరీక్షలు"
+    },
+    {
+     "en": "Attitude tests",
+     "te": "వైఖరి పరీక్షలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0233",
+   "section": "physics",
+   "number": 233,
+   "question": {
+    "en": "The type of evaluation that ‘Students evaluate their progress themselves’ is called",
+    "te": "విద్యార్ధులు తమంతట తామే తమ ప్రగతిని మూల్యాంకనం చేసుకునే రకమైన మూల్యాంకనాన్ని ఇలా పిలుస్తారు"
+   },
+   "options": [
+    {
+     "en": "Formative evaluation",
+     "te": "రూపణ మూల్యాంకనం"
+    },
+    {
+     "en": "Summative evaluation",
+     "te": "సంకలన మూల్యాంకనం"
+    },
+    {
+     "en": "Self evaluation",
+     "te": "స్వీయ మూల్యాంకనం"
+    },
+    {
+     "en": "Diagnostic evaluation",
+     "te": "లోప నిర్ధారణ మూల్యాంకనం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0234",
+   "section": "physics",
+   "number": 234,
+   "question": {
+    "en": "In the process of evaluation subject matter, learning experiences and evaluation are three components then the fourth component is",
+    "te": "విద్యా మూల్యాంకన ప్రక్రియలో విషయం,అభ్యాసనానుభవాలు మరియు మూల్యాంకనం మూడు అంశాలైతే నాల్గవ అంశం"
+   },
+   "options": [
+    {
+     "en": "Educational objectives",
+     "te": "విద్యా లక్ష్యాలు"
+    },
+    {
+     "en": "Laboratories",
+     "te": "ప్రయోగశాలలు"
+    },
+    {
+     "en": "Attitudes",
+     "te": "వైఖరులు"
+    },
+    {
+     "en": "Aptitudes",
+     "te": "సహజ సామర్ధ్యాలు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0235",
+   "section": "physics",
+   "number": 235,
+   "question": {
+    "en": "The evaluation used after the completion of some chapters",
+    "te": "కొన్ని అధ్యాయాలు పూర్తి అయిన తర్వాత జరిపే మూల్యాంకనం"
+   },
+   "options": [
+    {
+     "en": "Self evaluation",
+     "te": "స్వీయ మూల్యాంకనం"
+    },
+    {
+     "en": "Formative evaluation",
+     "te": "రూపణ మూల్యాంకనం"
+    },
+    {
+     "en": "Summative evaluation",
+     "te": "సంకలన మూల్యాంకనం"
+    },
+    {
+     "en": "Diagnostic evaluation",
+     "te": "లోప నిర్దారణ మూల్యాంకనం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0236",
+   "section": "physics",
+   "number": 236,
+   "question": {
+    "en": "In this type of test the student will answer orally for the questions asked orally",
+    "te": "ఈ రకమైన పరీక్షలో మౌఖికంగా అడిగిన ప్రశ్నలకు విధ్యార్ధి మౌఖికంగానే సమాదానమిస్తాడు"
+   },
+   "options": [
+    {
+     "en": "Written tests",
+     "te": "రాత పరీక్షలు"
+    },
+    {
+     "en": "Summative tests",
+     "te": "సంగ్రహణాత్మక పరీక్షలు"
+    },
+    {
+     "en": "Rating scales",
+     "te": "రేటింగ్ స్కేల్స్"
+    },
+    {
+     "en": "Oral tests",
+     "te": "మౌఖిక పరీక్షలు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 183,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0237",
+   "section": "physics",
+   "number": 237,
+   "question": {
+    "en": "This is not a use of multiple choice questions",
+    "te": "బహుళ్ళైచ్చిక సమాధాన ప్రశ్నల వల్ల ప్రయోజనం కానిది"
+   },
+   "options": [
+    {
+     "en": "Questions are objective",
+     "te": "ప్రశ్నలు లక్ష్యాత్మకమై ఉంటాయి"
+    },
+    {
+     "en": "Importance given to identification",
+     "te": "గుర్తింపుకే ప్రాధాన్యత"
+    },
+    {
+     "en": "Take less time for scoring",
+     "te": "గణనకు తక్కువ సమయం పడుతుంది"
+    },
+    {
+     "en": "Students writing skills can be tested",
+     "te": "విద్యార్ధుల రాత నైపుణ్యాలను పరీక్షించవచ్చు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 184,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0238",
+   "section": "physics",
+   "number": 238,
+   "question": {
+    "en": "The teacher choose a test that fulfil the purpose of which it is meant for. Then the characteristic of this test is",
+    "te": "ఉపాధ్యాయుడు ఎంచుకున్న పరీక్ష ఏ ప్రయోజనం కోసం ఎన్నుకున్నారో దానిని మాపనం చేసింది. అయిన ఆ పరీక్ష యొక్క లక్షణం"
+   },
+   "options": [
+    {
+     "en": "Validity",
+     "te": "సప్రమాణత"
+    },
+    {
+     "en": "Reliability",
+     "te": "విశ్వసనీయత"
+    },
+    {
+     "en": "Objectivity",
+     "te": "లక్ష్యాత్మకత"
+    },
+    {
+     "en": "Utility",
+     "te": "ఔపయోగికత"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 184,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0239",
+   "section": "physics",
+   "number": 239,
+   "question": {
+    "en": "The answer script is evaluated at different times or by different people where same marks are obtained. Then the test has this characteristic",
+    "te": "ఒక సమాధాన పత్రాన్ని వేరువేరు సమయాల్లో గాని లేదా వేరువేరు వ్యక్తులు దిద్దిన గాని ఒకే విధంగా మార్కులు వచ్చాయి. అపుడు ఆ పరీక్షకు ఈ లక్షణం ఉంటుంది"
+   },
+   "options": [
+    {
+     "en": "Validity",
+     "te": "సప్రమాణత"
+    },
+    {
+     "en": "Reliability",
+     "te": "విశ్వసనీయత"
+    },
+    {
+     "en": "Objectivity",
+     "te": "లక్ష్యాత్మకత"
+    },
+    {
+     "en": "Utility",
+     "te": "ఔపయోగికత"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 184,
+   "needsReview": false
+  },
+  {
+   "id": "physics-0240",
+   "section": "physics",
+   "number": 240,
+   "question": {
+    "en": "The science organisation working in our state for popularising Science",
+    "te": "మన రాష్ట్రంలో శాస్త్ర ప్రచారం కోసం పనిచేస్తున్న సైన్స్ సంస్థ"
+   },
+   "options": [
+    {
+     "en": "Ekalavya",
+     "te": "ఏకలవ్య"
+    },
+    {
+     "en": "Jodo gyan",
+     "te": "జోడో జ్ఞాన్"
+    },
+    {
+     "en": "Vikram shila",
+     "te": "విక్రమశిల"
+    },
+    {
+     "en": "Jana vignana Vedika",
+     "te": "జనవిజ్ఞాన వేదిక"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 184,
+   "needsReview": false
+  }
+ ]
+}

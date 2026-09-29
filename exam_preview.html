@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>exam preview</title>
+<link rel="stylesheet" href="public/styles.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500;600&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="app"></div>
+<script type="module">
+import { assembleTest } from "./public/js/data.js";
+import { mountExam } from "./public/js/exam.js";
+const test = await assembleTest("practice", [{ section: "cdp", count: 30 }, { section: "english", count: 10 }], null);
+// simulate progress deep into the english section (sequential positions 31-40)
+test.order.slice(0, 36).forEach((qid, i) => { if (i % 2 === 0) test.answers[qid] = test.byId[qid].answer; });
+test.order.slice(0, 40).forEach((qid) => (test.visited[qid] = true));
+test.current = 38;
+mountExam(document.getElementById("app"), test, { onSubmit: () => {} });
+</script>
+</body>
+</html>

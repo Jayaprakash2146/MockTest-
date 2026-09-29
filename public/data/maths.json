@@ -1,0 +1,7927 @@
+{
+ "section": "maths",
+ "name": "Mathematics",
+ "count": 240,
+ "questions": [
+  {
+   "id": "maths-0001",
+   "section": "maths",
+   "number": 1,
+   "question": {
+    "en": "Number of two digit numbers that are divisible by 4 is",
+    "te": "4 చే నిశ్శేషంగా భాగింప బడే రెండంకెల సంఖ్యల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "21",
+     "te": null
+    },
+    {
+     "en": "22",
+     "te": null
+    },
+    {
+     "en": "23",
+     "te": null
+    },
+    {
+     "en": "24",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0002",
+   "section": "maths",
+   "number": 2,
+   "question": {
+    "en": "LCM of two numbers is 120 and their HCF is 10 if one of the number is 30 then the other number is",
+    "te": "రెండు సంఖ్యల క. సా. గు 120 మరియు వాటి గ. సా. భా 10 అందులో ఒక సంఖ్య 30 అయితే రెండవ సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "20",
+     "te": null
+    },
+    {
+     "en": "40",
+     "te": null
+    },
+    {
+     "en": "60",
+     "te": null
+    },
+    {
+     "en": "80",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0003",
+   "section": "maths",
+   "number": 3,
+   "question": {
+    "en": "Which of the following is terminating decimal",
+    "te": "ఈ క్రింది వానిలో ఏది అంతమయ్యే దశాంశము"
+   },
+   "options": [
+    {
+     "en": "77\n210",
+     "te": null
+    },
+    {
+     "en": "21\n60",
+     "te": null
+    },
+    {
+     "en": "8\n15",
+     "te": null
+    },
+    {
+     "en": "12\n55",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0004",
+   "section": "maths",
+   "number": 4,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/5a7c9d01c5.png",
+   "imageW": 384,
+   "imageH": 219,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0005",
+   "section": "maths",
+   "number": 5,
+   "question": {
+    "en": "The smallest three digit number that is divisible by 4, 6 and 8 is",
+    "te": "4, 6 మరియు 8 ల చే నిశ్శేషంగా భాగించ బడే అతి చిన్న మూడంకెల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "108",
+     "te": null
+    },
+    {
+     "en": "114",
+     "te": null
+    },
+    {
+     "en": "120",
+     "te": null
+    },
+    {
+     "en": "144",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0006",
+   "section": "maths",
+   "number": 6,
+   "question": {
+    "en": "HCF of 75, 105 and 175 is",
+    "te": "75, 105 మరియు 175 ల గ. సా.భా"
+   },
+   "options": [
+    {
+     "en": "5",
+     "te": null
+    },
+    {
+     "en": "7",
+     "te": null
+    },
+    {
+     "en": "15",
+     "te": null
+    },
+    {
+     "en": "35",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0007",
+   "section": "maths",
+   "number": 7,
+   "question": {
+    "en": "Total number of factors of 600 is",
+    "te": "600 నకు గల మొత్తం కారణాంకము ల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "20",
+     "te": null
+    },
+    {
+     "en": "24",
+     "te": null
+    },
+    {
+     "en": "30",
+     "te": null
+    },
+    {
+     "en": "36",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0008",
+   "section": "maths",
+   "number": 8,
+   "question": {
+    "en": "A rational number in between 1/4 and 1/2 is",
+    "te": "1/4 మరియు 1/2 ల మధ్య గల ఒక అకరణీయ సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "3\n7",
+     "te": null
+    },
+    {
+     "en": "4\n7",
+     "te": null
+    },
+    {
+     "en": "5\n8",
+     "te": null
+    },
+    {
+     "en": "6\n11",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0009",
+   "section": "maths",
+   "number": 9,
+   "question": {
+    "en": "The Average of 4.2, 3.8 and 7.6 is",
+    "te": "4.2, 3.8 మరియు 7.6 యొక్క సగటు"
+   },
+   "options": [
+    {
+     "en": "4.2",
+     "te": null
+    },
+    {
+     "en": "4.8",
+     "te": null
+    },
+    {
+     "en": "5.2",
+     "te": null
+    },
+    {
+     "en": "4.6",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0010",
+   "section": "maths",
+   "number": 10,
+   "question": {
+    "en": "Half of 0.1 is",
+    "te": "0.1 నందు సగము"
+   },
+   "options": [
+    {
+     "en": "0.02",
+     "te": null
+    },
+    {
+     "en": "0.5",
+     "te": null
+    },
+    {
+     "en": "0.05",
+     "te": null
+    },
+    {
+     "en": "0.2",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0011",
+   "section": "maths",
+   "number": 11,
+   "question": {
+    "en": "LCM of 20, 25 and 30 is",
+    "te": "20, 25 మరియు 30 ల క. సా. గు"
+   },
+   "options": [
+    {
+     "en": "240",
+     "te": null
+    },
+    {
+     "en": "120",
+     "te": null
+    },
+    {
+     "en": "150",
+     "te": null
+    },
+    {
+     "en": "300",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0012",
+   "section": "maths",
+   "number": 12,
+   "question": {
+    "en": "Which of the following numbers are co-prime",
+    "te": "ఈ క్రింది వాటిలో ఏ సంఖ్యలు సాపేక్షప్రధానాంకాలు"
+   },
+   "options": [
+    {
+     "en": "120, 144",
+     "te": null
+    },
+    {
+     "en": "215, 216",
+     "te": null
+    },
+    {
+     "en": "35, 165",
+     "te": null
+    },
+    {
+     "en": "121, 143",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0013",
+   "section": "maths",
+   "number": 13,
+   "question": {
+    "en": "Number of digits in the square of a five-digit number is",
+    "te": "ఐదు అంకెల సంఖ్య యొక్క వర్గము లో ఉండు అంకెల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "9 or 10",
+     "te": "9 లేదా 10"
+    },
+    {
+     "en": "10 or 11",
+     "te": "10 లేదా 11"
+    },
+    {
+     "en": "10 or 12",
+     "te": "10 లేదా 12"
+    },
+    {
+     "en": "11 or 12",
+     "te": "11 లేదా 12"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0014",
+   "section": "maths",
+   "number": 14,
+   "question": {
+    "en": "How many consecutive odd positive integers added to get 144",
+    "te": "ఎన్ని వరుస ధన బేసి పూర్ణ సంఖ్యల మొత్తము 144 అగును"
+   },
+   "options": [
+    {
+     "en": "8",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    },
+    {
+     "en": "12",
+     "te": null
+    },
+    {
+     "en": "14",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0015",
+   "section": "maths",
+   "number": 15,
+   "question": {
+    "en": "Total number of three-digits perfect squares",
+    "te": "మూడు అంకెలు గల పరిపూర్ణ వర్గ సంఖ్యలు ఎన్ని"
+   },
+   "options": [
+    {
+     "en": "20",
+     "te": null
+    },
+    {
+     "en": "21",
+     "te": null
+    },
+    {
+     "en": "22",
+     "te": null
+    },
+    {
+     "en": "23",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 151,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0016",
+   "section": "maths",
+   "number": 16,
+   "question": {
+    "en": "which of the following is not a perfect square",
+    "te": "ఈ క్రింది వానిలో ఖచ్చిత వర్గము కానిది"
+   },
+   "options": [
+    {
+     "en": "1444",
+     "te": null
+    },
+    {
+     "en": "2744",
+     "te": null
+    },
+    {
+     "en": "3844",
+     "te": null
+    },
+    {
+     "en": "7744",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0017",
+   "section": "maths",
+   "number": 17,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/80c4f14527.png",
+   "imageW": 214,
+   "imageH": 205,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0018",
+   "section": "maths",
+   "number": 18,
+   "question": {
+    "en": "The smallest-square number that is divisible by each of the numbers 4, 9 and 10 is",
+    "te": "4, 9 మరియు 10 ల చే భాగింప బడు కనిష్ట వర్గ సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "180",
+     "te": null
+    },
+    {
+     "en": "360",
+     "te": null
+    },
+    {
+     "en": "900",
+     "te": null
+    },
+    {
+     "en": "1600",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0019",
+   "section": "maths",
+   "number": 19,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/775d348ff1.png",
+   "imageW": 104,
+   "imageH": 179,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0020",
+   "section": "maths",
+   "number": 20,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/f9a95527d2.png",
+   "imageW": 186,
+   "imageH": 174,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0021",
+   "section": "maths",
+   "number": 21,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/9da9bfd539.png",
+   "imageW": 216,
+   "imageH": 178,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0022",
+   "section": "maths",
+   "number": 22,
+   "question": {
+    "en": "Unit digit of cube of 888 is",
+    "te": "888 యొక్క ఘనంలోని ఒకట్ల స్థానం లో ఉండు అంకె"
+   },
+   "options": [
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    },
+    {
+     "en": "6",
+     "te": null
+    },
+    {
+     "en": "8",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0023",
+   "section": "maths",
+   "number": 23,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/fdb8718cbc.png",
+   "imageW": 112,
+   "imageH": 175,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0024",
+   "section": "maths",
+   "number": 24,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/343fc541a9.png",
+   "imageW": 260,
+   "imageH": 177,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0025",
+   "section": "maths",
+   "number": 25,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/9a823d2b95.png",
+   "imageW": 111,
+   "imageH": 203,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0026",
+   "section": "maths",
+   "number": 26,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/9c8b48508f.png",
+   "imageW": 140,
+   "imageH": 203,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0027",
+   "section": "maths",
+   "number": 27,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/229f382047.png",
+   "imageW": 559,
+   "imageH": 274,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0028",
+   "section": "maths",
+   "number": 28,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/119841b273.png",
+   "imageW": 512,
+   "imageH": 295,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0029",
+   "section": "maths",
+   "number": 29,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/988a0e0bec.png",
+   "imageW": 208,
+   "imageH": 198,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0030",
+   "section": "maths",
+   "number": 30,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/31db51d384.png",
+   "imageW": 424,
+   "imageH": 220,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0031",
+   "section": "maths",
+   "number": 31,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/888f68b3ac.png",
+   "imageW": 176,
+   "imageH": 261,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0032",
+   "section": "maths",
+   "number": 32,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/c80037a8a3.png",
+   "imageW": 480,
+   "imageH": 235,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0033",
+   "section": "maths",
+   "number": 33,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/a693f88c1b.png",
+   "imageW": 410,
+   "imageH": 177,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0034",
+   "section": "maths",
+   "number": 34,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/8224244851.png",
+   "imageW": 288,
+   "imageH": 243,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0035",
+   "section": "maths",
+   "number": 35,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/c588210f50.png",
+   "imageW": 227,
+   "imageH": 177,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0036",
+   "section": "maths",
+   "number": 36,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/9567e89d29.png",
+   "imageW": 410,
+   "imageH": 222,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0037",
+   "section": "maths",
+   "number": 37,
+   "question": {
+    "en": "The ratio of 90cm to 1.5m is",
+    "te": "90 సెం.మీ కు 1.5 మీ కు గల నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "5:3",
+     "te": null
+    },
+    {
+     "en": "6:1",
+     "te": null
+    },
+    {
+     "en": "3:5",
+     "te": null
+    },
+    {
+     "en": "1:6",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0038",
+   "section": "maths",
+   "number": 38,
+   "question": {
+    "en": "An Equivalent ratio of 6:4 is",
+    "te": "6:4 కు ఒక సమాన (తుల్య) నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "16:14",
+     "te": null
+    },
+    {
+     "en": "2:3",
+     "te": null
+    },
+    {
+     "en": "4:6",
+     "te": null
+    },
+    {
+     "en": "3:2",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 152,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0039",
+   "section": "maths",
+   "number": 39,
+   "question": {
+    "en": "If ₹60 is divided in the ratio 1:2 between Krithi and Kiran, the share of Kiran is",
+    "te": "కృతి, కిరణ్ లకు ₹60 ను 1:2 నిష్పత్తి లో పంచిన, కిరణ్ వాటా"
+   },
+   "options": [
+    {
+     "en": "₹40",
+     "te": null
+    },
+    {
+     "en": "₹20",
+     "te": null
+    },
+    {
+     "en": "₹30",
+     "te": null
+    },
+    {
+     "en": "₹10",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0040",
+   "section": "maths",
+   "number": 40,
+   "question": {
+    "en": "The ratio of 500ml to 2liters is",
+    "te": "500 మిల్లీ లీ, 2 లీటర్లు కి నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "25:1",
+     "te": null
+    },
+    {
+     "en": "1:4",
+     "te": null
+    },
+    {
+     "en": "50:1",
+     "te": null
+    },
+    {
+     "en": "4:1",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0041",
+   "section": "maths",
+   "number": 41,
+   "question": {
+    "en": "Which of the following pair of ratios are in proportion?",
+    "te": "క్రింది వానిలో ఏ రెండు నిష్పత్తులు అనుపాతంలో ఉన్నవి?"
+   },
+   "options": [
+    {
+     "en": "1:5, 3:5",
+     "te": null
+    },
+    {
+     "en": "2:9, 18:81",
+     "te": null
+    },
+    {
+     "en": "15:45, 5:25",
+     "te": null
+    },
+    {
+     "en": "4:12, 9:24",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0042",
+   "section": "maths",
+   "number": 42,
+   "question": {
+    "en": "Which of the following is in proportion?",
+    "te": "క్రింది వానిలో ఏది అనుపాతంలో ఉన్నవి?"
+   },
+   "options": [
+    {
+     "en": "4, 6, 8, 12",
+     "te": null
+    },
+    {
+     "en": "33, 44, 75, 80",
+     "te": null
+    },
+    {
+     "en": "1, 2, 3, 4",
+     "te": null
+    },
+    {
+     "en": "3, 4, 7, 21",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0043",
+   "section": "maths",
+   "number": 43,
+   "question": {
+    "en": "Which statement among the following is false?",
+    "te": "క్రింది వానిలో ఏది అసత్య ప్రవచనం?"
+   },
+   "options": [
+    {
+     "en": "16:4 = 20:30",
+     "te": null
+    },
+    {
+     "en": "12:18 = 14:21",
+     "te": null
+    },
+    {
+     "en": "1:2 = 3:4",
+     "te": null
+    },
+    {
+     "en": "21:6 = 25:6",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0044",
+   "section": "maths",
+   "number": 44,
+   "question": {
+    "en": "If 1/5 is expressed as percent, its value is",
+    "te": "1/5 ను శాతంగా వ్యక్త పరిస్తే దాని విలువ"
+   },
+   "options": [
+    {
+     "en": "50%",
+     "te": null
+    },
+    {
+     "en": "25%",
+     "te": null
+    },
+    {
+     "en": "20%",
+     "te": null
+    },
+    {
+     "en": "40%",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0045",
+   "section": "maths",
+   "number": 45,
+   "question": {
+    "en": "Converting 5/4 to percent is",
+    "te": "5/4 ను శాతంగా మార్చగ"
+   },
+   "options": [
+    {
+     "en": "150%",
+     "te": null
+    },
+    {
+     "en": "80%",
+     "te": null
+    },
+    {
+     "en": "120%",
+     "te": null
+    },
+    {
+     "en": "125%",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0046",
+   "section": "maths",
+   "number": 46,
+   "question": {
+    "en": "Converting the decimal 0.75 to percent is",
+    "te": "0.75 అనే దశాంశమును శాతముగా మార్చగా"
+   },
+   "options": [
+    {
+     "en": "7.5%",
+     "te": null
+    },
+    {
+     "en": "175%",
+     "te": null
+    },
+    {
+     "en": "75%",
+     "te": null
+    },
+    {
+     "en": "25%",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0047",
+   "section": "maths",
+   "number": 47,
+   "question": {
+    "en": "The value of 75% of 12 is",
+    "te": "12 లో 75% యొక్క విలువ"
+   },
+   "options": [
+    {
+     "en": "9",
+     "te": null
+    },
+    {
+     "en": "75",
+     "te": null
+    },
+    {
+     "en": "900",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0048",
+   "section": "maths",
+   "number": 48,
+   "question": {
+    "en": "The fractional form of 25% is",
+    "te": "25% యొక్క భిన్న రూపం"
+   },
+   "options": [
+    {
+     "en": "3\n4",
+     "te": null
+    },
+    {
+     "en": "25\n10",
+     "te": null
+    },
+    {
+     "en": "2\n10",
+     "te": null
+    },
+    {
+     "en": "1\n4",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0049",
+   "section": "maths",
+   "number": 49,
+   "question": {
+    "en": "If a bicycle is bought for ₹6000 and sold it for ₹5000, then the loss is",
+    "te": "ఒక సైకిల్ ₹6000 కొని, ₹5000 లకు అమ్మినట్లైతే నష్టం"
+   },
+   "options": [
+    {
+     "en": "162\n3%",
+     "te": null
+    },
+    {
+     "en": "18%",
+     "te": null
+    },
+    {
+     "en": "20%",
+     "te": null
+    },
+    {
+     "en": "331\n3%",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0050",
+   "section": "maths",
+   "number": 50,
+   "question": {
+    "en": "If the cost of a toy is ₹700 and it is sold by making a profit of 20% then its selling price is",
+    "te": "ఒక బొమ్మ ఖరీదు (కొన్నవెల) ₹700 మరియు దానిని 20% లాభమునకు అమ్మితే, దీని అమ్మకపు వెల"
+   },
+   "options": [
+    {
+     "en": "₹720",
+     "te": null
+    },
+    {
+     "en": "₹840",
+     "te": null
+    },
+    {
+     "en": "₹560",
+     "te": null
+    },
+    {
+     "en": "₹780",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0051",
+   "section": "maths",
+   "number": 51,
+   "question": {
+    "en": "An item marked at ₹840 and sold for ₹714 then the discount percentage is",
+    "te": "ఒక వస్తువు ప్రకటన వెల ₹840 మరియు అమ్మకపువెల ₹714 అయిన రుసుము శాతం"
+   },
+   "options": [
+    {
+     "en": "10",
+     "te": null
+    },
+    {
+     "en": "12",
+     "te": null
+    },
+    {
+     "en": "24",
+     "te": null
+    },
+    {
+     "en": "15",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0052",
+   "section": "maths",
+   "number": 52,
+   "question": {
+    "en": "A shop gives 20% discount. If a dress is marked at ₹1200, then the sale price of that dress is",
+    "te": "ఒక దుకాణంలో వస్తువులపై 20% రుసుము ఇస్తారు. ఒక డ్రస్ పై ప్రకటన వెల ₹1200 అయితే అమ్మకపు వెల"
+   },
+   "options": [
+    {
+     "en": "₹1440",
+     "te": null
+    },
+    {
+     "en": "₹1000",
+     "te": null
+    },
+    {
+     "en": "₹960",
+     "te": null
+    },
+    {
+     "en": "₹860",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0053",
+   "section": "maths",
+   "number": 53,
+   "question": {
+    "en": "A shop gives 20% discount. If a pair of shoes marked at ₹750, then the sale price of that item is",
+    "te": "ఒక దుకాణంలో వస్తువులపై 20% రుసుము ఇస్తారు. ఒక జత చెప్పుల పై ప్రకటన వెల ₹750 అయితే వాటి అమ్మకపు వెల"
+   },
+   "options": [
+    {
+     "en": "₹900",
+     "te": null
+    },
+    {
+     "en": "₹700",
+     "te": null
+    },
+    {
+     "en": "₹600",
+     "te": null
+    },
+    {
+     "en": "₹640",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0054",
+   "section": "maths",
+   "number": 54,
+   "question": {
+    "en": "If the cost of a table is ₹3500 and it is sold at ₹4200, then the profit on it is",
+    "te": "ఒక టేబుల్ ఖరీదు ₹3500 మరియు దానిని అమ్మినవెల ₹4200 అయితే దాని పై లాభం"
+   },
+   "options": [
+    {
+     "en": "20%",
+     "te": null
+    },
+    {
+     "en": "25%",
+     "te": null
+    },
+    {
+     "en": "7%",
+     "te": null
+    },
+    {
+     "en": "10%",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0055",
+   "section": "maths",
+   "number": 55,
+   "question": {
+    "en": "The selling price of the fan, which bought for ₹560 and expenses of ₹40 made on its repairs with a profit of 5%, is",
+    "te": "₹560 లతో కొన్న ఒక ఫ్యాన్ మరమ్మత్తులకు ₹40 ఖర్చు చేసి, 5% లాభమునకు అమ్మిన, దాని అమ్మకపు వెల"
+   },
+   "options": [
+    {
+     "en": "₹540",
+     "te": null
+    },
+    {
+     "en": "₹630",
+     "te": null
+    },
+    {
+     "en": "₹500",
+     "te": null
+    },
+    {
+     "en": "₹520",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 153,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0056",
+   "section": "maths",
+   "number": 56,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/29cd62081d.png",
+   "imageW": 562,
+   "imageH": 295,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0057",
+   "section": "maths",
+   "number": 57,
+   "question": {
+    "en": "What is the principal, if simple interest got ₹1080 for 3years at 18% of rate of interest per annum is?",
+    "te": "3 సంవత్సరములకు, సంవత్సరానికి 18% వడ్డీ రేటు చొప్పున ₹1080 సాధారణ వడ్డీ వచ్చినట్లయితే అసలు ఎంత?"
+   },
+   "options": [
+    {
+     "en": "₹3000",
+     "te": null
+    },
+    {
+     "en": "₹2500",
+     "te": null
+    },
+    {
+     "en": "₹4000",
+     "te": null
+    },
+    {
+     "en": "₹2000",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0058",
+   "section": "maths",
+   "number": 58,
+   "question": {
+    "en": "The amount to be paid at the end of 2 years on ₹2400 at 5% per annum compounded annually is",
+    "te": "సంవత్సరానికి ఒకసారి వడ్డీ చెల్లించు పద్దతిన ₹2400 పై సంవత్సరమునకు 5% వడ్డీరేటుతో 2 సంవత్సరాల చివర చెల్లించాల్సిన మొత్తం"
+   },
+   "options": [
+    {
+     "en": "₹2864",
+     "te": null
+    },
+    {
+     "en": "₹2564",
+     "te": null
+    },
+    {
+     "en": "₹2646",
+     "te": null
+    },
+    {
+     "en": "₹2864",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0059",
+   "section": "maths",
+   "number": 59,
+   "question": {
+    "en": "A T.V was bought at a price of ₹21,000. After one year the value of the T.V was depreciated by 5%. Then the value of the T.V after one year is",
+    "te": "ఒక టెలివిజన్ ₹21000 లకు కొనబడింది. ఒక సంవత్సరం తరువాత దాని విలువలో తరుగుదల 5% అయితే ఒక సంవత్సరం తరువాత ఆ టెలివిజన్ విలువ"
+   },
+   "options": [
+    {
+     "en": "₹19950",
+     "te": null
+    },
+    {
+     "en": "₹20500",
+     "te": null
+    },
+    {
+     "en": "₹18950",
+     "te": null
+    },
+    {
+     "en": "₹20000",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0060",
+   "section": "maths",
+   "number": 60,
+   "question": {
+    "en": "The compound interest on ₹12600 for 2 years at 10% per annum compounded annually is",
+    "te": "సంవత్సరానికి ఒకసారి తిరిగి కట్టు పద్దతిన ₹12600 కు 10% వడ్డీరేటు చొప్పున 2 సంవత్సరాలకు అగు చక్రవడ్డీ"
+   },
+   "options": [
+    {
+     "en": "₹2520",
+     "te": null
+    },
+    {
+     "en": "₹2646",
+     "te": null
+    },
+    {
+     "en": "₹15246",
+     "te": null
+    },
+    {
+     "en": "₹13246",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0061",
+   "section": "maths",
+   "number": 61,
+   "question": {
+    "en": "A line segments has _____ end points",
+    "te": "ఒక రేఖాఖండానికి గల అంత్య బిందువుల సంఖ్య _____"
+   },
+   "options": [
+    {
+     "en": "0",
+     "te": null
+    },
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0062",
+   "section": "maths",
+   "number": 62,
+   "question": {
+    "en": "The lines which do not meet are said to be ______ lines",
+    "te": "పరస్పరం ఖండించుకొనని రేఖలను _____రేఖలు అంటాము"
+   },
+   "options": [
+    {
+     "en": "Perpendicular",
+     "te": "లంబ"
+    },
+    {
+     "en": "Concurrent",
+     "te": "మిళిత"
+    },
+    {
+     "en": "Intersecting",
+     "te": "ఖండన"
+    },
+    {
+     "en": "Parallel",
+     "te": "సమాంతర"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0063",
+   "section": "maths",
+   "number": 63,
+   "question": {
+    "en": "How many straight lines can pass through two given points?",
+    "te": "ఇవ్వబడిన రెండు బిందువుల గుండా ఎన్ని సరళ రేఖలు పోతాయి?"
+   },
+   "options": [
+    {
+     "en": "0",
+     "te": null
+    },
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "Infinite",
+     "te": "అనంతం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0064",
+   "section": "maths",
+   "number": 64,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/8f5a5961d9.png",
+   "imageW": 317,
+   "imageH": 218,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0065",
+   "section": "maths",
+   "number": 65,
+   "question": {
+    "en": "Sum of three angles in a triangle is equal to ______ right angles",
+    "te": "త్రిభుజం లోని మూడు కోణాల మొత్తం ______ లంబ కోణాలు"
+   },
+   "options": [
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0066",
+   "section": "maths",
+   "number": 66,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/e1a90a32c7.png",
+   "imageW": 550,
+   "imageH": 236,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0067",
+   "section": "maths",
+   "number": 67,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/9cb4350dd4.png",
+   "imageW": 502,
+   "imageH": 217,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0068",
+   "section": "maths",
+   "number": 68,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/1da6296079.png",
+   "imageW": 548,
+   "imageH": 250,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0069",
+   "section": "maths",
+   "number": 69,
+   "question": {
+    "en": "The lengths of the sides of a triangle are 7cm, 8cm, 7cm. So it is a _______ triangle",
+    "te": "ఒక త్రిభుజ భుజాల పొడవులు 7సెం. మీ, 8 సెం. మీ, 7 సెం. మీ. అయితే అది ఒక _______ త్రిభుజం"
+   },
+   "options": [
+    {
+     "en": "Scalene",
+     "te": "విషమబాహు"
+    },
+    {
+     "en": "Isosceles",
+     "te": "సమద్విబాహు"
+    },
+    {
+     "en": "Equilateral",
+     "te": "సమబాహు"
+    },
+    {
+     "en": "Right angled",
+     "te": "లంబకోణ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0070",
+   "section": "maths",
+   "number": 70,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/6a1dd80c82.png",
+   "imageW": 550,
+   "imageH": 218,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0071",
+   "section": "maths",
+   "number": 71,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/7cf74256ff.png",
+   "imageW": 551,
+   "imageH": 294,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0072",
+   "section": "maths",
+   "number": 72,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/3bf8badad6.png",
+   "imageW": 525,
+   "imageH": 218,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0073",
+   "section": "maths",
+   "number": 73,
+   "question": {
+    "en": "The name of a polygon having 6 sides is",
+    "te": "6 భుజాలు కలిగిన బహుభుజి యొక్క పేరు"
+   },
+   "options": [
+    {
+     "en": "Octagon",
+     "te": "అష్టభుజి"
+    },
+    {
+     "en": "Pentagon",
+     "te": "పంచభుజి"
+    },
+    {
+     "en": "Decagon",
+     "te": "దశభుజి"
+    },
+    {
+     "en": "Hexagon",
+     "te": "షడ్భుజి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0074",
+   "section": "maths",
+   "number": 74,
+   "question": {
+    "en": "Which of the following is not a polygon?",
+    "te": "క్రింది వానిలో ఏది బహుభుజి కాదు?"
+   },
+   "options": [
+    {
+     "en": "Rectangle",
+     "te": "దీర్ఘచతురస్రం"
+    },
+    {
+     "en": "Hexagon",
+     "te": "షడ్భుజి"
+    },
+    {
+     "en": "Triangle",
+     "te": "త్రిభుజం"
+    },
+    {
+     "en": "Circle",
+     "te": "వృత్తం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 154,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0075",
+   "section": "maths",
+   "number": 75,
+   "question": {
+    "en": "In a circle, the line segment which join the centre of the circle and any point on the circle is",
+    "te": "ఒక వృత్తంలో, వృత్తకేంద్రమును మరియు వృత్తం పై ఏదేని బిందువును కలుపు రేఖాఖండము"
+   },
+   "options": [
+    {
+     "en": "Diameter",
+     "te": "వ్యాసం"
+    },
+    {
+     "en": "Radius",
+     "te": "వ్యాసార్థం"
+    },
+    {
+     "en": "Chord",
+     "te": "జ్యా"
+    },
+    {
+     "en": "Arc",
+     "te": "చాపం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0076",
+   "section": "maths",
+   "number": 76,
+   "question": {
+    "en": "The line segment which join any two points on a circle is",
+    "te": "ఒక వృత్తం పై ఏ రెండు బిందువుల నైనా కలుపు రేఖాఖండము"
+   },
+   "options": [
+    {
+     "en": "Segment of the circle",
+     "te": "వృత్త ఖండము"
+    },
+    {
+     "en": "Radius",
+     "te": "వ్యాసార్థం"
+    },
+    {
+     "en": "Chord",
+     "te": "జ్యా"
+    },
+    {
+     "en": "Arc",
+     "te": "చాపం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0077",
+   "section": "maths",
+   "number": 77,
+   "question": {
+    "en": "The longest chord in a circle is",
+    "te": "ఒక వృత్తంలో అతి పెద్ద (పొడవైన) జ్యా"
+   },
+   "options": [
+    {
+     "en": "Diameter",
+     "te": "వ్యాసం"
+    },
+    {
+     "en": "Radius",
+     "te": "వ్యాసార్థం"
+    },
+    {
+     "en": "Chord",
+     "te": "జ్యా"
+    },
+    {
+     "en": "Arc",
+     "te": "చాపం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0078",
+   "section": "maths",
+   "number": 78,
+   "question": {
+    "en": "In a circle, angles in the same segment are",
+    "te": "ఒక వృత్తంలో ఒకే వృత్త ఖండంలోని కోణాలు"
+   },
+   "options": [
+    {
+     "en": "Supplementary",
+     "te": "సంపూరకాలు"
+    },
+    {
+     "en": "Complementary",
+     "te": "పూరకాలు"
+    },
+    {
+     "en": "Conjugate angles",
+     "te": "సంయుగ్మ కోణాలు"
+    },
+    {
+     "en": "Equal",
+     "te": "సమానం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0079",
+   "section": "maths",
+   "number": 79,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/a1ff06ad0f.png",
+   "imageW": 549,
+   "imageH": 235,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0080",
+   "section": "maths",
+   "number": 80,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/26aead0d4d.png",
+   "imageW": 515,
+   "imageH": 236,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0081",
+   "section": "maths",
+   "number": 81,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/c2214b5b5a.png",
+   "imageW": 527,
+   "imageH": 268,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0082",
+   "section": "maths",
+   "number": 82,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/18dbed308d.png",
+   "imageW": 549,
+   "imageH": 294,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0083",
+   "section": "maths",
+   "number": 83,
+   "question": {
+    "en": "A tangent to a circle intersects it in ______ point(s)",
+    "te": "వృత్తాన్ని, ఒక స్పర్శరేఖ ______ బిందువు(ల) వద్ద ఖండిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0084",
+   "section": "maths",
+   "number": 84,
+   "question": {
+    "en": "A secant of a circle intersects it in _____ point(s)",
+    "te": "ఛేదన రేఖ, వృత్తాన్ని ______ బిందువు(ల) వద్ద ఖండిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0085",
+   "section": "maths",
+   "number": 85,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/ff10b065dd.png",
+   "imageW": 455,
+   "imageH": 319,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0086",
+   "section": "maths",
+   "number": 86,
+   "question": {
+    "en": "Mode of the data 2, 2, 2, 3, 3, 3, 4, 4, 4, x is 4. Value of x is",
+    "te": "2, 2, 2, 3, 3, 3, 4, 4, 4, x ల బాహుళకము 4 అయిన x విలువ"
+   },
+   "options": [
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    },
+    {
+     "en": "5",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0087",
+   "section": "maths",
+   "number": 87,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/62f057c148.png",
+   "imageW": 511,
+   "imageH": 418,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0088",
+   "section": "maths",
+   "number": 88,
+   "question": {
+    "en": "The mean of first 9 prime numbers is",
+    "te": "మొదటి 9 ప్రధాన సంఖ్యల సరాసరి"
+   },
+   "options": [
+    {
+     "en": "2\n9",
+     "te": null
+    },
+    {
+     "en": "111\n9",
+     "te": null
+    },
+    {
+     "en": "11",
+     "te": null
+    },
+    {
+     "en": "9",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0089",
+   "section": "maths",
+   "number": 89,
+   "question": {
+    "en": "Father of statistics",
+    "te": "సాంఖ్యకశాస్త్ర పితామహుడు"
+   },
+   "options": [
+    {
+     "en": "Pascal",
+     "te": null
+    },
+    {
+     "en": "Libneitz",
+     "te": null
+    },
+    {
+     "en": "Sir Ronald A. Fisher",
+     "te": null
+    },
+    {
+     "en": "Selvistar",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0090",
+   "section": "maths",
+   "number": 90,
+   "question": {
+    "en": "If the mean of 2, 3, 4, 5, x is 5 then value of x is",
+    "te": "2, 3, 4, 5, x ల యొక్క సగటు 5 అయిన x విలువ"
+   },
+   "options": [
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "11",
+     "te": null
+    },
+    {
+     "en": "5",
+     "te": null
+    },
+    {
+     "en": "6",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0091",
+   "section": "maths",
+   "number": 91,
+   "question": {
+    "en": "Mean of 10 numbers is 7 and another 15 numbers is 12, then mean of those 25 numbers is",
+    "te": "10 సంఖ్యల సగటు 7, మరో 15 సంఖ్యల సగటు 12 అయితే మొత్తం 25 సంఖ్యల సగటు"
+   },
+   "options": [
+    {
+     "en": "25",
+     "te": null
+    },
+    {
+     "en": "19",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    },
+    {
+     "en": "250",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0092",
+   "section": "maths",
+   "number": 92,
+   "question": {
+    "en": "Mean of first 100 natural numbers is",
+    "te": "మొదటి 100 సహజ సంఖ్యల సగటు"
+   },
+   "options": [
+    {
+     "en": "48.5",
+     "te": null
+    },
+    {
+     "en": "50.5",
+     "te": null
+    },
+    {
+     "en": "50",
+     "te": null
+    },
+    {
+     "en": "51.5",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 155,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0093",
+   "section": "maths",
+   "number": 93,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/eeca987114.png",
+   "imageW": 434,
+   "imageH": 243,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0094",
+   "section": "maths",
+   "number": 94,
+   "question": {
+    "en": "Average of 5 consecutive numbers is 16 the biggest number is",
+    "te": "5 వరుస సంఖ్యల సరాసరి 16 అయిన ఆ సంఖ్యల లోకెల్లా పెద్ద సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "21",
+     "te": null
+    },
+    {
+     "en": "19",
+     "te": null
+    },
+    {
+     "en": "20",
+     "te": null
+    },
+    {
+     "en": "18",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0095",
+   "section": "maths",
+   "number": 95,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/8ef701ba26.png",
+   "imageW": 268,
+   "imageH": 329,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0096",
+   "section": "maths",
+   "number": 96,
+   "question": {
+    "en": "Mode of the data 2, 3, 4, 6, 3, 5, 8, 4, 3 is",
+    "te": "2, 3, 4, 6, 3, 5, 8, 4, 3 ల బాహుళకము"
+   },
+   "options": [
+    {
+     "en": "4",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "6",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0097",
+   "section": "maths",
+   "number": 97,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/36654886b2.png",
+   "imageW": 556,
+   "imageH": 327,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0098",
+   "section": "maths",
+   "number": 98,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/14fa994197.png",
+   "imageW": 476,
+   "imageH": 223,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0099",
+   "section": "maths",
+   "number": 99,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/3d68a0040a.png",
+   "imageW": 394,
+   "imageH": 220,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0100",
+   "section": "maths",
+   "number": 100,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/685d6a809b.png",
+   "imageW": 454,
+   "imageH": 252,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0101",
+   "section": "maths",
+   "number": 101,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/89b854105a.png",
+   "imageW": 563,
+   "imageH": 219,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0102",
+   "section": "maths",
+   "number": 102,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/54d8f8e0b3.png",
+   "imageW": 439,
+   "imageH": 219,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0103",
+   "section": "maths",
+   "number": 103,
+   "question": {
+    "en": "A polynomial of degree 2 is",
+    "te": "పరిమాణము 2 గా గల బహుపది"
+   },
+   "options": [
+    {
+     "en": "linear polynomial",
+     "te": "రేఖీయ బహుపది"
+    },
+    {
+     "en": "Quadratic polynomial",
+     "te": "వర్గ బహుపది"
+    },
+    {
+     "en": "Cubic polynomial",
+     "te": "ఘన బహుపది"
+    },
+    {
+     "en": "Zero polynomial",
+     "te": "శూన్య బహుపది"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0104",
+   "section": "maths",
+   "number": 104,
+   "question": {
+    "en": "The number of solutions for a linear equation in two variables",
+    "te": "రెండు చరరాశులలో రేఖీయ సమీకరణానికి గల సాధనల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "Unique solution",
+     "te": "ఏకైక సాధన ఉంటుంది"
+    },
+    {
+     "en": "Only two solutions",
+     "te": "రెండు సాధనలు మాత్రమే ఉంటాయి"
+    },
+    {
+     "en": "Infinitely many solutions",
+     "te": "అనంత సాధనలు ఉంటాయి"
+    },
+    {
+     "en": "No solution",
+     "te": "సాధనలు ఉండవు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0105",
+   "section": "maths",
+   "number": 105,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/df8891c0fa.png",
+   "imageW": 523,
+   "imageH": 369,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0106",
+   "section": "maths",
+   "number": 106,
+   "question": {
+    "en": "Two consecutive odd positive integers whose sum of squares is 290, then that numbers are",
+    "te": "రెండు వరుస ధన బేసి సంఖ్యల వర్గాల మొత్తం 290 అయిన ఆ సంఖ్యలు"
+   },
+   "options": [
+    {
+     "en": "11, 13",
+     "te": null
+    },
+    {
+     "en": "13, 15",
+     "te": null
+    },
+    {
+     "en": "21, 23",
+     "te": null
+    },
+    {
+     "en": "15, 17",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0107",
+   "section": "maths",
+   "number": 107,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/fe84c5e092.png",
+   "imageW": 545,
+   "imageH": 233,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0108",
+   "section": "maths",
+   "number": 108,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/7b57c0c6b5.png",
+   "imageW": 562,
+   "imageH": 297,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0109",
+   "section": "maths",
+   "number": 109,
+   "question": {
+    "en": "The 6th term in the AP: 21,18,15…… is",
+    "te": "21, 18, 15,...... అంకశ్రేడి లో 6వ పదం"
+   },
+   "options": [
+    {
+     "en": "6",
+     "te": null
+    },
+    {
+     "en": "9",
+     "te": null
+    },
+    {
+     "en": "12",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0110",
+   "section": "maths",
+   "number": 110,
+   "question": {
+    "en": "The 2nd term from the end of the AP: 3,8,13,……,253",
+    "te": "3,8,13,……,253 అంకశ్రేడి యొక్క చివరి నుండి 2వ పదము"
+   },
+   "options": [
+    {
+     "en": "162",
+     "te": null
+    },
+    {
+     "en": "160",
+     "te": null
+    },
+    {
+     "en": "248",
+     "te": null
+    },
+    {
+     "en": "174",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 156,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0111",
+   "section": "maths",
+   "number": 111,
+   "question": {
+    "en": "6th term of an AP: 2,5/2,3, 7/2,….. is",
+    "te": "2,5/2,3, 7/2,….. అంకశ్రేడి లో 6 వ పదము"
+   },
+   "options": [
+    {
+     "en": "4",
+     "te": null
+    },
+    {
+     "en": "9\n2",
+     "te": null
+    },
+    {
+     "en": "5",
+     "te": null
+    },
+    {
+     "en": "11\n2",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0112",
+   "section": "maths",
+   "number": 112,
+   "question": {
+    "en": "Common difference of AP: 1,3,5,7,……..",
+    "te": "1,3,5,7,...... అంకశ్రేడిలో సామాన్య భేదము"
+   },
+   "options": [
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "5",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0113",
+   "section": "maths",
+   "number": 113,
+   "question": {
+    "en": "The fourth term of the AP whose first term is 10 and common difference is 5",
+    "te": "మొదటి పదము 10 మరియు సామాన్య భేదము 5 గా గల అంకశ్రేడిలో నాల్గవ పదము"
+   },
+   "options": [
+    {
+     "en": "10",
+     "te": null
+    },
+    {
+     "en": "15",
+     "te": null
+    },
+    {
+     "en": "20",
+     "te": null
+    },
+    {
+     "en": "25",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0114",
+   "section": "maths",
+   "number": 114,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/e400c93f80.png",
+   "imageW": 564,
+   "imageH": 274,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0115",
+   "section": "maths",
+   "number": 115,
+   "question": {
+    "en": "Number of terms of the AP: 24,21,18,…..3",
+    "te": "24,21,18.......3 అంకశ్రేడి లోని పదాల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "8",
+     "te": null
+    },
+    {
+     "en": "5",
+     "te": null
+    },
+    {
+     "en": "6",
+     "te": null
+    },
+    {
+     "en": "7",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0116",
+   "section": "maths",
+   "number": 116,
+   "question": {
+    "en": "The sum of the 10 terms of the AP: 2,7,12,….. is",
+    "te": "2,7,12........ అంకశ్రేడిలో 10 పదాల మొత్తం"
+   },
+   "options": [
+    {
+     "en": "240",
+     "te": null
+    },
+    {
+     "en": "245",
+     "te": null
+    },
+    {
+     "en": "250",
+     "te": null
+    },
+    {
+     "en": "255",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0117",
+   "section": "maths",
+   "number": 117,
+   "question": {
+    "en": "The Sum of 10 terms of the AP: -0.5,-1.0,-1.5….. is",
+    "te": "-0.5,-1.0,-1.5….. అంకశ్రేడి నందు 10 పదాల మొత్తము"
+   },
+   "options": [
+    {
+     "en": "-30.5",
+     "te": null
+    },
+    {
+     "en": "27.5",
+     "te": null
+    },
+    {
+     "en": "-32.5",
+     "te": null
+    },
+    {
+     "en": "-27.5",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0118",
+   "section": "maths",
+   "number": 118,
+   "question": {
+    "en": "Sum of first 14 terms of an AP is 1050 and its first term is 10 then 20th term is",
+    "te": "ఒక అంకశ్రేడిలో మొదటి పదము 10 మరియు మొదటి 14 పదముల మొత్తం 1050 అయిన 20 వ పదము"
+   },
+   "options": [
+    {
+     "en": "200",
+     "te": null
+    },
+    {
+     "en": "225",
+     "te": null
+    },
+    {
+     "en": "250",
+     "te": null
+    },
+    {
+     "en": "275",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0119",
+   "section": "maths",
+   "number": 119,
+   "question": {
+    "en": "Which terms of the AP: 63,65,67,….. and 3,10,17,…. Are equal",
+    "te": "63,65,67,….. మరియు 3,10,17,…. అంకశ్రేఢులలో ఎన్నవ పదము సమానము"
+   },
+   "options": [
+    {
+     "en": "11",
+     "te": null
+    },
+    {
+     "en": "12",
+     "te": null
+    },
+    {
+     "en": "13",
+     "te": null
+    },
+    {
+     "en": "14",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0120",
+   "section": "maths",
+   "number": 120,
+   "question": {
+    "en": "17th term of an AP exceeds its 10th term by 7 then the common difference is",
+    "te": "ఒక అంకశ్రేడిలో 17 వ పదము 10వ పదము కంటే 7 ఎక్కువ అయిన సామాన్య భేదము"
+   },
+   "options": [
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0121",
+   "section": "maths",
+   "number": 121,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/4c889ec47c.png",
+   "imageW": 562,
+   "imageH": 478,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0122",
+   "section": "maths",
+   "number": 122,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/423264d7a2.png",
+   "imageW": 557,
+   "imageH": 449,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0123",
+   "section": "maths",
+   "number": 123,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/561adbb571.png",
+   "imageW": 549,
+   "imageH": 369,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0124",
+   "section": "maths",
+   "number": 124,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/ca0aa587df.png",
+   "imageW": 549,
+   "imageH": 370,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0125",
+   "section": "maths",
+   "number": 125,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/720568149a.png",
+   "imageW": 563,
+   "imageH": 403,
+   "sourcePage": 157,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0126",
+   "section": "maths",
+   "number": 126,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/6dbba012f5.png",
+   "imageW": 560,
+   "imageH": 524,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0127",
+   "section": "maths",
+   "number": 127,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/ef844b2b63.png",
+   "imageW": 339,
+   "imageH": 218,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0128",
+   "section": "maths",
+   "number": 128,
+   "question": {
+    "en": "Two cubes each with side “b” are joined to form a cuboid. The surface area of a cuboid is",
+    "te": "ప్రతి భుజం “b” గా గల రెండు సమఘనాలను జోడించి దీర్ఘఘనం చేశారు. ఈ దీర్ఘఘనం ఉపరితల వైశాల్యం"
+   },
+   "options": [
+    {
+     "en": "18 b^2",
+     "te": null
+    },
+    {
+     "en": "12 b^2",
+     "te": null
+    },
+    {
+     "en": "10 b^2",
+     "te": null
+    },
+    {
+     "en": "8 b^2",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0129",
+   "section": "maths",
+   "number": 129,
+   "question": {
+    "en": "After the surface area of a cube is painted, the cube is cut into 64 smaller cubes of same dimensions. How many have no face painted?",
+    "te": "ఒక సమఘనము యొక్క ఉపరితలానికి రంగు వేసిన తరువాత ఆ ఘనమును 64 సమాన చిన్న ఘనాలుగా విభజించిరి వీటిలో ఎన్నింటికి ఒక్క ముఖానికి కూడా రంగు వేయబడి ఉండదు?"
+   },
+   "options": [
+    {
+     "en": "4",
+     "te": null
+    },
+    {
+     "en": "6",
+     "te": null
+    },
+    {
+     "en": "8",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0130",
+   "section": "maths",
+   "number": 130,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/7afbc32c18.png",
+   "imageW": 558,
+   "imageH": 368,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0131",
+   "section": "maths",
+   "number": 131,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/f1e90e4626.png",
+   "imageW": 545,
+   "imageH": 291,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0132",
+   "section": "maths",
+   "number": 132,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/2083100e21.png",
+   "imageW": 484,
+   "imageH": 218,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0133",
+   "section": "maths",
+   "number": 133,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/6c49028812.png",
+   "imageW": 270,
+   "imageH": 222,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0134",
+   "section": "maths",
+   "number": 134,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/83cae03040.png",
+   "imageW": 538,
+   "imageH": 370,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0135",
+   "section": "maths",
+   "number": 135,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/e909c3732f.png",
+   "imageW": 554,
+   "imageH": 432,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0136",
+   "section": "maths",
+   "number": 136,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/0760061d5c.png",
+   "imageW": 542,
+   "imageH": 295,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0137",
+   "section": "maths",
+   "number": 137,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/83f1e461e8.png",
+   "imageW": 547,
+   "imageH": 366,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0138",
+   "section": "maths",
+   "number": 138,
+   "question": {
+    "en": "If each edge of a cube is doubled its volume will becomes ______ times to its original",
+    "te": "సమ ఘనం యొక్క ప్రతి అంచును రెట్టింపు చేస్తే దాని ఘనపరిమాణం మొదటి దానికి ______ రెట్లు అగును"
+   },
+   "options": [
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "4",
+     "te": null
+    },
+    {
+     "en": "6",
+     "te": null
+    },
+    {
+     "en": "8",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 158,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0139",
+   "section": "maths",
+   "number": 139,
+   "question": {
+    "en": "Given a cylindrical tank, in which situation will you find volume\n(a) To find how much it can hold\n(b) Number of cement bags required to plaster it\n(c) To find the number of smaller tanks that can be filled with water from it",
+    "te": "ఒక స్థూపాకార ట్యాంకు ఇచ్చిన,మీరు ఏ సందర్భాలలో దాని ఘనపరిమాణం కనుగొంటారు\nఅది ఎంత నిల్వ చేయగలదో కనుగొనడానికి\nదానిని ప్లాస్టరీంగ్ చేయడానికి అవసరమైన సిమెంటు బస్తాల సంఖ్య కనుగొనటానికి\nదానిలో ఉన్న నీటిని నింపడానికి అవసరమయ్యే చిన్న ట్యాంకుల సంఖ్య కనుగొనటానికి"
+   },
+   "options": [
+    {
+     "en": "a and c",
+     "te": null
+    },
+    {
+     "en": "a and b",
+     "te": null
+    },
+    {
+     "en": "b and c",
+     "te": null
+    },
+    {
+     "en": "All a, b, c",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0140",
+   "section": "maths",
+   "number": 140,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/8a7223e82f.png",
+   "imageW": 561,
+   "imageH": 368,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0141",
+   "section": "maths",
+   "number": 141,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/73a5441b09.png",
+   "imageW": 565,
+   "imageH": 311,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0142",
+   "section": "maths",
+   "number": 142,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/4d08200516.png",
+   "imageW": 552,
+   "imageH": 343,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0143",
+   "section": "maths",
+   "number": 143,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/e9151f43f8.png",
+   "imageW": 565,
+   "imageH": 294,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0144",
+   "section": "maths",
+   "number": 144,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/fe639cd5e8.png",
+   "imageW": 526,
+   "imageH": 296,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0145",
+   "section": "maths",
+   "number": 145,
+   "question": {
+    "en": "The sum of the probabilities of all the elementary events of an experiment is",
+    "te": "ఒక ప్రయోగం యొక్క అన్నీ ప్రాథమిక ఘటనల సంభావ్యతల మొత్తం"
+   },
+   "options": [
+    {
+     "en": "0",
+     "te": null
+    },
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0146",
+   "section": "maths",
+   "number": 146,
+   "question": {
+    "en": "The probability of certain event is",
+    "te": "నిశ్చిత ఘటన యొక్క సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "0",
+     "te": null
+    },
+    {
+     "en": "1\n2",
+     "te": null
+    },
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "1\n3",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0147",
+   "section": "maths",
+   "number": 147,
+   "question": {
+    "en": "The probability of an impossible event is",
+    "te": "అసాధ్య ఘటన యొక్క సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "2\n3",
+     "te": null
+    },
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "0",
+     "te": null
+    },
+    {
+     "en": "1\n2",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0148",
+   "section": "maths",
+   "number": 148,
+   "question": {
+    "en": "The probability of drawing a king card from a well- shuffled deck of 52 cards is",
+    "te": "బాగుగా కలపబడిన 52 కార్డులు గల పేక ముక్కల కట్ట నుండి రాజు కార్డును తీయు సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "1\n26",
+     "te": null
+    },
+    {
+     "en": "1\n13",
+     "te": null
+    },
+    {
+     "en": "3\n53",
+     "te": null
+    },
+    {
+     "en": "1\n12",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0149",
+   "section": "maths",
+   "number": 149,
+   "question": {
+    "en": "The probability of drawing a face card from well- shuffled deck of 52 cards is",
+    "te": "బాగుగా కలపబడిన 52 కార్డులు గల పేక ముక్కల కట్ట నుండి ముఖ కార్డును తీయు సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "3\n13",
+     "te": null
+    },
+    {
+     "en": "2\n13",
+     "te": null
+    },
+    {
+     "en": "1\n13",
+     "te": null
+    },
+    {
+     "en": "3\n52",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0150",
+   "section": "maths",
+   "number": 150,
+   "question": {
+    "en": "The probability of getting an even number when a die is thrown ones",
+    "te": "ఒక పాచికను ఒక సారి దొర్లిస్తే సరిసంఖ్య ను పొందు సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "1\n3",
+     "te": null
+    },
+    {
+     "en": "1\n2",
+     "te": null
+    },
+    {
+     "en": "1\n6",
+     "te": null
+    },
+    {
+     "en": "5\n6",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0151",
+   "section": "maths",
+   "number": 151,
+   "question": {
+    "en": "The probability of drawing a white marble randomly from a certain box contains 5 red marbles, 8 white marbles and 4 green marbles.",
+    "te": "5 ఎర్రని, 8 తెల్లని మరియు 4 ఆకుపచ్చ గోళీలు గల ఒక పెట్టె నుండి యాదృచ్ఛికంగా ఒక తెల్లని గోళిని తీయు సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "5\n17",
+     "te": null
+    },
+    {
+     "en": "4\n17",
+     "te": null
+    },
+    {
+     "en": "12\n17",
+     "te": null
+    },
+    {
+     "en": "8\n17",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 159,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0152",
+   "section": "maths",
+   "number": 152,
+   "question": {
+    "en": "The winning probability of a player A in a game with player B is 0.35. Then the winning probability of player B is",
+    "te": "ఒకానొక ఆటలో A ఆటగాడు, B ఆటగాడితో గెలుపొందే సంభావ్యత 0.35. అయితే B ఆటగాడు గెలుపొందే సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "0.35",
+     "te": null
+    },
+    {
+     "en": "0.55",
+     "te": null
+    },
+    {
+     "en": "0.65",
+     "te": null
+    },
+    {
+     "en": "0.75",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0153",
+   "section": "maths",
+   "number": 153,
+   "question": {
+    "en": "In a normal year the probability of celebrating two friends their birth day on same day is",
+    "te": "ఒక సాధారణ సంవత్సరంలో ఇద్దరు స్నేహితులు ఒకే రోజు తమ పుట్టిన రోజును జరుపుకొనే సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "1\n2",
+     "te": null
+    },
+    {
+     "en": "1\n365",
+     "te": null
+    },
+    {
+     "en": "1\n366",
+     "te": null
+    },
+    {
+     "en": "1\n24",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0154",
+   "section": "maths",
+   "number": 154,
+   "question": {
+    "en": "When two dice are thrown the probability of getting same number on the top of dice is",
+    "te": "రెండు పాచికలు ఒకేసారి దొర్లించినపుడు రెండింటిపై ముఖాలపై ఒకే అంకెను పొందే సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "1\n6",
+     "te": null
+    },
+    {
+     "en": "5\n36",
+     "te": null
+    },
+    {
+     "en": "13\n36",
+     "te": null
+    },
+    {
+     "en": "1\n4",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0155",
+   "section": "maths",
+   "number": 155,
+   "question": {
+    "en": "The probability of getting at least one head when two coins tossed at a time",
+    "te": "ఒకేసారి రెండు నాణేలు ఎగురవేసినప్పుడు కనీసం ఒక బొమ్మ పడే సంభావ్యత"
+   },
+   "options": [
+    {
+     "en": "0.25",
+     "te": null
+    },
+    {
+     "en": "0.50",
+     "te": null
+    },
+    {
+     "en": "0.75",
+     "te": null
+    },
+    {
+     "en": "1.0",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0156",
+   "section": "maths",
+   "number": 156,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/5278b218d7.png",
+   "imageW": 559,
+   "imageH": 291,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0157",
+   "section": "maths",
+   "number": 157,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/9289896da0.png",
+   "imageW": 528,
+   "imageH": 296,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0158",
+   "section": "maths",
+   "number": 158,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/ef251ccb50.png",
+   "imageW": 548,
+   "imageH": 298,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0159",
+   "section": "maths",
+   "number": 159,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/0d442da759.png",
+   "imageW": 535,
+   "imageH": 249,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0160",
+   "section": "maths",
+   "number": 160,
+   "question": {
+    "en": "If three points are collinear the area of triangle formed by those three points is (in sq. units)",
+    "te": "సరేఖీయాలు అయిన 3 బిందువులచే ఏర్పడే త్రిభుజ వైశాల్యం (చ. ప్రమాణాలలో)"
+   },
+   "options": [
+    {
+     "en": "3",
+     "te": null
+    },
+    {
+     "en": "0",
+     "te": null
+    },
+    {
+     "en": "1",
+     "te": null
+    },
+    {
+     "en": "10",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0161",
+   "section": "maths",
+   "number": 161,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/9b33837a1e.png",
+   "imageW": 540,
+   "imageH": 250,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0162",
+   "section": "maths",
+   "number": 162,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/7d310c9903.png",
+   "imageW": 554,
+   "imageH": 295,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0163",
+   "section": "maths",
+   "number": 163,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/b7089b73f1.png",
+   "imageW": 538,
+   "imageH": 259,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0164",
+   "section": "maths",
+   "number": 164,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/cf27ff9448.png",
+   "imageW": 552,
+   "imageH": 328,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0165",
+   "section": "maths",
+   "number": 165,
+   "question": {
+    "en": "Centroid of a triangle divides the median in the ratio",
+    "te": "త్రిభుజ గురుత్వ కేంద్రం మధ్యగత రేఖను విభజించు నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "1:1",
+     "te": null
+    },
+    {
+     "en": "2:5",
+     "te": null
+    },
+    {
+     "en": "2:1",
+     "te": null
+    },
+    {
+     "en": "5:3",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0166",
+   "section": "maths",
+   "number": 166,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/635797b9d2.png",
+   "imageW": 511,
+   "imageH": 307,
+   "sourcePage": 160,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0167",
+   "section": "maths",
+   "number": 167,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/c9d2258f3d.png",
+   "imageW": 542,
+   "imageH": 296,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0168",
+   "section": "maths",
+   "number": 168,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/2fe2ba543b.png",
+   "imageW": 539,
+   "imageH": 306,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0169",
+   "section": "maths",
+   "number": 169,
+   "question": {
+    "en": "The first use of the idea of ‘sine’ in the way we use it today by",
+    "te": "మనం ఈ రోజుల్లో ఉపయోగిస్తున్న ‘sine’ అనే భావన మొట్ట మొదటి సారిగా ప్రస్తావించిన వారు"
+   },
+   "options": [
+    {
+     "en": "Bhaskaracharya",
+     "te": "భాస్కరా చార్యుడు"
+    },
+    {
+     "en": "Varahamihara",
+     "te": "వరాహామీహార"
+    },
+    {
+     "en": "Aryabhata",
+     "te": "ఆర్యభట్ట"
+    },
+    {
+     "en": "Srinivasa Ramanujan",
+     "te": "శ్రీనివాస రామానుజన్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0170",
+   "section": "maths",
+   "number": 170,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/e8bcd83171.png",
+   "imageW": 266,
+   "imageH": 323,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0171",
+   "section": "maths",
+   "number": 171,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/b2cefb4c13.png",
+   "imageW": 560,
+   "imageH": 380,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0172",
+   "section": "maths",
+   "number": 172,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/c6b81d2a8b.png",
+   "imageW": 219,
+   "imageH": 229,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0173",
+   "section": "maths",
+   "number": 173,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/2358cc8a49.png",
+   "imageW": 161,
+   "imageH": 198,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0174",
+   "section": "maths",
+   "number": 174,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/f8b16a5454.png",
+   "imageW": 486,
+   "imageH": 323,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0175",
+   "section": "maths",
+   "number": 175,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/bf14f7eace.png",
+   "imageW": 195,
+   "imageH": 199,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0176",
+   "section": "maths",
+   "number": 176,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/96ba1e25c5.png",
+   "imageW": 553,
+   "imageH": 325,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0177",
+   "section": "maths",
+   "number": 177,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/becd2cdd03.png",
+   "imageW": 244,
+   "imageH": 174,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0178",
+   "section": "maths",
+   "number": 178,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/364fdf679f.png",
+   "imageW": 349,
+   "imageH": 220,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0179",
+   "section": "maths",
+   "number": 179,
+   "question": {
+    "en": "Which of the following is ‘tan A’ ratio",
+    "te": "క్రింది వానిలో ‘tan A’ నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "opposite side to A\nhypotenuse",
+     "te": "A కు ఎదుటి భుజం\nకర్ణము"
+    },
+    {
+     "en": "Adjacent side to A\nhypotenuse",
+     "te": "A కు ఆసన్న భుజం\nకర్ణము"
+    },
+    {
+     "en": "opposite side to A\nAdjacent side to A",
+     "te": "A కు ఎదుటి భుజం\nA కు ఆసన్న భుజం"
+    },
+    {
+     "en": "Adjacent side to A\nopposite side to A",
+     "te": "A కు ఆసన్న భుజం\nA కు ఎదుటి భుజం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0180",
+   "section": "maths",
+   "number": 180,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/5b20462f7c.png",
+   "imageW": 369,
+   "imageH": 201,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0181",
+   "section": "maths",
+   "number": 181,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/aa636e24a7.png",
+   "imageW": 543,
+   "imageH": 326,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0182",
+   "section": "maths",
+   "number": 182,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/adcdf88a91.png",
+   "imageW": 547,
+   "imageH": 296,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0183",
+   "section": "maths",
+   "number": 183,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/80c4622817.png",
+   "imageW": 558,
+   "imageH": 398,
+   "sourcePage": 161,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0184",
+   "section": "maths",
+   "number": 184,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/bc8aaad202.png",
+   "imageW": 557,
+   "imageH": 380,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0185",
+   "section": "maths",
+   "number": 185,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/6cfe174da1.png",
+   "imageW": 555,
+   "imageH": 423,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0186",
+   "section": "maths",
+   "number": 186,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/c68b3c6be5.png",
+   "imageW": 562,
+   "imageH": 303,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0187",
+   "section": "maths",
+   "number": 187,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/1423c9c3e9.png",
+   "imageW": 549,
+   "imageH": 451,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0188",
+   "section": "maths",
+   "number": 188,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/9e46885b0f.png",
+   "imageW": 552,
+   "imageH": 368,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0189",
+   "section": "maths",
+   "number": 189,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/92d1b619ad.png",
+   "imageW": 557,
+   "imageH": 364,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0190",
+   "section": "maths",
+   "number": 190,
+   "question": {
+    "en": "The angle formed by the line of sight with the horizontal when the point being viewed is above the horizontal level is",
+    "te": "పరిశీలకుడు చూసే బిందువు క్షితిజ సమాంతర రేఖకు ఎగువన వుంటే దృష్టి రేఖ క్షితిజ సమాంతర రేఖతో చేసే కోణము"
+   },
+   "options": [
+    {
+     "en": "Angle of elevation",
+     "te": "ఊర్ధ్వ కోణము"
+    },
+    {
+     "en": "Angle of depression",
+     "te": "నిమ్న కోణము"
+    },
+    {
+     "en": "Angle of inclination",
+     "te": "పతన కోణము"
+    },
+    {
+     "en": "Alternate angle",
+     "te": "ఏకాంతర కోణము"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0191",
+   "section": "maths",
+   "number": 191,
+   "question": {
+    "en": "The angle formed by the line of sight with the horizontal when the point being viewed is below the horizontal level is",
+    "te": "పరిశీలకుడు చూసే బిందువు క్షితిజ సమాంతర రేఖకు దిగువన వుంటే దృష్టి రేఖ క్షితిజ సమాంతర రేఖతో చేసే కోణము"
+   },
+   "options": [
+    {
+     "en": "Angle of elevation",
+     "te": "ఊర్ధ్వ కోణము"
+    },
+    {
+     "en": "Angle of depression",
+     "te": "నిమ్న కోణము"
+    },
+    {
+     "en": "Angle of inclination",
+     "te": "పతన కోణము"
+    },
+    {
+     "en": "Alternate angle",
+     "te": "ఏకాంతర కోణము"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0192",
+   "section": "maths",
+   "number": 192,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/e560ad2af4.png",
+   "imageW": 502,
+   "imageH": 293,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0193",
+   "section": "maths",
+   "number": 193,
+   "question": {
+    "en": "“Mathematics is the mirror of civilization” these are the words given by",
+    "te": "“గణితము సాంస్కృతికి అద్దము వంటిది” ఈ మాటలు అన్నవారు"
+   },
+   "options": [
+    {
+     "en": "Hogben",
+     "te": "హాబేన్"
+    },
+    {
+     "en": "Aristotil",
+     "te": "అరిస్టాటిల్"
+    },
+    {
+     "en": "Lindsay",
+     "te": "లిండ్ సే"
+    },
+    {
+     "en": "Gauss",
+     "te": "గాస్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0194",
+   "section": "maths",
+   "number": 194,
+   "question": {
+    "en": "“Mathematics is gateway and key to all sciences”, Stated by the mathematician is",
+    "te": "“సకల శాస్త్రాలకు మూలం ‘గణితం’ అని చెప్పినది"
+   },
+   "options": [
+    {
+     "en": "Becon",
+     "te": "బేకన్"
+    },
+    {
+     "en": "Locke",
+     "te": "లాకే"
+    },
+    {
+     "en": "Gauss",
+     "te": "గాస్"
+    },
+    {
+     "en": "Lindsay",
+     "te": "లిండ్ సే"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0195",
+   "section": "maths",
+   "number": 195,
+   "question": {
+    "en": "Author of the book “Elements”",
+    "te": "“ఎలిమెంట్స్” గ్రంధ రచయిత"
+   },
+   "options": [
+    {
+     "en": "Pythagoras",
+     "te": "పైథాగరస్"
+    },
+    {
+     "en": "Thales",
+     "te": "థేల్స్"
+    },
+    {
+     "en": "Rene Descarte",
+     "te": "రెనెడెకార్టె"
+    },
+    {
+     "en": "Euclid",
+     "te": "యూక్లిడ్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0196",
+   "section": "maths",
+   "number": 196,
+   "question": {
+    "en": "Mathematics derived from two Greek words. One is manthanien the other one is",
+    "te": "Mathematics అనే ఆంగ్ల పదం గ్రీకు భాషలోని రెండు పదాల కలయికతో ఏర్పడినది. అందులో ఒకటి manthanien అయిన రెండవది"
+   },
+   "options": [
+    {
+     "en": "Technie",
+     "te": null
+    },
+    {
+     "en": "Tichnee",
+     "te": null
+    },
+    {
+     "en": "Techne",
+     "te": null
+    },
+    {
+     "en": "Tecne",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 162,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0197",
+   "section": "maths",
+   "number": 197,
+   "question": {
+    "en": "A mathematician who defined “Mathematics is the science that draws necessary conclusions”, is",
+    "te": "“గణితం అంటే అవసరం అయిన నిర్దారణలను రాబట్టే శాస్త్రం” అని నిర్వచించిన గణిత శాస్త్రవేత్త"
+   },
+   "options": [
+    {
+     "en": "Benjamin peirce",
+     "te": "బెంజిమన్ పియర్స్"
+    },
+    {
+     "en": "Aristotle",
+     "te": "అరిస్టాటిల్"
+    },
+    {
+     "en": "Locke",
+     "te": "లాక్"
+    },
+    {
+     "en": "Lindsay",
+     "te": "లిండ్ సే"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0198",
+   "section": "maths",
+   "number": 198,
+   "question": {
+    "en": "Which of the following does not belong to the ‘nature of mathematics’",
+    "te": "క్రింది వాటిలో గణిత స్వభావానికి చెందని అంశం"
+   },
+   "options": [
+    {
+     "en": "Chance to check",
+     "te": "సరిచూసుకొనే అవకాశం"
+    },
+    {
+     "en": "Mathematics is not logical",
+     "te": "గణిత తార్కిక మైనది కాదు"
+    },
+    {
+     "en": "Accuracy",
+     "te": "ఖచ్చితత్వం"
+    },
+    {
+     "en": "Abstractness",
+     "te": "అమూర్త లక్షణం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0199",
+   "section": "maths",
+   "number": 199,
+   "question": {
+    "en": "The objective that does not belongs to ‘Affective domain’ is",
+    "te": "‘భావావేశ రంగానికి’ చెందని లక్ష్యము"
+   },
+   "options": [
+    {
+     "en": "Receiving",
+     "te": "గ్రహించడం"
+    },
+    {
+     "en": "Precision / sensitive",
+     "te": "సునిశితత్వం"
+    },
+    {
+     "en": "Organisation",
+     "te": "వ్యవస్థాపనం"
+    },
+    {
+     "en": "Responding",
+     "te": "ప్రతిస్పందించడం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0200",
+   "section": "maths",
+   "number": 200,
+   "question": {
+    "en": "This objective belongs to ‘Affective domain’ is",
+    "te": "‘భావావేశ రంగానికి’ చెందిన లక్ష్యము"
+   },
+   "options": [
+    {
+     "en": "Manipulation",
+     "te": "హస్తలాఘవం"
+    },
+    {
+     "en": "Naturalization",
+     "te": "సహజీకరణం"
+    },
+    {
+     "en": "Sensitive",
+     "te": "సునిశితత్వం"
+    },
+    {
+     "en": "Valuing",
+     "te": "విలువకట్టడం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0201",
+   "section": "maths",
+   "number": 201,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/0e294b3e4b.png",
+   "imageW": 548,
+   "imageH": 327,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0202",
+   "section": "maths",
+   "number": 202,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/8795a40e93.png",
+   "imageW": 564,
+   "imageH": 314,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0203",
+   "section": "maths",
+   "number": 203,
+   "question": {
+    "en": "“Prime numbers are infinite” statement was given by",
+    "te": "“ప్రధాన సంఖ్యలు అనంతం” అని చెప్పినవారు"
+   },
+   "options": [
+    {
+     "en": "Srinivasa Ramanujan",
+     "te": "శ్రీనివాస రామానుజన్"
+    },
+    {
+     "en": "Euclid",
+     "te": "యూక్లిడ్"
+    },
+    {
+     "en": "Aryabhata",
+     "te": "ఆర్యభట్ట"
+    },
+    {
+     "en": "Bhaskracharya",
+     "te": "భాస్కరాచార్య"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0204",
+   "section": "maths",
+   "number": 204,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/b9c7e23adf.png",
+   "imageW": 540,
+   "imageH": 330,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0205",
+   "section": "maths",
+   "number": 205,
+   "question": {
+    "en": "The teaching method considered as the ‘Product of thinking’ is",
+    "te": "‘ఆలోచనా ఫలితంగా’ వ్యవహరింపబడే గణిత బోధన పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Laboratory method",
+     "te": "ప్రయోగశాల పద్దతి"
+    },
+    {
+     "en": "Heuristic method",
+     "te": "అన్వేషణ పద్దతి"
+    },
+    {
+     "en": "Analysis method",
+     "te": "విశ్లేషణ పద్దతి"
+    },
+    {
+     "en": "Synthesis method",
+     "te": "సంశ్లేషణ పద్దతి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0206",
+   "section": "maths",
+   "number": 206,
+   "question": {
+    "en": "Who propagated Deductive method in mathematics",
+    "te": "గణిత శాస్త్రంలో ఎవరు నిగమన పద్దతిని ప్రతిపాదించారు"
+   },
+   "options": [
+    {
+     "en": "Armstrong",
+     "te": "ఆర్మ్ స్ట్రాంగ్"
+    },
+    {
+     "en": "Cominius",
+     "te": "కొమినీయస్"
+    },
+    {
+     "en": "Pestalozzi",
+     "te": "పెస్టాలజీ"
+    },
+    {
+     "en": "Bellord",
+     "te": "బెలార్డ్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0207",
+   "section": "maths",
+   "number": 207,
+   "question": {
+    "en": "Who said that “Education is life”",
+    "te": "“విద్యయే జీవితం” అని చెప్పినవారు"
+   },
+   "options": [
+    {
+     "en": "Young",
+     "te": "యంగ్"
+    },
+    {
+     "en": "Kilpatric",
+     "te": "కిల్ పాట్రిక్"
+    },
+    {
+     "en": "John Dewey",
+     "te": "జాన్ డ్యూయి"
+    },
+    {
+     "en": "Stevenson",
+     "te": "స్టీవెన్సన్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0208",
+   "section": "maths",
+   "number": 208,
+   "question": {
+    "en": "The method which leads from “particular to general” is",
+    "te": "“ప్రత్యేక అంశం నుండి సాధారణ అంశానికి” దారి తీయు పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Inductive",
+     "te": "ఆగమన"
+    },
+    {
+     "en": "Deductive",
+     "te": "నిగమన"
+    },
+    {
+     "en": "Analysis",
+     "te": "విశ్లేషణ"
+    },
+    {
+     "en": "Synthesis",
+     "te": "సంశ్లేషణ"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0209",
+   "section": "maths",
+   "number": 209,
+   "question": {
+    "en": "By using this method we come to know that the “problem solving procedure” only",
+    "te": "ఈ పద్దతి ద్వారా “సమస్య పరిష్కార విధానం మాత్రమే” తెలుస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Synthesis",
+     "te": "సంశ్లేషణ"
+    },
+    {
+     "en": "Analysis",
+     "te": "విశ్లేషణ"
+    },
+    {
+     "en": "Project",
+     "te": "ప్రాజెక్టు"
+    },
+    {
+     "en": "Deductive",
+     "te": "నిగమన"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0210",
+   "section": "maths",
+   "number": 210,
+   "question": {
+    "en": "This method proceeds from particular examples to general rules of formulas is",
+    "te": "ఉదాహరణ నుండి సూత్రాన్ని తయారు చేసే పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Deductive",
+     "te": "నిగమన"
+    },
+    {
+     "en": "Inductive",
+     "te": "ఆగమన"
+    },
+    {
+     "en": "Synthesis",
+     "te": "సంశ్లేషణ"
+    },
+    {
+     "en": "Analytic",
+     "te": "విశ్లేషణ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0211",
+   "section": "maths",
+   "number": 211,
+   "question": {
+    "en": "This is the convenient method to derive formula for compound interest is",
+    "te": "చక్రవడ్డీ సూత్రాన్ని రాబట్టటానికి అనువైన బోధన పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Inductive method",
+     "te": "అగమన పద్దతి"
+    },
+    {
+     "en": "Deductive method",
+     "te": "నిగమన పద్దతి"
+    },
+    {
+     "en": "Analytic method",
+     "te": "విశ్లేషణ పద్దతి"
+    },
+    {
+     "en": "Synthetic method",
+     "te": "సంశ్లేషణ పద్దతి"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0212",
+   "section": "maths",
+   "number": 212,
+   "question": {
+    "en": "This method is based on the principles “learning by doing” and “learning by observing” is",
+    "te": "“చేయడం ద్వారా నేర్చుకోవడం”, “పరిశీలన ద్వారా నేర్చుకోవడం” అనే సూత్రాలను కలిగి వున్న బోధనా పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Inductive",
+     "te": "అగమన"
+    },
+    {
+     "en": "Deductive",
+     "te": "నిగమన"
+    },
+    {
+     "en": "Analytic",
+     "te": "విశ్లేషణ"
+    },
+    {
+     "en": "Laboratory",
+     "te": "ప్రయోగశాల"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 163,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0213",
+   "section": "maths",
+   "number": 213,
+   "question": {
+    "en": "This method is based on the principle “learning by doing” is",
+    "te": "“చేయుట ద్వారా నేర్చుకోవటం” అనే సూత్రం ఆధారంగా పనిచెయు పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Project method",
+     "te": "ప్రాజెక్ట్ పద్దతి"
+    },
+    {
+     "en": "Heuristic method",
+     "te": "అన్వేషణ పద్దతి"
+    },
+    {
+     "en": "Problem solving",
+     "te": "సమస్యా సాధన"
+    },
+    {
+     "en": "Deductive",
+     "te": "నిగమన"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0214",
+   "section": "maths",
+   "number": 214,
+   "question": {
+    "en": "“A project is a bit of real life that has been imported into school”. This definition was given by",
+    "te": "“పాఠశాలలోనికి దిగుమతి చేసిన నిజ జీవిత భాగమే ప్రకల్పన” అని నిర్వచించినది"
+   },
+   "options": [
+    {
+     "en": "Kilpatrick",
+     "te": "కిల్ పాట్రిక్"
+    },
+    {
+     "en": "Ballard",
+     "te": "బెలార్డ్"
+    },
+    {
+     "en": "Stevenson",
+     "te": "స్టీవెన్ సన్"
+    },
+    {
+     "en": "Armstrong",
+     "te": "ఆర్మ్ స్ట్రాంగ్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0215",
+   "section": "maths",
+   "number": 215,
+   "question": {
+    "en": "This is not a limitation to analytic method",
+    "te": "విశ్లేషణ పద్దతి పరిమితి కానిది"
+   },
+   "options": [
+    {
+     "en": "Lengthy method",
+     "te": "ఇది ఒక సుదీర్ఘ పద్దతి"
+    },
+    {
+     "en": "It takes more time",
+     "te": "దీనికి ఎక్కువ సమయం పడుతుంది"
+    },
+    {
+     "en": "We cannot solve problems with speed",
+     "te": "సమస్యలను వేగంగా సాధించలేము"
+    },
+    {
+     "en": "This is suitable for all kinds of problem",
+     "te": "ఇది అన్నీ రకాల సమస్యల సాధనకు అనువైనది"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0216",
+   "section": "maths",
+   "number": 216,
+   "question": {
+    "en": "This is the time-saving teaching method",
+    "te": "సమయాన్ని పొదుపు చేసే బోధన పద్దతి"
+   },
+   "options": [
+    {
+     "en": "Inductive method",
+     "te": "ఆగమన పద్దతి"
+    },
+    {
+     "en": "Synthetic method",
+     "te": "సంశ్లేషణ పద్దతి"
+    },
+    {
+     "en": "Analytic method",
+     "te": "విశ్లేషణ పద్దతి"
+    },
+    {
+     "en": "Heuristic method",
+     "te": "అన్వేషణ పద్దతి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0217",
+   "section": "maths",
+   "number": 217,
+   "question": {
+    "en": "This item does not included in the unit plan",
+    "te": "సమగ్ర యూనిట్ పథకం లో లేని అంశం"
+   },
+   "options": [
+    {
+     "en": "Content analysis",
+     "te": "విషయ విశ్లేషణ"
+    },
+    {
+     "en": "Teaching learning material",
+     "te": "బోధనాభ్యసన సామగ్రి"
+    },
+    {
+     "en": "Teaching method",
+     "te": "బోధనా పద్దతి"
+    },
+    {
+     "en": "Objectives and specifications",
+     "te": "లక్ష్యాలు మరియు స్పష్టీకరణలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0218",
+   "section": "maths",
+   "number": 218,
+   "question": {
+    "en": "“The student explains in his own words”. Belongs to this academic standard",
+    "te": "“విద్యార్ధి సొంత మాటల్లో వివరించుట”. అనేది ఈ విద్యాప్రమాణమునకు చెందును"
+   },
+   "options": [
+    {
+     "en": "Connection",
+     "te": "అను సంధానము"
+    },
+    {
+     "en": "Communication",
+     "te": "వ్యక్తపరచడం"
+    },
+    {
+     "en": "Reasoning - proof",
+     "te": "కారణాలు చెప్పడం-నిరూపణలు"
+    },
+    {
+     "en": "Representation - visualisation",
+     "te": "ప్రాతినిధ్య పరచడం - దృశ్యీకరణ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0219",
+   "section": "maths",
+   "number": 219,
+   "question": {
+    "en": "Which of the following item does not belong to 5E – learning model?",
+    "te": "క్రింది వాటిలో 5E- అభ్యసన నమూనా కు చెందని అంశం ఏది?"
+   },
+   "options": [
+    {
+     "en": "Engage",
+     "te": "నిమగ్నం కావడం"
+    },
+    {
+     "en": "Explore",
+     "te": "అన్వేషించడం"
+    },
+    {
+     "en": "Explain",
+     "te": "వివరించడం"
+    },
+    {
+     "en": "Experience",
+     "te": "అనుభవం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0220",
+   "section": "maths",
+   "number": 220,
+   "question": {
+    "en": "“Pupils will prepare meaningful problems and solve them”. This as one of the vision of school mathematics, is stated in",
+    "te": "“పిల్లలే అర్ధవంతమైన సమస్యలు తయారు చేసుకొని వారే స్వయంగా పరిష్కరిస్తారు”. వేనిలో ఇది పాఠశాల స్థాయి గణిత దృక్పథంగా పేర్కొనబడింది"
+   },
+   "options": [
+    {
+     "en": "NPE – 1986 & POA – 1982",
+     "te": null
+    },
+    {
+     "en": "NCF – 2005 & APSCF – 2011",
+     "te": null
+    },
+    {
+     "en": "NPE – 1986 & NCF – 2005",
+     "te": null
+    },
+    {
+     "en": "POA – 1992 & NCF – 2005",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0221",
+   "section": "maths",
+   "number": 221,
+   "question": {
+    "en": "“Importance to core elements and reduction in course content in curriculum”, proposed by",
+    "te": "“పాఠ్య ప్రణాళిక విషయ భారాన్ని తగ్గించి మౌలిక అంశాలకు ప్రాధాన్యత” ఇవ్వాలనే ప్రతిపాదన దీనిలోనీది"
+   },
+   "options": [
+    {
+     "en": "NPE – 1986",
+     "te": null
+    },
+    {
+     "en": "POA – 1992",
+     "te": null
+    },
+    {
+     "en": "NCF – 2005",
+     "te": null
+    },
+    {
+     "en": "NEP – 2020",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0222",
+   "section": "maths",
+   "number": 222,
+   "question": {
+    "en": "“Education must move towards less content and more towards learning”. This is proposed by",
+    "te": "“తక్కువ విషయం, ఎక్కువ ఆలోచనా దిశగా విద్య సాగటం” అని ప్రతిపాదించినది"
+   },
+   "options": [
+    {
+     "en": "NEP – 2020",
+     "te": null
+    },
+    {
+     "en": "NCF – 2005",
+     "te": null
+    },
+    {
+     "en": "POA – 1992",
+     "te": null
+    },
+    {
+     "en": "NPE – 1986",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0223",
+   "section": "maths",
+   "number": 223,
+   "question": {
+    "en": "“A problem corner can be started by the maths club, with suitable puzzles and mathematical problems at all levels”. This recommendation is made by",
+    "te": "“అన్నీ స్థాయిలకు ఉపయుక్తమైన పజిల్స్, గణిత సమస్యలలో సమస్య కార్నర్ ను గణిత క్లబ్ ప్రారంభించవచ్చు “. అని సిఫారసు చేసినది"
+   },
+   "options": [
+    {
+     "en": "NPE – 1986",
+     "te": null
+    },
+    {
+     "en": "POA – 1992",
+     "te": null
+    },
+    {
+     "en": "NEP – 2020",
+     "te": null
+    },
+    {
+     "en": "APSCF – 2011",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0224",
+   "section": "maths",
+   "number": 224,
+   "question": {
+    "en": "“Bilingual teaching learning material should be available”. In which of the following this was mentioned",
+    "te": "“ద్వి భాషా బోధనాభ్యసన సామగ్రి ని అందుబాటులో ఉంచాలి”. అని దేనిలో ప్రస్తావించబడినది"
+   },
+   "options": [
+    {
+     "en": "NCF – 2005",
+     "te": null
+    },
+    {
+     "en": "APSCF – 2011",
+     "te": null
+    },
+    {
+     "en": "NEP – 2020",
+     "te": null
+    },
+    {
+     "en": "NPE – 1986",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0225",
+   "section": "maths",
+   "number": 225,
+   "question": {
+    "en": "In the Herbartian steps of a lesson plan, the step “Generalization” comes before this step",
+    "te": "పాఠ్యపథకం లోని హెర్బార్షియన్ సోపానాలలో “సాధారణీకరించుట” అనే సోపానం, ఈ సోపానానికి ముందు వెంటనే ఉంటుంది"
+   },
+   "options": [
+    {
+     "en": "Presentation",
+     "te": "సమర్పణ"
+    },
+    {
+     "en": "Preparation",
+     "te": "సన్నాహం"
+    },
+    {
+     "en": "Recapitulation",
+     "te": "పునర్విమర్శ"
+    },
+    {
+     "en": "Association",
+     "te": "సంసర్గం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0226",
+   "section": "maths",
+   "number": 226,
+   "question": {
+    "en": "“Children learn to enjoy mathematics rather than fear it”. This suggestion is form",
+    "te": "“గణిత అభ్యసన భయం కలిగించేలా కాక, పిల్లలు ఆనందించేదిగా ఉండాలి” అని సూచించినది"
+   },
+   "options": [
+    {
+     "en": "NCF – 2005, APSCF – 2011",
+     "te": null
+    },
+    {
+     "en": "NCF – 2005, RTE – 2009",
+     "te": null
+    },
+    {
+     "en": "RTE – 2009, APSCF – 2011",
+     "te": null
+    },
+    {
+     "en": "NCF – 2005, NPE – 1986",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0227",
+   "section": "maths",
+   "number": 227,
+   "question": {
+    "en": "The educationist who suggested to follow certain rules in framing mathematical instructional objectives",
+    "te": "గణిత బోధనా లక్ష్యాలను రూపొందించుటలో కొన్ని నియమాలు పాటించాలని సూచించిన విద్యావేత్త"
+   },
+   "options": [
+    {
+     "en": "Breslich",
+     "te": "బ్రెస్లిచ్"
+    },
+    {
+     "en": "Munnik",
+     "te": "మున్నిక్"
+    },
+    {
+     "en": "Frust",
+     "te": "ఫ్రస్ట్"
+    },
+    {
+     "en": "Herbart",
+     "te": "హెర్బార్ట్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 164,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0228",
+   "section": "maths",
+   "number": 228,
+   "question": {
+    "en": "In the Herbartian steps of a lesson plan, the step Association comes before this step",
+    "te": "పాఠ్యపథకం లోని హెర్బార్షియన్ సోపానాలలో “సంసర్గం” అనే సోపానం, ఈ సోపానానికి ముందుగా ఉంటుంది"
+   },
+   "options": [
+    {
+     "en": "Presentation",
+     "te": "సమర్పణ"
+    },
+    {
+     "en": "Application",
+     "te": "వినియోగం"
+    },
+    {
+     "en": "Recapitulation",
+     "te": "పునర్విమర్శ"
+    },
+    {
+     "en": "Generalisation",
+     "te": "సాధారణీకరణ"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0229",
+   "section": "maths",
+   "number": 229,
+   "question": {
+    "en": "The evaluation tool that reflect a student’s personality is",
+    "te": "ఒక విద్యార్ధి యొక్క వ్యక్తిత్వం ప్రతి బింబించే మూల్యాంకనా సాధనము"
+   },
+   "options": [
+    {
+     "en": "Check list",
+     "te": "చెక్ లిస్టు"
+    },
+    {
+     "en": "Rating scale",
+     "te": "రేటింగు స్కేలు"
+    },
+    {
+     "en": "Anecdotal record",
+     "te": "ఏనక్డోటల్ రికార్డు"
+    },
+    {
+     "en": "Questionnaire",
+     "te": "ప్రశ్నావళి"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0230",
+   "section": "maths",
+   "number": 230,
+   "question": {
+    "en": "“Evaluation is continuous process”. This statement was given by",
+    "te": "“మూల్యాంకనము అనేది అవిరళ ప్రక్రియ” అని పేర్కొన్నది"
+   },
+   "options": [
+    {
+     "en": "Secondary Education Committee",
+     "te": "సెకండరీ విద్యా కమీషన్"
+    },
+    {
+     "en": "Eshwarbai Patel",
+     "te": "ఈశ్వరభాయ్ పటేల్ కమిటీ"
+    },
+    {
+     "en": "Kothari commission",
+     "te": "కోఠారి కమీషన్"
+    },
+    {
+     "en": "Yashpal committee",
+     "te": "యష్ పాల్ కమిటీ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0231",
+   "section": "maths",
+   "number": 231,
+   "question": {
+    "en": "This evaluation conducted after the completion of the teaching learning process",
+    "te": "బోధనాభ్యసన ప్రక్రియ పూర్తి అయినపుడు చేసే మూల్యాంకనము"
+   },
+   "options": [
+    {
+     "en": "Summative",
+     "te": "సంగ్రహణాత్మక"
+    },
+    {
+     "en": "Formative",
+     "te": "నిర్మాణాత్మక"
+    },
+    {
+     "en": "Diagnostic",
+     "te": "లోపనిర్ధారణ"
+    },
+    {
+     "en": "Prognostic",
+     "te": "ప్రాగుప్తిక"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0232",
+   "section": "maths",
+   "number": 232,
+   "question": {
+    "en": "This evaluation conducted during the completion of the teaching learning process",
+    "te": "బోధనాభ్యసన ప్రక్రియ జరుగుతున్నప్పుడు చేసే మూల్యాంకనము"
+   },
+   "options": [
+    {
+     "en": "Summative",
+     "te": "సంగ్రహణాత్మక"
+    },
+    {
+     "en": "Formative",
+     "te": "నిర్మాణాత్మక"
+    },
+    {
+     "en": "Diagnostic",
+     "te": "లోపనిర్ధారణ"
+    },
+    {
+     "en": "Progrostic",
+     "te": "ప్రాగుప్తిక"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0233",
+   "section": "maths",
+   "number": 233,
+   "question": {
+    "en": "The tool which is not used in formative assessment",
+    "te": "నిర్మాణాత్మక మదింపులో ఉపయోగించని సాధనం"
+   },
+   "options": [
+    {
+     "en": "Pupils written work",
+     "te": "విద్యార్ధుల రాత పని"
+    },
+    {
+     "en": "Project work",
+     "te": "ప్రాజెక్టు పని"
+    },
+    {
+     "en": "slip test",
+     "te": "స్లిప్ టెస్ట్"
+    },
+    {
+     "en": "Teacher’s written work",
+     "te": "ఉపాధ్యాయుల రాత పని"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0234",
+   "section": "maths",
+   "number": 234,
+   "question": {
+    "en": "The tool which has more weightage in formative assessment",
+    "te": "నిర్మాణాత్మక మదింపులో అధిక భారత్వం కలిగిన మూల్యాంకన సాధనం"
+   },
+   "options": [
+    {
+     "en": "Student’s participation-responses",
+     "te": "పిల్లల భాగస్వామ్యం – ప్రతిస్పందనలు"
+    },
+    {
+     "en": "Students written work",
+     "te": "విద్యార్ధుల రాతపని"
+    },
+    {
+     "en": "Project work",
+     "te": "ప్రాజెక్టు పని"
+    },
+    {
+     "en": "Slip test",
+     "te": "స్లిప్ టెస్ట్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0235",
+   "section": "maths",
+   "number": 235,
+   "question": {
+    "en": "Which of the following does not belong to objective type questions?",
+    "te": "క్రింది వాటిలో విషయ నిష్ఠ ప్రశ్నలు రకానికి చెందనిది?"
+   },
+   "options": [
+    {
+     "en": "Multiple choice questions",
+     "te": "బాహుళైచ్ఛిక ప్రశ్నలు"
+    },
+    {
+     "en": "Matching",
+     "te": "జత పరచడం"
+    },
+    {
+     "en": "Odd man out",
+     "te": "విభిన్న అంశాన్ని గుర్తించుట"
+    },
+    {
+     "en": "Association form",
+     "te": "సంసర్గ రూపం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0236",
+   "section": "maths",
+   "number": 236,
+   "question": {
+    "en": "Which of the following does not belong to very short answer type questions?",
+    "te": "క్రింది వాటిలో లఘు సమాధాన ప్రశ్నల రకానికి చెందనిది?"
+   },
+   "options": [
+    {
+     "en": "Completion form",
+     "te": "పూరణం"
+    },
+    {
+     "en": "Association form",
+     "te": "సంసర్గం"
+    },
+    {
+     "en": "Analogy form",
+     "te": "సాదృశ్య రూపం"
+    },
+    {
+     "en": "Odd man out",
+     "te": "విభిన్న అంశాన్ని గుర్తించుట"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0237",
+   "section": "maths",
+   "number": 237,
+   "question": {
+    "en": "Which of the following belong to objective type questions?",
+    "te": "క్రింది వాటిలో విషయ నిష్ఠ ప్రశ్నలు రకానికి చెందినది ఏది?"
+   },
+   "options": [
+    {
+     "en": "Alternative response type",
+     "te": "ప్రత్యామ్నాయం ప్రశ్నలు"
+    },
+    {
+     "en": "Completion form",
+     "te": "పూరణం"
+    },
+    {
+     "en": "Association form",
+     "te": "సంసర్గం"
+    },
+    {
+     "en": "Analogy form",
+     "te": "సాదృశ్య రూపం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0238",
+   "section": "maths",
+   "number": 238,
+   "question": {
+    "en": "Which of the following belong to very short answer type questions?",
+    "te": "క్రింది వాటిలో లఘు సమాధాన ప్రశ్నల రకానికి చెందినది ఏది?"
+   },
+   "options": [
+    {
+     "en": "Association form",
+     "te": "సంసర్గం"
+    },
+    {
+     "en": "Matching",
+     "te": "జతపరచడం"
+    },
+    {
+     "en": "Multiple choice",
+     "te": "బాహుళైచ్ఛిక ప్రశ్నలు"
+    },
+    {
+     "en": "Odd man out",
+     "te": "విభిన్న అంశాన్ని గుర్తించుట"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0239",
+   "section": "maths",
+   "number": 239,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": "img/fdbbfceefa.png",
+   "imageW": 530,
+   "imageH": 282,
+   "sourcePage": 165,
+   "needsReview": false
+  },
+  {
+   "id": "maths-0240",
+   "section": "maths",
+   "number": 240,
+   "question": {
+    "en": "This learning aid is used to understand that multiplication is repeated addition, and division is repeated subtraction",
+    "te": "గుణకారాన్ని పునరావృత సంకలనంగా, భాగహారం పునరావృత వ్యవకలనంగా ను అర్ధం చేసుకోవడానికి ఉపయోగించే బోధన సామగ్రి"
+   },
+   "options": [
+    {
+     "en": "Peg board",
+     "te": "పెగ్ బోర్డు"
+    },
+    {
+     "en": "Geo board",
+     "te": "జియో బోర్డు"
+    },
+    {
+     "en": "Grid paper",
+     "te": "గళ్ళ కాగితం"
+    },
+    {
+     "en": "Beads frame",
+     "te": "పూసల చట్రం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 165,
+   "needsReview": false
+  }
+ ]
+}

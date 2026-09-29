@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>selftest</title>
+<link rel="stylesheet" href="public/styles.css">
+<style>body{padding:20px;font-family:Inter,sans-serif} .ok{color:#16a34a;font-weight:700} .fail{color:#dc2626;font-weight:700} pre{background:#f6f7ff;padding:10px;border-radius:8px;white-space:pre-wrap}</style>
+</head>
+<body>
+<div id="out">running…</div>
+<div id="app"></div>
+<script type="module">
+import { assembleTest, scoreTest, loadSection } from "./public/js/data.js";
+import { mountExam, cleanupExam } from "./public/js/exam.js";
+import { saveToHistory, mountResults, mountReview } from "./public/js/results.js";
+import { setCurrentTest, getCurrentTest, setHistory } from "./public/js/store.js";
+const out = document.getElementById("out");
+const lines = [];
+const log = (name, ok, extra="") => { lines.push(`${ok ? "OK  " : "FAIL"} ${name} ${extra}`); };
+
+try {
+  // 1. data loads
+  const bank = await loadSection("maths");
+  log("load maths bank", bank.length === 240, `(${bank.length})`);
+
+  // 2. assemble practice test
+  const test = await assembleTest("practice", [{ section: "maths", count: 10 }], 600);
+  log("assemble 10-question practice", test.order.length === 10);
+  log("no duplicate ids", new Set(test.order).size === 10);
+
+  // 3. persistence / resume
+  setCurrentTest(test);
+  const restored = getCurrentTest();
+  log("resume snapshot", restored && restored.order.length === 10);
+
+  // 4. exam screen mounts
+  const app = document.getElementById("app");
+  let submitted = null;
+  const handle = mountExam(app, restored, { onSubmit: (t) => { submitted = t; } });
+  log("exam screen renders", !!app.querySelector(".pal-grid"), `(${app.querySelectorAll(".pal-btn").length} palette buttons)`);
+  log("timer element", !!app.querySelector(".timer"));
+
+  // simulate answering: answer 6, skip 2, mark 2
+  restored.answers[restored.order[0]] = restored.byId[restored.order[0]].answer; // correct
+  restored.answers[restored.order[1]] = restored.byId[restored.order[1]].answer;
+  restored.answers[restored.order[2]] = restored.byId[restored.order[2]].answer;
+  restored.answers[restored.order[3]] = restored.byId[restored.order[3]].answer;
+  restored.answers[restored.order[4]] = (restored.byId[restored.order[4]].answer % 4) + 1; // wrong
+  restored.answers[restored.order[5]] = (restored.byId[restored.order[5]].answer % 4) + 1;
+  restored.marked[restored.order[8]] = true;
+  restored.marked[restored.order[9]] = true;
+  handle.stop();
+
+  // 5. scoring
+  const s = scoreTest(restored);
+  log("score 4/10", s.score === 4 && s.correct === 4 && s.wrong === 2 && s.skipped === 4, `(score=${s.score} c=${s.correct} w=${s.wrong} sk=${s.skipped})`);
+  log("section totals", s.sections[0].total === 10);
+
+  // 6. history + results
+  setHistory([]);
+  const entry = saveToHistory(restored);
+  log("history entry", entry.total === 10 && entry.score === 4);
+  mountResults(app, entry);
+  log("results screen", app.innerHTML.includes("Section-wise performance"));
+
+  // 7. review screen
+  mountReview(app, entry, { filter: "wrong" });
+  const wrongCount = app.querySelectorAll(".rq").length;
+  log("review wrong filter shows 2", wrongCount === 2, `(${wrongCount})`);
+
+  // 8. exam timer auto-submit (endsAt in past)
+  const t2 = await assembleTest("practice", [{ section: "cdp", count: 5 }], 1);
+  t2.endsAt = Date.now() - 1000;
+  let autoSubmitted = false;
+  mountExam(document.createElement("div"), t2, { onSubmit: () => { autoSubmitted = true; } });
+  await new Promise((r) => setTimeout(r, 1500));
+  log("auto-submit on expired timer", autoSubmitted);
+  cleanupExam();
+
+  setHistory([]); setCurrentTest(null);
+  out.innerHTML = `<h3>Self-test results</h3><pre>${lines.join("\n")}</pre>`;
+} catch (e) {
+  out.innerHTML = `<h3>Self-test crashed</h3><pre>${lines.join("\n")}\n${e.stack}</pre>`;
+}
+</script>
+</body>
+</html>

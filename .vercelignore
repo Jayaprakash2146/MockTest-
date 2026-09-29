@@ -1,0 +1,11 @@
+# Source material — never uploaded
+*.pdf
+T.E.T.txt
+answer_keys.json
+KILOCODE_PROMPT.md
+
+# Development only
+scripts/
+selftest.html
+exam_preview.html
+vercel.json.bak

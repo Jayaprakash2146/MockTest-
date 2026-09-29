@@ -1,0 +1,7927 @@
+{
+ "section": "biology",
+ "name": "Biology",
+ "count": 240,
+ "questions": [
+  {
+   "id": "biology-0001",
+   "section": "biology",
+   "number": 1,
+   "question": {
+    "en": "Plants having parallel venation of leaves have this type of root system",
+    "te": "పత్రాలలో సమాంతర ఈనెల వ్యాపనం కలిగిన మొక్కలు ఈ రకమైన వేరు వ్యవస్థను కలిగి ఉంటాయి."
+   },
+   "options": [
+    {
+     "en": "Tap Root System",
+     "te": "తల్లి వేరు వ్యవస్థ"
+    },
+    {
+     "en": "Main Root System",
+     "te": "ప్రధాన వేరు వ్యవస్థ"
+    },
+    {
+     "en": "Parallel Root System",
+     "te": "సమాంతర వేరు వ్యవస్థ"
+    },
+    {
+     "en": "Fibrous Root System",
+     "te": "గుబురు వేరు వ్యవస్థ"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 185,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0002",
+   "section": "biology",
+   "number": 2,
+   "question": {
+    "en": "The innermost part of the flower is A and it produces B. Find out A and B.",
+    "te": "పుష్పం లోపలిభాగం A మరియు అది B ను ఉత్పత్తి చేస్తుంది. A మరియు B లను కనుగొనండి."
+   },
+   "options": [
+    {
+     "en": "A-Stamen B - Pollen",
+     "te": "A- కేసరం B – పరాగ రేణువు"
+    },
+    {
+     "en": "A – Pistil B - Ovary",
+     "te": "A – అండకోశం B – అండాశయం"
+    },
+    {
+     "en": "A -Pistil B - Ovules",
+     "te": "A – అండకోశం B – అండాలు"
+    },
+    {
+     "en": "A – Stamen B - Ovules",
+     "te": "A- కేసరం B – అండాలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 185,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0003",
+   "section": "biology",
+   "number": 3,
+   "question": {
+    "en": "Nodes and internodes are present in this plant part",
+    "te": "కణుపులు, కణుపు నడిమిభాగాలు మొక్క లోని ఈ భాగంలో ఉంటాయి"
+   },
+   "options": [
+    {
+     "en": "Stem",
+     "te": "కాండం"
+    },
+    {
+     "en": "Root",
+     "te": "వేరు"
+    },
+    {
+     "en": "Leaf",
+     "te": "పత్రం"
+    },
+    {
+     "en": "Bud",
+     "te": "మొగ్గ"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 186,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0004",
+   "section": "biology",
+   "number": 4,
+   "question": {
+    "en": "Insectivorous leaves are found in this plant",
+    "te": "కీటకాహార పత్రాలు ఈ మొక్కలో కనిపిస్తాయి."
+   },
+   "options": [
+    {
+     "en": "Vanda",
+     "te": "వాండా"
+    },
+    {
+     "en": "Pitcher plant",
+     "te": "పిట్చర్ ప్లాంట్"
+    },
+    {
+     "en": "Bryophyllum",
+     "te": "బ్రయోఫిల్లం"
+    },
+    {
+     "en": "Pea",
+     "te": "బఠాణీ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 186,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0005",
+   "section": "biology",
+   "number": 5,
+   "question": {
+    "en": "The external stimuli are received through these parts in living organisms",
+    "te": "సజీవులలో బాహ్యప్రచోదనాలను గ్రహించే శరీర భాగాలు"
+   },
+   "options": [
+    {
+     "en": "Brain and Spinal cord",
+     "te": "మెదడు మరియు వెన్నుపాము"
+    },
+    {
+     "en": "Nerves",
+     "te": "నాడులు"
+    },
+    {
+     "en": "Sense organs",
+     "te": "జ్ఞానేంద్రియాలు"
+    },
+    {
+     "en": "Muscles",
+     "te": "కండరాలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 186,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0006",
+   "section": "biology",
+   "number": 6,
+   "question": {
+    "en": "Identify the parasitic plant",
+    "te": "పరాన్నజీవ మొక్కను గుర్తించండి"
+   },
+   "options": [
+    {
+     "en": "Maize",
+     "te": "మొక్కజొన్న"
+    },
+    {
+     "en": "Opuntia",
+     "te": "ఒపన్షియా"
+    },
+    {
+     "en": "Cuscuta",
+     "te": "కస్కుటా"
+    },
+    {
+     "en": "Banyan",
+     "te": "మర్రి"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 186,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0007",
+   "section": "biology",
+   "number": 7,
+   "question": {
+    "en": "This is not example of herb",
+    "te": "ఇది గుల్మానికి ఉదాహరణ కాదు"
+   },
+   "options": [
+    {
+     "en": "Banyan",
+     "te": "మర్రి"
+    },
+    {
+     "en": "Parthenium",
+     "te": "పార్థీనియం"
+    },
+    {
+     "en": "Marigold",
+     "te": "బంతి"
+    },
+    {
+     "en": "Tulasi",
+     "te": "తులసి"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 186,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0008",
+   "section": "biology",
+   "number": 8,
+   "question": {
+    "en": "Find the mismatch.",
+    "te": "సరికాని జతను గుర్తించండి."
+   },
+   "options": [
+    {
+     "en": "Leaf - Petiole",
+     "te": "పత్రం – వృంతం"
+    },
+    {
+     "en": "Flower - Venation",
+     "te": "పుష్పం – ఈనెల వ్యాపనం"
+    },
+    {
+     "en": "Pistil -Ovary",
+     "te": "అండకోశం – అండాశయం"
+    },
+    {
+     "en": "Stamen – Filament",
+     "te": "కేసరం – కేసరదండం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 186,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0009",
+   "section": "biology",
+   "number": 9,
+   "question": {
+    "en": "There is a main root and several lateral roots are present in A while all roots are similar in B. Find out A and B.",
+    "te": "A లో ఒక ప్రధాన వేరు మరియు అనేక పార్శ్వవేర్లు ఉంటాయి. కానీ B లో అన్ని వేర్లు ఒకేవిధంగా ఉంటాయి. A మరియు B లను కనుగొనండి."
+   },
+   "options": [
+    {
+     "en": "A – Main Root System B – Lateral Root System",
+     "te": "A – ప్రధాన వేరు వ్యవస్థ B – పార్శ్వ వేరు వ్యవస్థ"
+    },
+    {
+     "en": "A - Lateral Root System B – Main Root System",
+     "te": "A – పార్శ్వ వేరు వ్యవస్థ B – ప్రధాన వేరు వ్యవస్థ"
+    },
+    {
+     "en": "A – Tap Root System B – Fibrous Root System",
+     "te": "A – తల్లి వేరు వ్యవస్థ B – గుబురు వేరు వ్యవస్థ"
+    },
+    {
+     "en": "A – Main Root System B – Fibrous Root System",
+     "te": "A – ప్రధాన వేరు వ్యవస్థ B – గుబురు వేరు వ్యవస్థ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 186,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0010",
+   "section": "biology",
+   "number": 10,
+   "question": {
+    "en": "Dolphins and Whales respire through",
+    "te": "డాల్ఫిన్లు మరియు తిమింగలాలు దీని ద్వారా శ్వాసిస్తాయి"
+   },
+   "options": [
+    {
+     "en": "Gills",
+     "te": "మొప్పలు"
+    },
+    {
+     "en": "Skin",
+     "te": "చర్మం"
+    },
+    {
+     "en": "Mouth",
+     "te": "నోరు"
+    },
+    {
+     "en": "Blowholes",
+     "te": "శ్వాస రంధ్రాలు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 186,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0011",
+   "section": "biology",
+   "number": 11,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": "img/e0531dc740.png",
+   "imageW": 591,
+   "imageH": 804,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0012",
+   "section": "biology",
+   "number": 12,
+   "question": {
+    "en": "Respiration in plants takes place",
+    "te": "మొక్కలలో శ్వాసక్రియ ఇలా జరుగుతుంది"
+   },
+   "options": [
+    {
+     "en": "During day time only",
+     "te": "పగటి సమయంలో మాత్రమే"
+    },
+    {
+     "en": "During night time only",
+     "te": "రాత్రి సమయంలో మాత్రమే"
+    },
+    {
+     "en": "At afternoon time only",
+     "te": "మద్యాహ్నం సమయంలో మాత్రమే"
+    },
+    {
+     "en": "During day and night",
+     "te": "పగలు మరియు రాత్రివేళలలో"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0013",
+   "section": "biology",
+   "number": 13,
+   "question": {
+    "en": "The joint that connects the neck with head is",
+    "te": "మెడను తలతో కలిపే భాగంలో ఉండే కీలు"
+   },
+   "options": [
+    {
+     "en": "Ball and socket joint",
+     "te": "బంతి గిన్నె కీలు"
+    },
+    {
+     "en": "Pivot joint",
+     "te": "బొంగరపు కీలు"
+    },
+    {
+     "en": "Hinge joint",
+     "te": "మడతబందు కీలు"
+    },
+    {
+     "en": "Fixed joint",
+     "te": "కదలని కీలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0014",
+   "section": "biology",
+   "number": 14,
+   "question": {
+    "en": "The fixed joint is present in",
+    "te": "కదలని కీలు కలిగిన భాగం"
+   },
+   "options": [
+    {
+     "en": "Shoulder",
+     "te": "భుజం"
+    },
+    {
+     "en": "Neck",
+     "te": "మెడ"
+    },
+    {
+     "en": "Upper jaw",
+     "te": "పై దవడ"
+    },
+    {
+     "en": "Elbow",
+     "te": "మోచేయి"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0015",
+   "section": "biology",
+   "number": 15,
+   "question": {
+    "en": "Number of bones in human skeleton at the time of birth",
+    "te": "పుట్టుక సమయంలో మానవ ఆస్థిపంజరంలోని ఎముకల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "305",
+     "te": null
+    },
+    {
+     "en": "206",
+     "te": null
+    },
+    {
+     "en": "310",
+     "te": null
+    },
+    {
+     "en": "246",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0016",
+   "section": "biology",
+   "number": 16,
+   "question": {
+    "en": "Pelvic bones are seen in",
+    "te": "కటివలయ ఎముకలు కనిపించే భాగం"
+   },
+   "options": [
+    {
+     "en": "Shoulder",
+     "te": "భుజం"
+    },
+    {
+     "en": "Elbow",
+     "te": "మోచేయి"
+    },
+    {
+     "en": "Skull",
+     "te": "పుర్రె"
+    },
+    {
+     "en": "Below stomach",
+     "te": "పొట్ట కింద"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0017",
+   "section": "biology",
+   "number": 17,
+   "question": {
+    "en": "Cartilage is found in this part of the body",
+    "te": "మృదులాస్థిని కలిగి ఉండే శరీరభాగం"
+   },
+   "options": [
+    {
+     "en": "Ear lobe",
+     "te": "చెవి తమ్మె"
+    },
+    {
+     "en": "Skin",
+     "te": "చర్మం"
+    },
+    {
+     "en": "Heart",
+     "te": "గుండె"
+    },
+    {
+     "en": "Eye",
+     "te": "కన్ను"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0018",
+   "section": "biology",
+   "number": 18,
+   "question": {
+    "en": "Organism having hard outer skeleton",
+    "te": "గట్టిగా ఉన్న బాహ్య ఆస్థి పంజరంను కలిగిన జీవి"
+   },
+   "options": [
+    {
+     "en": "Fish",
+     "te": "చేప"
+    },
+    {
+     "en": "Cockroach",
+     "te": "బొద్దింక"
+    },
+    {
+     "en": "Earthworm",
+     "te": "వానపాము"
+    },
+    {
+     "en": "Bird",
+     "te": "పక్షి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0019",
+   "section": "biology",
+   "number": 19,
+   "question": {
+    "en": "The part of the plant that got modified into spines in Desert plants is",
+    "te": "ఎడారి మొక్కల్లో ముళ్ళుగా రూపాంతరం చెందిన భాగం"
+   },
+   "options": [
+    {
+     "en": "Stem",
+     "te": "కాండం"
+    },
+    {
+     "en": "Flowers",
+     "te": "పుష్పాలు"
+    },
+    {
+     "en": "Leaves",
+     "te": "పత్రాలు"
+    },
+    {
+     "en": "Roots",
+     "te": "వేర్లు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 187,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0020",
+   "section": "biology",
+   "number": 20,
+   "question": {
+    "en": "Find the odd one among the following",
+    "te": "క్రింది వానిలో భిన్నమైన దానిని కనుగొనండి."
+   },
+   "options": [
+    {
+     "en": "Rocks",
+     "te": "రాళ్ళు"
+    },
+    {
+     "en": "Sunlight",
+     "te": "సూర్యరశ్మి"
+    },
+    {
+     "en": "Soil",
+     "te": "మట్టి"
+    },
+    {
+     "en": "Animals",
+     "te": "జంతువులు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0021",
+   "section": "biology",
+   "number": 21,
+   "question": {
+    "en": "The organism that breathes through the blowhole",
+    "te": "శ్వాసరంధ్రం ద్వారా శ్వాసించే జీవి"
+   },
+   "options": [
+    {
+     "en": "Dolphin",
+     "te": "డాల్ఫిన్"
+    },
+    {
+     "en": "Fish",
+     "te": "చేప"
+    },
+    {
+     "en": "Octopus",
+     "te": "ఆక్టోపస్"
+    },
+    {
+     "en": "Squid",
+     "te": "స్క్విడ్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0022",
+   "section": "biology",
+   "number": 22,
+   "question": {
+    "en": "The cone shaped trees with sloping branches are generally seen in this area",
+    "te": "శంఖు ఆకారంలో ఉండి, వాలుగా ఉన్న కొమ్మలు గల మొక్కలు సాధారణంగా ఈ ప్రాంతంలో ఉంటాయి"
+   },
+   "options": [
+    {
+     "en": "Grass lands",
+     "te": "గడ్డి మైదానాలు"
+    },
+    {
+     "en": "Deserts",
+     "te": "ఎడారులు"
+    },
+    {
+     "en": "Mountain regions",
+     "te": "పర్వత ప్రాంతాలు"
+    },
+    {
+     "en": "Oceans",
+     "te": "మహా సముద్రాలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0023",
+   "section": "biology",
+   "number": 23,
+   "question": {
+    "en": "Desert plants that perform Photosynthesis through its stem",
+    "te": "కాండం ద్వారా కిరణజన్యసంయోగక్రియను జరిపే ఎడారి మొక్క"
+   },
+   "options": [
+    {
+     "en": "Grass",
+     "te": "గడ్డి"
+    },
+    {
+     "en": "Lotus",
+     "te": "తామర"
+    },
+    {
+     "en": "Tamarind",
+     "te": "చింత"
+    },
+    {
+     "en": "Cactus",
+     "te": "కాక్టస్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0024",
+   "section": "biology",
+   "number": 24,
+   "question": {
+    "en": "The animals with thick skin and fur are found in",
+    "te": "శరీరమంతా దళసరి చర్మం లేదా బొచ్చును కలిగిన జీవులు సాధారణంగా కనిపించే ప్రదేశం"
+   },
+   "options": [
+    {
+     "en": "Mountain regions",
+     "te": "పర్వత ప్రాంతాలు"
+    },
+    {
+     "en": "Grass lands",
+     "te": "గడ్డి మైదానాలు"
+    },
+    {
+     "en": "Deserts",
+     "te": "ఎడారులు"
+    },
+    {
+     "en": "Oceans",
+     "te": "మహాసముద్రాలు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0025",
+   "section": "biology",
+   "number": 25,
+   "question": {
+    "en": "Free living cells in pond water were first observed by",
+    "te": "చెరువు నీటిలో స్వేచ్చాయుత సజీవ కణాలను మొదటిసారిగా పరిశీలించినవారు"
+   },
+   "options": [
+    {
+     "en": "Robert Hook",
+     "te": "రాబర్ట్ హుక్"
+    },
+    {
+     "en": "Robert Brown",
+     "te": "రాబర్ట్ బ్రౌన్"
+    },
+    {
+     "en": "Leeuwen Hoek",
+     "te": "లీవెన్ హుక్"
+    },
+    {
+     "en": "Virchow",
+     "te": "విర్కోవ్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0026",
+   "section": "biology",
+   "number": 26,
+   "question": {
+    "en": "This cell organelle is absent in plant cell",
+    "te": "వృక్ష కణంలో లేని కణంగం"
+   },
+   "options": [
+    {
+     "en": "Cell wall",
+     "te": "కణ కవచం"
+    },
+    {
+     "en": "Centriole",
+     "te": "సెంట్రియోల్"
+    },
+    {
+     "en": "Plastid",
+     "te": "ప్లాస్టిడ్"
+    },
+    {
+     "en": "Vacuole",
+     "te": "రిక్తిక"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0027",
+   "section": "biology",
+   "number": 27,
+   "question": {
+    "en": "This cell organelle is known as “Suicidal bag of the cell”",
+    "te": "కణంలో “స్వయం విచ్చిత్తి సంచులు”గా పిలువబడే కణాంగం"
+   },
+   "options": [
+    {
+     "en": "Nucleus",
+     "te": "కేంద్రకం"
+    },
+    {
+     "en": "Mitochondria",
+     "te": "మైటోకాండ్రియా"
+    },
+    {
+     "en": "Lysosomes",
+     "te": "లైసోజోములు"
+    },
+    {
+     "en": "Ribosomes",
+     "te": "రైబోజోములు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0028",
+   "section": "biology",
+   "number": 28,
+   "question": {
+    "en": "The cell organelle that do not has its own DNA among the following",
+    "te": "ఈ కణాంగం సొంత DNA ను కలిగి ఉండదు"
+   },
+   "options": [
+    {
+     "en": "Nucleus",
+     "te": "కేంద్రకం"
+    },
+    {
+     "en": "Plastid",
+     "te": "ప్లాస్టిడ్"
+    },
+    {
+     "en": "Mitochondria",
+     "te": "మైటోకాండ్రియా"
+    },
+    {
+     "en": "Vacuole",
+     "te": "రిక్తిక"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0029",
+   "section": "biology",
+   "number": 29,
+   "question": {
+    "en": "Lysosomes are derived from this cell organelle",
+    "te": "లైసోజోములు ఈ కణాంగం నుండి ఏర్పడతాయి"
+   },
+   "options": [
+    {
+     "en": "Golgi apparatus",
+     "te": "గాల్జీ సంక్లిష్టం"
+    },
+    {
+     "en": "Endoplasmic Reticulum",
+     "te": "అంతర్జీవ ద్రవ్యజాలం"
+    },
+    {
+     "en": "Mitochondria",
+     "te": "మైటోకాండ్రియా"
+    },
+    {
+     "en": "Nucleus",
+     "te": "కేంద్రకం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0030",
+   "section": "biology",
+   "number": 30,
+   "question": {
+    "en": "The cell organelle that is known as ‘Powerhouse of the cell’",
+    "te": "‘కణశక్త్యాగారం’గా పిలువబడే కణాంగం"
+   },
+   "options": [
+    {
+     "en": "Mitochondria",
+     "te": "మైటోకాండ్రియా"
+    },
+    {
+     "en": "Vacuole",
+     "te": "రిక్తిక"
+    },
+    {
+     "en": "Plastid",
+     "te": "ప్లాస్టిడ్"
+    },
+    {
+     "en": "Lysosome",
+     "te": "లైసోజోము"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0031",
+   "section": "biology",
+   "number": 31,
+   "question": {
+    "en": "The cell division that forms Gametes",
+    "te": "బీజకణాలను ఏర్పరిచే కణ విభజన"
+   },
+   "options": [
+    {
+     "en": "Mitosis",
+     "te": "సమ విభజన"
+    },
+    {
+     "en": "Meiosis",
+     "te": "క్షయకరణ విభజన"
+    },
+    {
+     "en": "Fertilisation",
+     "te": "ఫలదీకరణము"
+    },
+    {
+     "en": "Pollination",
+     "te": "పరాగసంపర్కం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 188,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0032",
+   "section": "biology",
+   "number": 32,
+   "question": {
+    "en": "A dry raisin absorbs water through this process when kept it in for some time",
+    "te": "ఎండుద్రాక్ష కొద్దిసేపు నీటిలో ఉంచినప్పుడు నీటిని గ్రహించే ప్రక్రియ"
+   },
+   "options": [
+    {
+     "en": "Diffusion",
+     "te": "వ్యాపనం"
+    },
+    {
+     "en": "Osmosis",
+     "te": "ద్రవాభిసరణ"
+    },
+    {
+     "en": "Transpiration",
+     "te": "భాష్పోత్సేకం"
+    },
+    {
+     "en": "Root pressure",
+     "te": "వేరుపీడనం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0033",
+   "section": "biology",
+   "number": 33,
+   "question": {
+    "en": "This will be happened when a deshelled raw egg is placed in concentrated sugar solution",
+    "te": "పై పెంకును తొలగించిన కోడిగ్రుడ్డును గాఢ చక్కెర ద్రావణంలో ఉంచినప్పుడు జరుగేది"
+   },
+   "options": [
+    {
+     "en": "Its size increases",
+     "te": "దాని పరిమాణం పెరుగును"
+    },
+    {
+     "en": "Its size decreases",
+     "te": "దాని పరిమాణం తగ్గును"
+    },
+    {
+     "en": "No change occurs in its size",
+     "te": "దాని పరిమాణంలో మార్పు ఉండదు"
+    },
+    {
+     "en": "It Dissolves",
+     "te": "కరిగిపోతుంది"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0034",
+   "section": "biology",
+   "number": 34,
+   "question": {
+    "en": "The stain that is used to stain onion peel is",
+    "te": "ఉల్లిపొరను రంజనం చేయటానికి ఉపయోగించే రంజకం"
+   },
+   "options": [
+    {
+     "en": "safranin",
+     "te": "శాఫ్రనిన్"
+    },
+    {
+     "en": "Potassium Hydroxide",
+     "te": "పొటాషియం హైడ్రాక్సైడ్"
+    },
+    {
+     "en": "Dilute Hydrochloric Acid",
+     "te": "సజల హైడ్రోక్లోరిక్ ఆమ్లం"
+    },
+    {
+     "en": "Baking soda",
+     "te": "బేకింగ్ సోడా"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0035",
+   "section": "biology",
+   "number": 35,
+   "question": {
+    "en": "The cell organelle found only in animal cells",
+    "te": "జంతుకణాలలో మాత్రమే కనిపించే కణాంగం"
+   },
+   "options": [
+    {
+     "en": "Vacuole",
+     "te": "రిక్తిక"
+    },
+    {
+     "en": "Plastid",
+     "te": "ప్లాస్టిడ్"
+    },
+    {
+     "en": "Cell wall",
+     "te": "కణ కవచం"
+    },
+    {
+     "en": "Centriole",
+     "te": "సెంట్రియోల్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0036",
+   "section": "biology",
+   "number": 36,
+   "question": {
+    "en": "The cell organelle that involves in protein synthesis",
+    "te": "ప్రోటీన్ సంశ్లేషణను జరిపే కణాంగం"
+   },
+   "options": [
+    {
+     "en": "Centriole",
+     "te": "సెంట్రియోల్"
+    },
+    {
+     "en": "Vacuole",
+     "te": "రిక్తిక"
+    },
+    {
+     "en": "Ribosomes",
+     "te": "రైబోజోములు"
+    },
+    {
+     "en": "Lysosomes",
+     "te": "లైసోజోములు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0037",
+   "section": "biology",
+   "number": 37,
+   "question": {
+    "en": "This tissue causes increase in the girth of the stem",
+    "te": "ఈ కణజాలం కాండం వ్యాసాన్ని పెంచుతుంది"
+   },
+   "options": [
+    {
+     "en": "Simple Permanent Tissue",
+     "te": "సరళ శాశ్వత కణజాలం"
+    },
+    {
+     "en": "Complex Permanent Tissue",
+     "te": "సంక్లిష్ట శాశ్వత కణజాలం"
+    },
+    {
+     "en": "Meristematic Tissue",
+     "te": "విభాజ్య కణజాలం"
+    },
+    {
+     "en": "Cork Tissue",
+     "te": "బెండు కణజాలం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0038",
+   "section": "biology",
+   "number": 38,
+   "question": {
+    "en": "This is not a simple permanent tissue",
+    "te": "సరళ శాశ్వత కణజాలం కానిది"
+   },
+   "options": [
+    {
+     "en": "Parenchyma",
+     "te": "మృదు కణజాలం"
+    },
+    {
+     "en": "Xylem",
+     "te": "దారువు"
+    },
+    {
+     "en": "Collenchyma",
+     "te": "స్థూలకోణ కణజాలం"
+    },
+    {
+     "en": "Sclerenchyma",
+     "te": "దృఢకణజాలం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0039",
+   "section": "biology",
+   "number": 39,
+   "question": {
+    "en": "Complex permanent tissue among the following",
+    "te": "క్రింది వాటిలో సంక్లిష్ట శాశ్వత కణజాలం"
+   },
+   "options": [
+    {
+     "en": "Phloem",
+     "te": "పోషక కణజాలం"
+    },
+    {
+     "en": "Parenchyma",
+     "te": "మృదు కణజాలం"
+    },
+    {
+     "en": "Collenchyma",
+     "te": "స్థూలకోణ కణజాలం"
+    },
+    {
+     "en": "Sclerenchyma",
+     "te": "దృఢ కణజాలం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0040",
+   "section": "biology",
+   "number": 40,
+   "question": {
+    "en": "This tissue helps the plants to float on water",
+    "te": "ఈ కణజాలం మొక్కలను నీటిపై తేలడానికి ఉపయోగపడుతుంది"
+   },
+   "options": [
+    {
+     "en": "Collenchyma",
+     "te": "స్థూలకోణ కణజాలం"
+    },
+    {
+     "en": "Chlorenchyma",
+     "te": "క్లోరెంఖైమా"
+    },
+    {
+     "en": "Aerenchyma",
+     "te": "వాయుగత కణజాలం"
+    },
+    {
+     "en": "Phloem",
+     "te": "పోషక కణజాలం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0041",
+   "section": "biology",
+   "number": 41,
+   "question": {
+    "en": "This tissue is found in the tendrils and stems of climbers",
+    "te": "నులితీగలు, ఎగబ్రాకే మొక్కల కాండాలలో ఉండే కణజాలం"
+   },
+   "options": [
+    {
+     "en": "Collenchyma",
+     "te": "స్థూలకోణ కణజాలం"
+    },
+    {
+     "en": "Parenchyma",
+     "te": "మృదు కణజాలం"
+    },
+    {
+     "en": "Aerenchyma",
+     "te": "వాయుగత కణజాలం"
+    },
+    {
+     "en": "Complex Permanent Tissue",
+     "te": "సంక్లిష్ట శాశ్వత కణజాలం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0042",
+   "section": "biology",
+   "number": 42,
+   "question": {
+    "en": "The non-living cells in Phloem",
+    "te": "పోషక కణజాలంలోని నిర్జీవ కణాలు"
+   },
+   "options": [
+    {
+     "en": "Companion cells",
+     "te": "సహకణాలు"
+    },
+    {
+     "en": "Phloem Fibres",
+     "te": "పోషక నారలు"
+    },
+    {
+     "en": "Phloem Parenchyma",
+     "te": "పోషక మృదు కణజాలం"
+    },
+    {
+     "en": "Sieve Tubes",
+     "te": "చాలినీ నాళాలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0043",
+   "section": "biology",
+   "number": 43,
+   "question": {
+    "en": "The epithelial tissue that is found in the lining of mouth",
+    "te": "నోటికుహరంలో ఉండే ఉపకళా కణజాలం"
+   },
+   "options": [
+    {
+     "en": "Cuboidal",
+     "te": "ఘనాకార ఉపకళ"
+    },
+    {
+     "en": "Columnar",
+     "te": "స్థంభాకార ఉపకళ"
+    },
+    {
+     "en": "Stratified",
+     "te": "స్థరిత ఉపకళ"
+    },
+    {
+     "en": "Squamous",
+     "te": "శల్కల ఉపకళ"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0044",
+   "section": "biology",
+   "number": 44,
+   "question": {
+    "en": "The ‘Fluid Connective Tissue’ is",
+    "te": "ఇది ‘ద్రవరూప సంయోజక కణజాలం’"
+   },
+   "options": [
+    {
+     "en": "Cartilage",
+     "te": "మృదులాస్థి"
+    },
+    {
+     "en": "Blood",
+     "te": "రక్తం"
+    },
+    {
+     "en": "Areolar",
+     "te": "ఏరియోలార్"
+    },
+    {
+     "en": "Ligament",
+     "te": "లిగమెంట్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0045",
+   "section": "biology",
+   "number": 45,
+   "question": {
+    "en": "This tissue stores fat in our body",
+    "te": "ఈ కణజాలం మన శరీరంలో క్రొవ్వులను నిల్వచేస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Cartilage",
+     "te": "మృదులాస్థి"
+    },
+    {
+     "en": "Areolar Tissue",
+     "te": "ఏరియోలార్ కణజాలం"
+    },
+    {
+     "en": "Bone",
+     "te": "ఎముక"
+    },
+    {
+     "en": "Adipose Tissue",
+     "te": "అడిపోస్ కణజాలం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 189,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0046",
+   "section": "biology",
+   "number": 46,
+   "question": {
+    "en": "This connective tissue connects muscles with bones",
+    "te": "ఈ సంయోజక కణజాలం కండరాలను ఎముకలతో అతికి ఉంచుతుంది"
+   },
+   "options": [
+    {
+     "en": "Tendon",
+     "te": "టెండాన్"
+    },
+    {
+     "en": "Ligament",
+     "te": "లిగమెంట్"
+    },
+    {
+     "en": "Cartilage",
+     "te": "మృదులాస్థి"
+    },
+    {
+     "en": "Areolar",
+     "te": "ఏరియోలార్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0047",
+   "section": "biology",
+   "number": 47,
+   "question": {
+    "en": "These muscle movements are not in our control",
+    "te": "ఈ కండరాల కదలికలు మన ఆధీనంలో ఉండవు"
+   },
+   "options": [
+    {
+     "en": "Striated muscle",
+     "te": "రేఖిత కండరం"
+    },
+    {
+     "en": "Skeletal muscle",
+     "te": "అస్థి కండరం"
+    },
+    {
+     "en": "Non straited muscle",
+     "te": "అరేఖిత కండరం"
+    },
+    {
+     "en": "Voluntary muscle",
+     "te": "నియంత్రిత కండరం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0048",
+   "section": "biology",
+   "number": 48,
+   "question": {
+    "en": "The cell that carries nerve impulses",
+    "te": "నాడీ ప్రచోదనాలను మోసుకొనిపోవు కణము"
+   },
+   "options": [
+    {
+     "en": "Muscle cell",
+     "te": "కండర కణము"
+    },
+    {
+     "en": "White blood cell",
+     "te": "తెల్ల రక్త కణము"
+    },
+    {
+     "en": "Neuron",
+     "te": "నాడీ కణము"
+    },
+    {
+     "en": "Adipose cell",
+     "te": "అడిపోస్ కణము"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0049",
+   "section": "biology",
+   "number": 49,
+   "question": {
+    "en": "Streptomycin and Tetracycline are the examples for",
+    "te": "స్ట్రెప్టోమైసిన్ మరియు టెట్రాసైక్లిన్లు దీనికి ఉదాహరణలు"
+   },
+   "options": [
+    {
+     "en": "Vaccines",
+     "te": "వ్యాక్సిన్లు"
+    },
+    {
+     "en": "Pesticides",
+     "te": "క్రిమి సంహారకాలు"
+    },
+    {
+     "en": "Antibiotics",
+     "te": "ఆంటీబయాటిక్ లు"
+    },
+    {
+     "en": "Chemical fertilisers",
+     "te": "రసాయన ఎరువులు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0050",
+   "section": "biology",
+   "number": 50,
+   "question": {
+    "en": "These diseases can be prevented by drinking boiled water",
+    "te": "కాచిన నీటిని త్రాగడం ద్వారా నివారించగల వ్యాధులు"
+   },
+   "options": [
+    {
+     "en": "Malaria and Chickenpox",
+     "te": "మలేరియా మరియు చికెన్ పాక్స్"
+    },
+    {
+     "en": "Typhoid and Cholera",
+     "te": "టైఫాయిడ్ మరియు కలరా"
+    },
+    {
+     "en": "Foot and mouth Disease",
+     "te": "గాలికుంటు వ్యాధి"
+    },
+    {
+     "en": "Malaria and Measles",
+     "te": "మలేరియా మరియు తట్టు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0051",
+   "section": "biology",
+   "number": 51,
+   "question": {
+    "en": "Yeast is used in the production of",
+    "te": "దీని ఉత్పత్తి లో ఈస్టును ఉపయోగిస్తారు"
+   },
+   "options": [
+    {
+     "en": "Alcohol and Baking soda",
+     "te": "ఆల్కహాల్ మరియు బేకింగ్ సోడా"
+    },
+    {
+     "en": "Sugar and Fertiliser",
+     "te": "చక్కెర మరియు ఎరువు"
+    },
+    {
+     "en": "Bread and Alcohol",
+     "te": "బ్రెడ్ మరియు ఆల్కహాల్"
+    },
+    {
+     "en": "Curd and Vinegar",
+     "te": "పెరుగు మరియు వెనిగర్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0052",
+   "section": "biology",
+   "number": 52,
+   "question": {
+    "en": "Pasteurisation is the preservation method for",
+    "te": "పాశ్చరైజేషన్ విధానం ద్వారా నిల్వ చేసేది"
+   },
+   "options": [
+    {
+     "en": "Fruits",
+     "te": "పండ్లు"
+    },
+    {
+     "en": "Fish",
+     "te": "చేప"
+    },
+    {
+     "en": "Jam",
+     "te": "జామ్"
+    },
+    {
+     "en": "Milk",
+     "te": "పాలు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0053",
+   "section": "biology",
+   "number": 53,
+   "question": {
+    "en": "The most common carrier of communicable diseases is",
+    "te": "అంటువ్యాధులకు అత్యంత సాధారణ వాహకం."
+   },
+   "options": [
+    {
+     "en": "Housefly",
+     "te": "ఈగ"
+    },
+    {
+     "en": "Pig",
+     "te": "పంది"
+    },
+    {
+     "en": "Spider",
+     "te": "సాలీడు"
+    },
+    {
+     "en": "Cockroach",
+     "te": "బొద్దింక"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0054",
+   "section": "biology",
+   "number": 54,
+   "question": {
+    "en": "This bacterium lives inside the root nodules of Legume plants",
+    "te": "చిక్కుడు జాతి మొక్కల వేర్లలో జీవించే బాక్టీరియా"
+   },
+   "options": [
+    {
+     "en": "Lactobacillus",
+     "te": "లాక్టోబాసిల్లస్"
+    },
+    {
+     "en": "Blue green algae",
+     "te": "నీలి ఆకుపచ్చ శైవలం"
+    },
+    {
+     "en": "Rhizobium",
+     "te": "రైజోబియం"
+    },
+    {
+     "en": "Tobacco Mosaic",
+     "te": "టొబాకో మొజాయిక్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0055",
+   "section": "biology",
+   "number": 55,
+   "question": {
+    "en": "This disease is not caused by bacteria",
+    "te": "బాక్టీరియావలన కలగని వ్యాధి"
+   },
+   "options": [
+    {
+     "en": "Tuberculosis",
+     "te": "క్షయ"
+    },
+    {
+     "en": "Typhoid",
+     "te": "టైఫాయిడ్"
+    },
+    {
+     "en": "Cholera",
+     "te": "కలరా"
+    },
+    {
+     "en": "Dysentery",
+     "te": "అతిసారము"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0056",
+   "section": "biology",
+   "number": 56,
+   "question": {
+    "en": "This artificial preservative is used in jams",
+    "te": "జామ్లలో ఉపయోగించే కృత్రిమ నిల్వ పదార్థం"
+   },
+   "options": [
+    {
+     "en": "Sodium Bicarbonate",
+     "te": "సోడియం బైకార్బొనేట్"
+    },
+    {
+     "en": "Sodium Meta bisulphite",
+     "te": "సోడియం మెటా బై సల్ఫైట్"
+    },
+    {
+     "en": "Sodium Chloride",
+     "te": "సోడియం క్లోరైడ్"
+    },
+    {
+     "en": "Sodium Carbonate",
+     "te": "సోడియం కార్బొనేట్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0057",
+   "section": "biology",
+   "number": 57,
+   "question": {
+    "en": "This is not a communicable disease",
+    "te": "ఇది అంటువ్యాధి కాదు"
+   },
+   "options": [
+    {
+     "en": "Common cold",
+     "te": "సాధారణ జలుబు"
+    },
+    {
+     "en": "Chickenpox",
+     "te": "చికెన్పాక్స్"
+    },
+    {
+     "en": "Typhoid",
+     "te": "టైఫాయిడ్"
+    },
+    {
+     "en": "Tuberculosis",
+     "te": "క్షయ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0058",
+   "section": "biology",
+   "number": 58,
+   "question": {
+    "en": "The first vaccine invented was useful to prevent this disease",
+    "te": "మొట్టమొదటగా కనుగొనబడిన వ్యాక్సిన్ ఈ వ్యాధిని నివారించుట ఉపయోగపడింది"
+   },
+   "options": [
+    {
+     "en": "Chickenpox",
+     "te": "చికెన్ పాక్స్"
+    },
+    {
+     "en": "Smallpox",
+     "te": "మశూచి"
+    },
+    {
+     "en": "Anthrax",
+     "te": "ఆంథ్రాక్స్"
+    },
+    {
+     "en": "Polio",
+     "te": "పోలియో"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0059",
+   "section": "biology",
+   "number": 59,
+   "question": {
+    "en": "Example for Nitrogen fixing bacteria",
+    "te": "నత్రజని స్థాపక బాక్టీరియాకు ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Plasmodium",
+     "te": "ప్లాస్మోడియం"
+    },
+    {
+     "en": "Cyanobacteria",
+     "te": "సైనోబాక్టీరియా"
+    },
+    {
+     "en": "Salmonella",
+     "te": "సాల్మొనెల్లా"
+    },
+    {
+     "en": "Lactobacillus",
+     "te": "లాక్టోబాసిల్లస్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 190,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0060",
+   "section": "biology",
+   "number": 60,
+   "question": {
+    "en": "This is the carrier Malaria",
+    "te": "మలేరియా కు కారణమైన వాహకం"
+   },
+   "options": [
+    {
+     "en": "Male Aedes mosquito",
+     "te": "మగ ఏడిస్ దోమ"
+    },
+    {
+     "en": "Female Aedes mosquito",
+     "te": "ఆడ ఏడిస్ దోమ"
+    },
+    {
+     "en": "Female Culex mosquito",
+     "te": "ఆడ క్యూలెక్స్ దోమ"
+    },
+    {
+     "en": "Female Anopheles mosquito",
+     "te": "ఆడ ఎనాఫిలిస్ దోమ"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0061",
+   "section": "biology",
+   "number": 61,
+   "question": {
+    "en": "Copper Sulphate and Caustic soda solutions are used to test for this nutrient in food.",
+    "te": "కాపర్ సల్ఫేట్ మరియు కాస్టిక్ సోడా ద్రావణాలను ఆహారంలోని ఈ పోషకాన్ని పరీక్షించడానికి ఉపయోగిస్తారు."
+   },
+   "options": [
+    {
+     "en": "Carbohydrates",
+     "te": "పిండి పదార్ధాలు"
+    },
+    {
+     "en": "Fats",
+     "te": "క్రొవ్వులు"
+    },
+    {
+     "en": "Proteins",
+     "te": "ప్రోటీన్లు"
+    },
+    {
+     "en": "Vitamins",
+     "te": "విటమిన్లు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0062",
+   "section": "biology",
+   "number": 62,
+   "question": {
+    "en": "This is not a nutrient but an essential component of food",
+    "te": "ఇది ఆహారంలోని ఒక పోషకం కానప్పటికీ, ఒక ఆవశ్యకమైన అంశము"
+   },
+   "options": [
+    {
+     "en": "Roughage",
+     "te": "పీచు పదార్ధం"
+    },
+    {
+     "en": "Vitamin",
+     "te": "విటమిన్"
+    },
+    {
+     "en": "Mineral",
+     "te": "ఖనిజలవణము"
+    },
+    {
+     "en": "Iron",
+     "te": "ఐరన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0063",
+   "section": "biology",
+   "number": 63,
+   "question": {
+    "en": "Deficiency of this vitamin causes Beri-Beri.",
+    "te": "ఈ విటమిన్ లోపం బెరి-బెరికి కారణం"
+   },
+   "options": [
+    {
+     "en": "Vitamin C",
+     "te": null
+    },
+    {
+     "en": "Vitamin A",
+     "te": null
+    },
+    {
+     "en": "Vitamin D",
+     "te": null
+    },
+    {
+     "en": "Vitamin B_1",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0064",
+   "section": "biology",
+   "number": 64,
+   "question": {
+    "en": "These are often called Body building foods",
+    "te": "శరీర నిర్మాణ ఆహార పదార్ధాలు"
+   },
+   "options": [
+    {
+     "en": "Proteins",
+     "te": "ప్రోటీన్లు"
+    },
+    {
+     "en": "Vitamins",
+     "te": "విటమిన్లు"
+    },
+    {
+     "en": "Carbohydrates",
+     "te": "పిండి పదార్ధాలు"
+    },
+    {
+     "en": "Fats",
+     "te": "క్రొవ్వులు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0065",
+   "section": "biology",
+   "number": 65,
+   "question": {
+    "en": "Deficiency of Vitamin A causes",
+    "te": "విటమిన్ “A” లోపం వలన కలిగేది"
+   },
+   "options": [
+    {
+     "en": "Bone and tooth decay",
+     "te": "ఎముక మరియు దంతక్షయం"
+    },
+    {
+     "en": "Mental disability in children",
+     "te": "పిల్లలలో మానసిక వైకల్యం"
+    },
+    {
+     "en": "Loss of vision",
+     "te": "దృష్టి లోపం"
+    },
+    {
+     "en": "Anaemia",
+     "te": "అనీమియా"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0066",
+   "section": "biology",
+   "number": 66,
+   "question": {
+    "en": "Among the following items Fats are abundant in",
+    "te": "క్రింది వానిలో క్రొవ్వులు సమృద్ధిగా గలవి"
+   },
+   "options": [
+    {
+     "en": "Ground nuts",
+     "te": "వేరుశనగలు"
+    },
+    {
+     "en": "Potato",
+     "te": "బంగాళాదుంప"
+    },
+    {
+     "en": "Maize",
+     "te": "మొక్కజొన్న"
+    },
+    {
+     "en": "Beans",
+     "te": "బీన్స్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0067",
+   "section": "biology",
+   "number": 67,
+   "question": {
+    "en": "Paper becomes translucent when rubbed with this food component",
+    "te": "ఈ ఆహారంలోని అంశం కాగితాన్ని రుద్దితే పాక్షిక పారదర్శకంగా మారును"
+   },
+   "options": [
+    {
+     "en": "Starch",
+     "te": "పిండి పదార్ధం"
+    },
+    {
+     "en": "Dietary fibre",
+     "te": "పీచు పదార్ధం"
+    },
+    {
+     "en": "Fat",
+     "te": "క్రొవ్వు"
+    },
+    {
+     "en": "Protein",
+     "te": "ప్రోటీన్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0068",
+   "section": "biology",
+   "number": 68,
+   "question": {
+    "en": "This food nutrient gives blue black colour with iodine solution",
+    "te": "ఆహారంలోని ఈ పోషకము అయోడిన్తో నీలి నలుపు రంగును ఇస్తుంది."
+   },
+   "options": [
+    {
+     "en": "Starch",
+     "te": "పిండి పదార్ధం"
+    },
+    {
+     "en": "Vitamin A",
+     "te": "విటమిన్ A"
+    },
+    {
+     "en": "Fat",
+     "te": "క్రొవ్వు"
+    },
+    {
+     "en": "Iron",
+     "te": "ఐరన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0069",
+   "section": "biology",
+   "number": 69,
+   "question": {
+    "en": "Examples for rabi crops",
+    "te": "రబీ పంటలకు ఉదాహరణలు"
+   },
+   "options": [
+    {
+     "en": "Green gram and black gram",
+     "te": "పెసలు మరియు మినుములు"
+    },
+    {
+     "en": "Paddy and cotton",
+     "te": "వరి మరియు ప్రత్తి"
+    },
+    {
+     "en": "Maize and cotton",
+     "te": "మొక్కజొన్న మరియు ప్రత్తి"
+    },
+    {
+     "en": "Wheat and Mustard",
+     "te": "గోధుమ మరియు ఆవాలు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0070",
+   "section": "biology",
+   "number": 70,
+   "question": {
+    "en": "Growing different crops in a piece of land in a preplanned succession is called",
+    "te": "ఒకే నేలలో ముందస్తు ప్రణాళికతో వివిధ పంటలను ఒకదాని తరువాత ఒకటి పండించడమే"
+   },
+   "options": [
+    {
+     "en": "Inter crops",
+     "te": "అంతరపంటలు"
+    },
+    {
+     "en": "Crop Rotation",
+     "te": "పంట మార్పిడి"
+    },
+    {
+     "en": "Mixed Crops",
+     "te": "మిశ్రమ పంటలు"
+    },
+    {
+     "en": "Hybridisation",
+     "te": "సంకరీకరణ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0071",
+   "section": "biology",
+   "number": 71,
+   "question": {
+    "en": "This is not an example for fermented food",
+    "te": "పులియబెట్టిన ఆహారానికి ఉదాహరణ కానిది."
+   },
+   "options": [
+    {
+     "en": "Idly",
+     "te": "ఇడ్లీ"
+    },
+    {
+     "en": "Cake",
+     "te": "కేక్"
+    },
+    {
+     "en": "Rice",
+     "te": "అన్నం"
+    },
+    {
+     "en": "Dosa",
+     "te": "దోసె"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 191,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0072",
+   "section": "biology",
+   "number": 72,
+   "question": {
+    "en": "Examples for weed plants",
+    "te": "కలుపుమొక్కలకు ఉదాహరణలు"
+   },
+   "options": [
+    {
+     "en": "Finger millets and cowpea",
+     "te": "రాగులు మరియు కందులు"
+    },
+    {
+     "en": "Parthenium and Cyprinus",
+     "te": "పార్థీనియం మరియు సైపరినస్"
+    },
+    {
+     "en": "Mosam bee and Coconut",
+     "te": "బత్తాయి మరియు కొబ్బరి"
+    },
+    {
+     "en": "Ground nut and Sunflower",
+     "te": "వేరు శనగ మరియు ప్రొద్దు తిరుగుడు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0073",
+   "section": "biology",
+   "number": 73,
+   "question": {
+    "en": "The primary product of photosynthesis",
+    "te": "కిరణజన్యసంయోగక్రియ ప్రాధమిక ఉత్పన్నం"
+   },
+   "options": [
+    {
+     "en": "Proteins",
+     "te": "ప్రోటీన్లు"
+    },
+    {
+     "en": "Fats",
+     "te": "క్రొవ్వులు"
+    },
+    {
+     "en": "Carbohydrates",
+     "te": "పిండి పదార్ధాలు"
+    },
+    {
+     "en": "Fibre",
+     "te": "పీచు పదార్ధం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0074",
+   "section": "biology",
+   "number": 74,
+   "question": {
+    "en": "Guard cells are present in",
+    "te": "వీటిలో రక్షకకణాలు ఉంటాయి"
+   },
+   "options": [
+    {
+     "en": "Anthers",
+     "te": "పరాగకోశాలు"
+    },
+    {
+     "en": "Stomata",
+     "te": "పత్రరంధ్రాలు"
+    },
+    {
+     "en": "Roots",
+     "te": "వేర్లు"
+    },
+    {
+     "en": "Seeds",
+     "te": "విత్తనాలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0075",
+   "section": "biology",
+   "number": 75,
+   "question": {
+    "en": "The stems in these plants perform photosynthesis to prevent transpiration",
+    "te": "ఈ మొక్కలలోని కాండాలు భాష్పోత్సేకమును నివారించుటకోసం కిరణజన్యసంయోగక్రియను నిర్వహిస్తాయి"
+   },
+   "options": [
+    {
+     "en": "Water plants",
+     "te": "నీటిమొక్కలు"
+    },
+    {
+     "en": "Mangroves",
+     "te": "మడ చెట్లు"
+    },
+    {
+     "en": "Desert plants",
+     "te": "ఎడారి మొక్కలు"
+    },
+    {
+     "en": "Conifers",
+     "te": "కోనిఫెర్లు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0076",
+   "section": "biology",
+   "number": 76,
+   "question": {
+    "en": "Chlorophyll is not present in this plant",
+    "te": "పత్రహరితం లేని మొక్క"
+   },
+   "options": [
+    {
+     "en": "Hydrilla",
+     "te": "హైడ్రిల్లా"
+    },
+    {
+     "en": "Hibiscus",
+     "te": "మందార"
+    },
+    {
+     "en": "Nepenthes",
+     "te": "నెపంథిస్"
+    },
+    {
+     "en": "Cuscuta",
+     "te": "కస్క్యుటా"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0077",
+   "section": "biology",
+   "number": 77,
+   "question": {
+    "en": "The mode of nutrition which gets nutrients from dead and decaying matter is",
+    "te": "చనిపోయిన, కుళ్ళిపోతున్న పదార్ధాల నుండి పోషకాలను పొందే పోషకవిధానం"
+   },
+   "options": [
+    {
+     "en": "Autotrophic nutrition",
+     "te": "స్వయంపోషణ"
+    },
+    {
+     "en": "Parasitic nutrition",
+     "te": "పరాన్నజీవన పోషణ"
+    },
+    {
+     "en": "Saprophytic nutrition",
+     "te": "పూతికాహార పోషణ"
+    },
+    {
+     "en": "Symbiosis",
+     "te": "సహజీవనం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0078",
+   "section": "biology",
+   "number": 78,
+   "question": {
+    "en": "The partners in Lichens",
+    "te": "లైకెన్లలో భాగస్వామ్యులు"
+   },
+   "options": [
+    {
+     "en": "Alga and Bacteria",
+     "te": "శైవలం మరియు బాక్టీరియా"
+    },
+    {
+     "en": "Alga and Fungus",
+     "te": "శైవలం మరియు శిలీంధ్రం"
+    },
+    {
+     "en": "Plant and Animal",
+     "te": "మొక్క మరియు జంతువు"
+    },
+    {
+     "en": "Fungus and Bacteria",
+     "te": "శిలీంధ్రం మరియు బాక్టీరియా"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0079",
+   "section": "biology",
+   "number": 79,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/ccb8ac2831.png",
+   "imageW": 617,
+   "imageH": 801,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0080",
+   "section": "biology",
+   "number": 80,
+   "question": {
+    "en": "During Photosynthesis, A gas is absorbed in and B gas is released by the green plants. Find A and B",
+    "te": "కిరణజన్య సంయోగక్రియ లో A వాయువు గ్రహించబడుతుంది మరియు B వాయువు విడుదల అవుతుంది. AమరియుB లను కనుగొన౦డి"
+   },
+   "options": [
+    {
+     "en": "A – Oxygen B – Carbon dioxide",
+     "te": "A- ఆక్సిజన్ B – కార్బన్ డైఆక్సైడ్"
+    },
+    {
+     "en": "A – Nitrogen B – Oxygen",
+     "te": "A – నైట్రోజన్ B – ఆక్సిజన్"
+    },
+    {
+     "en": "A – Carbon dioxide B – Nitrogen",
+     "te": "A – కార్బన్ డైఆక్సైడ్ B – నైట్రోజన్"
+    },
+    {
+     "en": "A – Carbon dioxide B – Oxygen",
+     "te": "A – కార్బన్ డైఆక్సైడ్ B – ఆక్సిజన్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0081",
+   "section": "biology",
+   "number": 81,
+   "question": {
+    "en": "The largest gland in human body",
+    "te": "మానవ శరీరంలో అతి పెద్ద గ్రంధి"
+   },
+   "options": [
+    {
+     "en": "Gall bladder",
+     "te": "పిత్తాశయం"
+    },
+    {
+     "en": "Pancreas",
+     "te": "క్లోమం"
+    },
+    {
+     "en": "Liver",
+     "te": "కాలేయం"
+    },
+    {
+     "en": "Pituitary gland",
+     "te": "పీయూష గ్రంధి"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0082",
+   "section": "biology",
+   "number": 82,
+   "question": {
+    "en": "The finger like outgrowths in the walls of small intestine of humans",
+    "te": "మానవుల చిన్న ప్రేగు గోడలలో గల వేళ్ళ వంటి నిర్మాణాలు"
+   },
+   "options": [
+    {
+     "en": "Nephrons",
+     "te": "నెఫ్రాన్లు"
+    },
+    {
+     "en": "Villi",
+     "te": "చూషకాలు"
+    },
+    {
+     "en": "Neurons",
+     "te": "నాడీ కణాలు"
+    },
+    {
+     "en": "Pseudopodia",
+     "te": "మిద్యాపాదాలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 192,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0083",
+   "section": "biology",
+   "number": 83,
+   "question": {
+    "en": "In humans, digestion of starch starts in",
+    "te": "మానవులలో, పిండిపదార్ధాల జీర్ణక్రియ దీనిలో ప్రారంభం అవుతుంది"
+   },
+   "options": [
+    {
+     "en": "Stomach",
+     "te": "జీర్ణాశయం"
+    },
+    {
+     "en": "Small intestine",
+     "te": "చిన్న ప్రేగు"
+    },
+    {
+     "en": "Large intestine",
+     "te": "పెద్ద ప్రేగు"
+    },
+    {
+     "en": "Mouth",
+     "te": "నోరు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0084",
+   "section": "biology",
+   "number": 84,
+   "question": {
+    "en": "In humans, this type of teeth helps in biting and cutting",
+    "te": "మానవులలో కొరకడానికి మరియు కత్తిరించడానికి సహాయపడే దంతాలు"
+   },
+   "options": [
+    {
+     "en": "Incisors",
+     "te": "కుంతకాలు"
+    },
+    {
+     "en": "Canines",
+     "te": "రదనికలు"
+    },
+    {
+     "en": "Premolars",
+     "te": "అగ్రచర్వణకాలు"
+    },
+    {
+     "en": "Molars",
+     "te": "చర్వణకాలు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0085",
+   "section": "biology",
+   "number": 85,
+   "question": {
+    "en": "Breakdown of glucose using oxygen is",
+    "te": "ఆక్సిజన్ను వినియోగించుకుని గ్లూకోజ్ విచ్చిన్నం కావడం"
+   },
+   "options": [
+    {
+     "en": "Anaerobic respiration",
+     "te": "అవాయు శ్వాసక్రియ"
+    },
+    {
+     "en": "Fermentation",
+     "te": "కిణ్వనం"
+    },
+    {
+     "en": "Aerobic respiration",
+     "te": "వాయుసహిత శ్వాసక్రియ"
+    },
+    {
+     "en": "Transpiration",
+     "te": "భాష్పోత్సేకం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0086",
+   "section": "biology",
+   "number": 86,
+   "question": {
+    "en": "The air enters the body of Cockroach through",
+    "te": "బొద్దింక శరీరంలోనికి గాలి ప్రవేశించే మార్గం"
+   },
+   "options": [
+    {
+     "en": "Lungs",
+     "te": "ఊపిరితిత్తులు"
+    },
+    {
+     "en": "Gills",
+     "te": "మొప్పలు"
+    },
+    {
+     "en": "Spiracles",
+     "te": "శ్వాసరంధ్రాలు"
+    },
+    {
+     "en": "Skin",
+     "te": "చర్మం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0087",
+   "section": "biology",
+   "number": 87,
+   "question": {
+    "en": "In humans, during inhalation, the ribs",
+    "te": "మానవులలో, ఉచ్ఛ్వాస సమయంలో ప్రక్కటెముకలు"
+   },
+   "options": [
+    {
+     "en": "Move outwards",
+     "te": "బయటకి కదులుతాయి"
+    },
+    {
+     "en": "Move downwards",
+     "te": "క్రిందికి కదులుతాయి"
+    },
+    {
+     "en": "Move inwards",
+     "te": "లోపలికి కదులుతాయి"
+    },
+    {
+     "en": "Do not move at all",
+     "te": "అస్సలు కదలవు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0088",
+   "section": "biology",
+   "number": 88,
+   "question": {
+    "en": "Muscle cramps in legs after heavy exercise is due to the accumulation of",
+    "te": "దీని చేరిక వలన కాళ్ళ కండరాలు అధిక వ్యాయామం తరువాత పట్టేస్తాయి"
+   },
+   "options": [
+    {
+     "en": "Carbon dioxide",
+     "te": "కార్బన్ డైఆక్సైడ్"
+    },
+    {
+     "en": "Lactic acid",
+     "te": "లాక్టిక్ ఆమ్లం"
+    },
+    {
+     "en": "Alcohol",
+     "te": "ఆల్కహాల్"
+    },
+    {
+     "en": "Water",
+     "te": "నీరు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0089",
+   "section": "biology",
+   "number": 89,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": "img/833586d4f3.png",
+   "imageW": 778,
+   "imageH": 800,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0090",
+   "section": "biology",
+   "number": 90,
+   "question": {
+    "en": "The organism that perform Anaerobic respiration",
+    "te": "అవాయు శ్వాసక్రియ జరిపే జీవి"
+   },
+   "options": [
+    {
+     "en": "Cockroach",
+     "te": "బొద్దింక"
+    },
+    {
+     "en": "Earthworm",
+     "te": "వానపాము"
+    },
+    {
+     "en": "Frog",
+     "te": "కప్ప"
+    },
+    {
+     "en": "Yeast",
+     "te": "ఈస్ట్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0091",
+   "section": "biology",
+   "number": 91,
+   "question": {
+    "en": "The small balloon like structures in the lungs are",
+    "te": "ఊపిరితిత్తులలోని గాలి బుడగల వంటి నిర్మాణాలు"
+   },
+   "options": [
+    {
+     "en": "Bronchi",
+     "te": "శ్వాసనాళికలు"
+    },
+    {
+     "en": "Trachea",
+     "te": "వాయునాళాలు"
+    },
+    {
+     "en": "Alveoli",
+     "te": "వాయుగోణులు"
+    },
+    {
+     "en": "Larynx",
+     "te": "స్వరపేటిక"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0092",
+   "section": "biology",
+   "number": 92,
+   "question": {
+    "en": "The respiratory pigment in the blood of human beings",
+    "te": "మానవుని రక్తంలో గల శ్వాసవర్ణకం"
+   },
+   "options": [
+    {
+     "en": "Haemocyanin",
+     "te": "హీమోసైనిన్"
+    },
+    {
+     "en": "Haemochrome",
+     "te": "హీమోక్రోమ్"
+    },
+    {
+     "en": "Chlorophyll",
+     "te": "క్లోరోఫిల్"
+    },
+    {
+     "en": "Haemoglobin",
+     "te": "హీమోగ్లోబిన్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0093",
+   "section": "biology",
+   "number": 93,
+   "question": {
+    "en": "Fish breathe with the help of",
+    "te": "చేప వీటి సహాయంతో శ్వాసిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Lungs",
+     "te": "ఊపిరితిత్తులు"
+    },
+    {
+     "en": "Skin",
+     "te": "చర్మం"
+    },
+    {
+     "en": "Trachea",
+     "te": "వాయునాళం"
+    },
+    {
+     "en": "Gills",
+     "te": "మొప్పలు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0094",
+   "section": "biology",
+   "number": 94,
+   "question": {
+    "en": "This is a lung disease",
+    "te": "ఇది ఒక ఊపిరితిత్తుల వ్యాధి"
+   },
+   "options": [
+    {
+     "en": "Tuberculosis",
+     "te": "ట్యూబర్క్యులోసిస్"
+    },
+    {
+     "en": "Psoriasis",
+     "te": "సోరియాసిస్"
+    },
+    {
+     "en": "Eczema",
+     "te": "ఎక్జిమా"
+    },
+    {
+     "en": "Goitre",
+     "te": "గాయిటర్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0095",
+   "section": "biology",
+   "number": 95,
+   "question": {
+    "en": "This gas is exhaled air turns the lime water milky white",
+    "te": "మనం విడిచిన గాలిలోని ఈ వాయువు సున్నపు నీటిని పాలవలె తెల్లగా మార్చును"
+   },
+   "options": [
+    {
+     "en": "Oxygen",
+     "te": "ఆక్సిజన్"
+    },
+    {
+     "en": "Carbon dioxide",
+     "te": "కార్బన్ డైఆక్సైడ్"
+    },
+    {
+     "en": "Water vapour",
+     "te": "నీటి ఆవిరి"
+    },
+    {
+     "en": "Nitrogen",
+     "te": "నత్రజని"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 193,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0096",
+   "section": "biology",
+   "number": 96,
+   "question": {
+    "en": "More energy is released during this process",
+    "te": "ఈ ప్రక్రియలో అధిక శక్తి విడుదలవుతుంది"
+   },
+   "options": [
+    {
+     "en": "Anaerobic respiration",
+     "te": "అవాయు శ్వాసక్రియ"
+    },
+    {
+     "en": "Fermentation",
+     "te": "కిణ్వనం"
+    },
+    {
+     "en": "Aerobic respiration",
+     "te": "వాయుసహిత శ్వాసక్రియ"
+    },
+    {
+     "en": "Diffusion",
+     "te": "వ్యాపనం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0097",
+   "section": "biology",
+   "number": 97,
+   "question": {
+    "en": "This organ in human body that acts like a pump",
+    "te": "మానవ శరీరంలోని ఈ అవయవం పంపువలే పనిచేస్తుంది."
+   },
+   "options": [
+    {
+     "en": "Lungs",
+     "te": "ఊపిరితిత్తులు"
+    },
+    {
+     "en": "Kidneys",
+     "te": "మూత్రపిండాలు"
+    },
+    {
+     "en": "Liver",
+     "te": "కాలేయం"
+    },
+    {
+     "en": "Heart",
+     "te": "గుండె"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0098",
+   "section": "biology",
+   "number": 98,
+   "question": {
+    "en": "Blood is transported from the heart to body parts through these vessels",
+    "te": "గుండె నుండి శరీరభాగాలకు రక్తమును సరఫరా చేసే నాళాలు"
+   },
+   "options": [
+    {
+     "en": "Veins",
+     "te": "సిరలు"
+    },
+    {
+     "en": "Arteries",
+     "te": "ధమనులు"
+    },
+    {
+     "en": "Arterioles",
+     "te": "ధమనికలు"
+    },
+    {
+     "en": "Venules",
+     "te": "సిరికలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0099",
+   "section": "biology",
+   "number": 99,
+   "question": {
+    "en": "Blood travels with a low pressure in",
+    "te": "వీనిలో రక్తం తక్కువ పీడనంతో ప్రవహిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Arteries",
+     "te": "ధమనులు"
+    },
+    {
+     "en": "Xylem",
+     "te": "దారు కణజాలం"
+    },
+    {
+     "en": "Veins",
+     "te": "సిరలు"
+    },
+    {
+     "en": "Phloem",
+     "te": "పోషక కణజాలం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0100",
+   "section": "biology",
+   "number": 100,
+   "question": {
+    "en": "The normal blood pressure in humans is",
+    "te": "మానవులలో సాధారణ రక్త పీడనం"
+   },
+   "options": [
+    {
+     "en": "120/80 mm. of H_2O",
+     "te": null
+    },
+    {
+     "en": "80/120 mm. of H_2O",
+     "te": null
+    },
+    {
+     "en": "80/120 mm. of Hg.",
+     "te": null
+    },
+    {
+     "en": "120/80 mm. of Hg.",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0101",
+   "section": "biology",
+   "number": 101,
+   "question": {
+    "en": "The instrument used to measure blood pressure",
+    "te": "రక్తపీడనాన్ని కొలవడానికి ఉపయోగించే పరికరం"
+   },
+   "options": [
+    {
+     "en": "Thermometer",
+     "te": "థర్మామీటర్"
+    },
+    {
+     "en": "Sphygmomanometer",
+     "te": "స్పిగ్మోమానోమీటర్"
+    },
+    {
+     "en": "Stethoscope",
+     "te": "స్టెతస్కోప్"
+    },
+    {
+     "en": "Pressure Guage",
+     "te": "పీడన మాపని"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0102",
+   "section": "biology",
+   "number": 102,
+   "question": {
+    "en": "The colour of Lymph",
+    "te": "శోషరసం రంగు"
+   },
+   "options": [
+    {
+     "en": "Red",
+     "te": "ఎరుపు"
+    },
+    {
+     "en": "Yellow",
+     "te": "పసుపు"
+    },
+    {
+     "en": "Green",
+     "te": "ఆకుపచ్చ"
+    },
+    {
+     "en": "Colourless",
+     "te": "వర్ణ రహితము"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0103",
+   "section": "biology",
+   "number": 103,
+   "question": {
+    "en": "A harmless and painless, nonsurgical donation that can save many precious lives is",
+    "te": "అనేక విలువైన ప్రాణాలను కాపాడే సురక్షితమైన, నొప్పిలేని, శస్త్రచికిత్స కాని దానం"
+   },
+   "options": [
+    {
+     "en": "Kidney donation",
+     "te": "మూత్రపిండ దానం"
+    },
+    {
+     "en": "Cornea donation",
+     "te": "కార్నియా దానం"
+    },
+    {
+     "en": "Blood donation",
+     "te": "రక్త దానం"
+    },
+    {
+     "en": "liver donation",
+     "te": "కాలేయ దానం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0104",
+   "section": "biology",
+   "number": 104,
+   "question": {
+    "en": "This process helps in the movement of water and minerals from roots to leaves in plants.",
+    "te": "మొక్కలలో వేర్ల నుండి ఆకుల వరకు నీరు, ఖనిజ లవణాలు ప్రయాణించడానికి ఉపయోగపడే ప్రక్రియ"
+   },
+   "options": [
+    {
+     "en": "Photosynthesis",
+     "te": "కిరణజన్య సంయోగక్రియ"
+    },
+    {
+     "en": "Transpiration",
+     "te": "భాష్పోత్సేకం"
+    },
+    {
+     "en": "Respiration",
+     "te": "శ్వాసక్రియ"
+    },
+    {
+     "en": "Excretion",
+     "te": "విసర్జన"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0105",
+   "section": "biology",
+   "number": 105,
+   "question": {
+    "en": "This component of our blood fight against germs that enter our body",
+    "te": "మన శరీరంలోకి ప్రవేశించే సూక్ష్మక్రిములతో పోరాడే రక్తంలోని భాగము"
+   },
+   "options": [
+    {
+     "en": "Red blood cells",
+     "te": "ఎర్రరక్త కణాలు"
+    },
+    {
+     "en": "Platelets",
+     "te": "రక్తఫలకికలు"
+    },
+    {
+     "en": "Haemoglobin",
+     "te": "హీమోగ్లోబిన్"
+    },
+    {
+     "en": "White blood cells",
+     "te": "తెల్లరక్త కణాలు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0106",
+   "section": "biology",
+   "number": 106,
+   "question": {
+    "en": "The instrument used to feel the heartbeats is",
+    "te": "హృదయస్పందనలను తెలుసుకొనుటకు ఉపయోగించే పరికరము"
+   },
+   "options": [
+    {
+     "en": "Sphygmomanometer",
+     "te": "స్పిగ్మోమానోమీటర్"
+    },
+    {
+     "en": "Stethoscope",
+     "te": "స్టెతస్కోప్"
+    },
+    {
+     "en": "Thermometer",
+     "te": "థర్మామీటర్"
+    },
+    {
+     "en": "Syringe",
+     "te": "సిరంజి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0107",
+   "section": "biology",
+   "number": 107,
+   "question": {
+    "en": "The function of xylem in plants",
+    "te": "మొక్కలలో దారువు యొక్క విధి"
+   },
+   "options": [
+    {
+     "en": "Transport of food",
+     "te": "ఆహార సరఫరా"
+    },
+    {
+     "en": "Transport of water",
+     "te": "నీటి సరఫరా"
+    },
+    {
+     "en": "Transport of food and water",
+     "te": "ఆహారము మరియు నీటి సరఫరా"
+    },
+    {
+     "en": "Transport of air",
+     "te": "గాలి సరఫరా"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0108",
+   "section": "biology",
+   "number": 108,
+   "question": {
+    "en": "In humans the urine is stored here before urination",
+    "te": "మనవులలో మూత్ర విసర్జనకు ముందు మూత్రము ఇక్కడ నిల్వ ఉంటుంది"
+   },
+   "options": [
+    {
+     "en": "Kidneys",
+     "te": "మూత్ర పిండాలు"
+    },
+    {
+     "en": "Ureters",
+     "te": "మూత్రనాళాలు"
+    },
+    {
+     "en": "Urinary bladder",
+     "te": "మూత్రాశయం"
+    },
+    {
+     "en": "Urethra",
+     "te": "ప్రసేకం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0109",
+   "section": "biology",
+   "number": 109,
+   "question": {
+    "en": "Olfactory receptors provide this sense",
+    "te": "ఘ్రాణ గ్రాహకాలు ఈ రకమైన జ్ఞానాన్ని తెలియచేస్తాయి."
+   },
+   "options": [
+    {
+     "en": "Taste",
+     "te": "రుచి"
+    },
+    {
+     "en": "Smell",
+     "te": "వాసన"
+    },
+    {
+     "en": "Touch",
+     "te": "స్పర్శ"
+    },
+    {
+     "en": "Vision",
+     "te": "దృష్టి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 194,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0110",
+   "section": "biology",
+   "number": 110,
+   "question": {
+    "en": "The reflex action is controlled by",
+    "te": "అసంకల్పిత ప్రతీకార చర్యలను నియంత్రించేది"
+   },
+   "options": [
+    {
+     "en": "Brain",
+     "te": "మెదడు"
+    },
+    {
+     "en": "Spinal cord",
+     "te": "వెన్నుపాము"
+    },
+    {
+     "en": "Heart",
+     "te": "గుండె"
+    },
+    {
+     "en": "Pituitary gland",
+     "te": "పీయూష గ్రంధి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0111",
+   "section": "biology",
+   "number": 111,
+   "question": {
+    "en": "The part of the brain that controls blood pressure, salivation and vomiting",
+    "te": "రక్తపీడనం, లాలాజలం స్రవించుట మరియు వాంతులను నియంత్రించే మెదడులోని భాగం"
+   },
+   "options": [
+    {
+     "en": "Cerebrum",
+     "te": "మస్తిష్కం"
+    },
+    {
+     "en": "Cerebellum",
+     "te": "అనుమస్తిష్కం"
+    },
+    {
+     "en": "Mid brain",
+     "te": "మధ్యమెదడు"
+    },
+    {
+     "en": "Medulla oblongata",
+     "te": "మజ్జాముఖం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0112",
+   "section": "biology",
+   "number": 112,
+   "question": {
+    "en": "Walking in straight line, cycling are controlled by this part of Brain",
+    "te": "సరళ రేఖామార్గంలో నడవడం, సైకిల్ తొక్కడములను నియంత్రించే మెదడులోని భాగం"
+   },
+   "options": [
+    {
+     "en": "Cerebrum",
+     "te": "మస్తిష్కం"
+    },
+    {
+     "en": "Mid brain",
+     "te": "మధ్య మెదడు"
+    },
+    {
+     "en": "Cerebellum",
+     "te": "అనుమస్తిష్కం"
+    },
+    {
+     "en": "Medulla oblongata",
+     "te": "మజ్జాముఖం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0113",
+   "section": "biology",
+   "number": 113,
+   "question": {
+    "en": "The gap between two neurons is",
+    "te": "రెండు న్యూరాన్ల మధ్య గల ఖాళీ ప్రదేశం"
+   },
+   "options": [
+    {
+     "en": "Dendrites",
+     "te": "డెండ్రైట్లు"
+    },
+    {
+     "en": "Synapse",
+     "te": "సైనాప్స్"
+    },
+    {
+     "en": "Axon",
+     "te": "ఆక్సాన్"
+    },
+    {
+     "en": "Impulse",
+     "te": "ప్రచోదనం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0114",
+   "section": "biology",
+   "number": 114,
+   "question": {
+    "en": "Chemotropism occurs in this part",
+    "te": "రసాయన అనువర్తనాన్ని చూపే భాగం"
+   },
+   "options": [
+    {
+     "en": "Stem",
+     "te": "కాండం"
+    },
+    {
+     "en": "Root",
+     "te": "వేరు"
+    },
+    {
+     "en": "Pollen tube",
+     "te": "పరాగనాళం"
+    },
+    {
+     "en": "Tendril",
+     "te": "నులితీగ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0115",
+   "section": "biology",
+   "number": 115,
+   "question": {
+    "en": "This tropic movement shows upward growth of shoot and downward growth of root due to Gravitational force is",
+    "te": "గురుత్వాకర్షణ వలన మొక్కలలో కొమ్మలు పైకి, వేర్లు కిందికి పెరగడానికి కారణమైన అనువర్తన చలనం"
+   },
+   "options": [
+    {
+     "en": "Phototropism",
+     "te": "కాంతి అనువర్తనం"
+    },
+    {
+     "en": "Geotropism",
+     "te": "గురుత్వానువర్తనం"
+    },
+    {
+     "en": "Hydrotropism",
+     "te": "నీటి అనువర్తనం"
+    },
+    {
+     "en": "Thigmotropism",
+     "te": "స్పర్శానువర్తనం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0116",
+   "section": "biology",
+   "number": 116,
+   "question": {
+    "en": "This Phytohormone inhibit growth of plant",
+    "te": "ఈ మొక్క హార్మోన్ మొక్క పెరుగుదలను నిరోధించును"
+   },
+   "options": [
+    {
+     "en": "Auxin",
+     "te": "ఆక్సిన్"
+    },
+    {
+     "en": "Abscisic acid",
+     "te": "అబ్సిసిక్ ఆమ్లం"
+    },
+    {
+     "en": "Cytokinin",
+     "te": "సైటోకైనిన్"
+    },
+    {
+     "en": "Gibberellin",
+     "te": "జిబ్బరెల్లిన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0117",
+   "section": "biology",
+   "number": 117,
+   "question": {
+    "en": "This phytohormone makes the plant to bend towards sunlight",
+    "te": "ఈ మొక్క హార్మోన్ మొక్కను కాంతి వైపుకు వంగేలా చేస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Auxins",
+     "te": "ఆక్సిన్లు"
+    },
+    {
+     "en": "Gibberellin",
+     "te": "జిబ్బరెల్లిన్"
+    },
+    {
+     "en": "Cytokinin",
+     "te": "సైటోకైనిన్"
+    },
+    {
+     "en": "Abscisic acid",
+     "te": "అబ్సిసిక్ ఆమ్లం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0118",
+   "section": "biology",
+   "number": 118,
+   "question": {
+    "en": "This gland secrets Growth Hormone",
+    "te": "ఈగ్రంధి పెరుగుదల హార్మోన్ ను స్రవిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Testis",
+     "te": "ముష్కం"
+    },
+    {
+     "en": "Thyroid gland",
+     "te": "థైరాయిడ్ గ్రంధి"
+    },
+    {
+     "en": "Pituitary gland",
+     "te": "పీయూష గ్రంధి"
+    },
+    {
+     "en": "Adrenal gland",
+     "te": "అధివృక్క గ్రంధి"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0119",
+   "section": "biology",
+   "number": 119,
+   "question": {
+    "en": "The hormone that enables animal body to deal with dangerous situations",
+    "te": "జంతువు శరీరాన్ని ప్రమాదకరమైన పరిస్థితులను ఎదుర్కొనేందుకు, సిద్ధపరిచే హార్మోన్"
+   },
+   "options": [
+    {
+     "en": "Insulin",
+     "te": "ఇన్సులిన్"
+    },
+    {
+     "en": "Adrenalin",
+     "te": "అడ్రినలిన్"
+    },
+    {
+     "en": "Ghrelin",
+     "te": "గ్రెలిన్"
+    },
+    {
+     "en": "Thyroxin",
+     "te": "థైరాక్సిన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0120",
+   "section": "biology",
+   "number": 120,
+   "question": {
+    "en": "The hormone that regulates metabolism for body growth in animals",
+    "te": "జంతువులలో శరీర పెరుగుదలకు అవసరమైన జీవనక్రియలను నియంత్రించే హార్మోన్"
+   },
+   "options": [
+    {
+     "en": "Insulin",
+     "te": "ఇన్సులిన్"
+    },
+    {
+     "en": "Adrenalin",
+     "te": "అడ్రినలిన్"
+    },
+    {
+     "en": "Thyroxin",
+     "te": "థైరాక్సిన్"
+    },
+    {
+     "en": "Progesterone",
+     "te": "ప్రొజెస్టిరాన్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0121",
+   "section": "biology",
+   "number": 121,
+   "question": {
+    "en": "This plant shows vegetative propagation through leaves",
+    "te": "ఈ మొక్క పత్రాల ద్వారా శాఖీయ ప్రత్యుత్పత్తి జరుపుతుంది"
+   },
+   "options": [
+    {
+     "en": "Banayan",
+     "te": "మర్రి"
+    },
+    {
+     "en": "Rose",
+     "te": "గులాబీ"
+    },
+    {
+     "en": "Bryophyllum",
+     "te": "బ్రయోఫిల్లం"
+    },
+    {
+     "en": "Sugarcane",
+     "te": "చెరకు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 195,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0122",
+   "section": "biology",
+   "number": 122,
+   "question": {
+    "en": "Budding as a mode of reproduction is seen in",
+    "te": "ప్రత్యుత్పత్తిలో కోరకీభవనం విధానమును కనబర్చేది"
+   },
+   "options": [
+    {
+     "en": "Spirogyra",
+     "te": "స్పైరోగైరా"
+    },
+    {
+     "en": "Fern",
+     "te": "ఫెర్న్"
+    },
+    {
+     "en": "Ginger",
+     "te": "అల్లం"
+    },
+    {
+     "en": "Yeast",
+     "te": "ఈస్ట్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0123",
+   "section": "biology",
+   "number": 123,
+   "question": {
+    "en": "Spores are the asexual reproductive bodies in",
+    "te": "అలైంగిక ప్రత్యుత్పత్తి నిర్మాణాలుగా సిద్ధబీజాలను కలిగి ఉండేవి"
+   },
+   "options": [
+    {
+     "en": "Pitcher plant",
+     "te": "పిట్చర్ ప్లాంట్"
+    },
+    {
+     "en": "Rhizopus",
+     "te": "రైజోపస్"
+    },
+    {
+     "en": "Bryophyllum",
+     "te": "బ్రయోఫిల్లం"
+    },
+    {
+     "en": "Potato",
+     "te": "బంగాళాదుంప"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0124",
+   "section": "biology",
+   "number": 124,
+   "question": {
+    "en": "Identify the odd one with regard to female flower parts",
+    "te": "పుష్పంలోని స్త్రీభాగాలను దృష్టిలో పెట్టుకొని సరికానిదానిని గుర్తించండి."
+   },
+   "options": [
+    {
+     "en": "Stigma",
+     "te": "కీలాగ్రం"
+    },
+    {
+     "en": "Style",
+     "te": "కీలం"
+    },
+    {
+     "en": "Anther",
+     "te": "పరాగకోశం"
+    },
+    {
+     "en": "Ovary",
+     "te": "అండాశయం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0125",
+   "section": "biology",
+   "number": 125,
+   "question": {
+    "en": "After fertilisation the ovary of a flower turns into",
+    "te": "ఫలదీకరణ౦ తరువాత పుష్పంలోని అండాశయం ఈభాగంగా మార్పుచెందును"
+   },
+   "options": [
+    {
+     "en": "Seed",
+     "te": "విత్తనం"
+    },
+    {
+     "en": "Stalk",
+     "te": "కాడ"
+    },
+    {
+     "en": "Gamete",
+     "te": "సంయోగ బీజం"
+    },
+    {
+     "en": "Fruit",
+     "te": "ఫలం"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0126",
+   "section": "biology",
+   "number": 126,
+   "question": {
+    "en": "Dispersal of seeds through fruit bursts is seen in",
+    "te": "ఫలములు పగలడం ద్వారా విత్తనవ్యాప్తి జరిపేది"
+   },
+   "options": [
+    {
+     "en": "Xanthium",
+     "te": "జాంథియం"
+    },
+    {
+     "en": "Balsam",
+     "te": "నేలగోరింట"
+    },
+    {
+     "en": "Coconut",
+     "te": "కొబ్బరి"
+    },
+    {
+     "en": "Sunflower",
+     "te": "పొద్దుతిరుగుడు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0127",
+   "section": "biology",
+   "number": 127,
+   "question": {
+    "en": "The fusion of male and female gametes resulting in a zygote is called",
+    "te": "పురుష మరియు స్త్రీ బీజాల కలయిక ద్వారా సంయుక్త బీజములు ఏర్పడే ప్రక్రియ"
+   },
+   "options": [
+    {
+     "en": "Fertilisation",
+     "te": "ఫలధీకరణ"
+    },
+    {
+     "en": "Pollination",
+     "te": "పరాగసంపర్కం"
+    },
+    {
+     "en": "Reproduction",
+     "te": "ప్రత్యుత్పత్తి"
+    },
+    {
+     "en": "Seed formation",
+     "te": "విత్తన నిర్మాణం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0128",
+   "section": "biology",
+   "number": 128,
+   "question": {
+    "en": "New plants develop from parts called eyes in",
+    "te": "వీటిలో కొత్త మొక్కలు మొలకెత్తుటకు కన్నులు అనే భాగము ఉంటుంది"
+   },
+   "options": [
+    {
+     "en": "Cactus",
+     "te": "కాక్టస్"
+    },
+    {
+     "en": "Ginger",
+     "te": "అల్లం"
+    },
+    {
+     "en": "Potato",
+     "te": "బంగాళాదుంప"
+    },
+    {
+     "en": "Rose",
+     "te": "గులాబీ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0129",
+   "section": "biology",
+   "number": 129,
+   "question": {
+    "en": "Internal fertilisation is seen in",
+    "te": "అంతర ఫలధీకరణ కనబర్చేది"
+   },
+   "options": [
+    {
+     "en": "Frogs",
+     "te": "కప్పలు"
+    },
+    {
+     "en": "Toads",
+     "te": "బోదురుకప్పలు"
+    },
+    {
+     "en": "Lizard",
+     "te": "బల్లి"
+    },
+    {
+     "en": "Star fish",
+     "te": "సముద్ర నక్షత్రం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0130",
+   "section": "biology",
+   "number": 130,
+   "question": {
+    "en": "External fertilisation is seen in",
+    "te": "బాహ్య ఫలధీకరణను కనబర్చేది"
+   },
+   "options": [
+    {
+     "en": "Lizard",
+     "te": "బల్లి"
+    },
+    {
+     "en": "Garden Lizard",
+     "te": "తొండ"
+    },
+    {
+     "en": "Starfish",
+     "te": "సముద్ర నక్షత్రం"
+    },
+    {
+     "en": "Butterfly",
+     "te": "సీతాకోకచిలుక"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0131",
+   "section": "biology",
+   "number": 131,
+   "question": {
+    "en": "Metamorphosis is seen in",
+    "te": "రూపవిక్రయాన్ని కనబర్చేది"
+   },
+   "options": [
+    {
+     "en": "Hen",
+     "te": "కోడి"
+    },
+    {
+     "en": "Silkworm",
+     "te": "పట్టుపురుగు"
+    },
+    {
+     "en": "Snakes",
+     "te": "పాములు"
+    },
+    {
+     "en": "Fish",
+     "te": "చేపలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0132",
+   "section": "biology",
+   "number": 132,
+   "question": {
+    "en": "This is an example of viviparous animal",
+    "te": "శిశోత్పాదక జీవికి ఇది ఒక ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Squirrel",
+     "te": "ఉడుత"
+    },
+    {
+     "en": "Moth",
+     "te": "మాత్"
+    },
+    {
+     "en": "Frog",
+     "te": "కప్ప"
+    },
+    {
+     "en": "Starfish",
+     "te": "సముద్రనక్షత్రం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0133",
+   "section": "biology",
+   "number": 133,
+   "question": {
+    "en": "Find out the odd one out regarding the dominant traits in pea plants",
+    "te": "బఠాణీ మొక్కలలో బహిర్గత లక్షణంశాలకు సంబంధించి భిన్నమైనదాన్ని గుర్తించండి"
+   },
+   "options": [
+    {
+     "en": "Violet flowers",
+     "te": "ఊదారంగు పుష్పాలు"
+    },
+    {
+     "en": "Wrinkled seeds",
+     "te": "ముడుతలుగల విత్తనాలు"
+    },
+    {
+     "en": "Tallness",
+     "te": "పొడవైన"
+    },
+    {
+     "en": "Yellow seed",
+     "te": "పసుపు విత్తనం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0134",
+   "section": "biology",
+   "number": 134,
+   "question": {
+    "en": "In these organisms the sex in the young ones determined by temperature of the surroundings before hatching out",
+    "te": "ఈ జీవులలో అప్పుడే జన్మించిన పిల్లల్లో లైంగికత పొదిగే కాలంలో పరిసరాల ఉష్ణోగ్రత వలన నిర్ధారించబడుతుంది"
+   },
+   "options": [
+    {
+     "en": "Hens",
+     "te": "కోళ్ళు"
+    },
+    {
+     "en": "Reptiles",
+     "te": "సరీసృపాలు"
+    },
+    {
+     "en": "Humans",
+     "te": "మానవులు"
+    },
+    {
+     "en": "Fishes",
+     "te": "చేపలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 196,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0135",
+   "section": "biology",
+   "number": 135,
+   "question": {
+    "en": "Number of sex chromosomes in humans",
+    "te": "మానవులలో లైంగిక క్రోమోజోముల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "2",
+     "te": null
+    },
+    {
+     "en": "22",
+     "te": null
+    },
+    {
+     "en": "44",
+     "te": null
+    },
+    {
+     "en": "46",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0136",
+   "section": "biology",
+   "number": 136,
+   "question": {
+    "en": "Children in humans inherit this sex chromosome from their mother",
+    "te": "మానవులలో పిల్లలు తమ తల్లి నుండి ఈ లైంగిక క్రోమోజోమును పొందుతారు"
+   },
+   "options": [
+    {
+     "en": "X – Chromosome",
+     "te": "X – క్రోమోజోము"
+    },
+    {
+     "en": "Y – Chromosome",
+     "te": "Y – క్రోమోజోము"
+    },
+    {
+     "en": "Both X and Y chromosomes",
+     "te": "X మరియు Y క్రోమోజోములు"
+    },
+    {
+     "en": "No chromosomes will be inherited",
+     "te": "క్రోమోజోములను పొందరు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0137",
+   "section": "biology",
+   "number": 137,
+   "question": {
+    "en": "Round, green colour seeded plant is crossed with wrinkled yellow colour seeded plant, F_1generation plants will be having",
+    "te": "గుండ్రని, ఆకుపచ్చ రంగు విత్తనాలున్న మొక్కను, ముడుతలు కలిగిన పసుపు రంగు విత్తనాలున్న మొక్కతో సంకరణం జరిపినప్పుడు F_1 తరంలో మొక్కలు ఇలా ఉంటాయి"
+   },
+   "options": [
+    {
+     "en": "Wrinkled, green colour seed plants",
+     "te": "ముడుతలు కలిగి, ఆకుపచ్చ రంగు విత్తనాలున్న మొక్కలు"
+    },
+    {
+     "en": "Wrinkled, white colour seed plants",
+     "te": "ముడుతలు కలిగి, తెలుపు రంగు విత్తనాలున్న మొక్కలు"
+    },
+    {
+     "en": "Round, white colour seed plants",
+     "te": "గుండ్రని, తెలుపురంగు విత్తనాలున్న మొక్కలు"
+    },
+    {
+     "en": "Round, Yellow colour seed plants",
+     "te": "గుండ్రని, పసుపురంగు విత్తనాలున్న మొక్కలు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0138",
+   "section": "biology",
+   "number": 138,
+   "question": {
+    "en": "In Mendel’s inheritance experiments, F_2generation plants were got by through",
+    "te": "మెండల్ ఆనువంశికత ప్రయోగాలలో F_2తరం మొక్కలను ఇలా పొందుతారు"
+   },
+   "options": [
+    {
+     "en": "Self- pollination of F_1plants",
+     "te": "F_1మొక్కలను స్వపరాగ సంపర్కం చేయడం ద్వారా"
+    },
+    {
+     "en": "Cross-pollination of parent plants",
+     "te": "జనక మొక్కలను పరపరాగ సంపర్కం చెందించడం ద్వారా"
+    },
+    {
+     "en": "Self – pollination of parent plants",
+     "te": "జనక మొక్కలను స్వపరాగ సంపర్కం చెందించడం ద్వారా"
+    },
+    {
+     "en": "Cross – pollination of F_1 plants",
+     "te": "F_1మొక్కలను పరపరాగ సంపర్కం చేయడం ద్వారా"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0139",
+   "section": "biology",
+   "number": 139,
+   "question": {
+    "en": "In human beings, the sex of the child depends on",
+    "te": "మానవులలో, లింగనిర్ధారణ దీనిపై ఆధారపడుతుంది"
+   },
+   "options": [
+    {
+     "en": "Maternal chromosome",
+     "te": "తల్లి నుండి వచ్చిన క్రోమోజోముపై"
+    },
+    {
+     "en": "Parental chromosome",
+     "te": "తండ్రి నుండి వచ్చిన క్రోమోజోముపై"
+    },
+    {
+     "en": "Various factors in surroundings",
+     "te": "పరిసరాలలోని అనేక కారకాలపై"
+    },
+    {
+     "en": "Both maternal and paternal sex chromosomes",
+     "te": "తల్లి మరియు తండ్రి నుండి వచ్చిన లైంగిక క్రోమోజోములపై"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0140",
+   "section": "biology",
+   "number": 140,
+   "question": {
+    "en": "22+XX chromosomes are found in",
+    "te": "22+XX క్రోమోజోములు ఉండేది"
+   },
+   "options": [
+    {
+     "en": "In all humans",
+     "te": "మానవులందరిలో"
+    },
+    {
+     "en": "In women",
+     "te": "స్త్రీలలో"
+    },
+    {
+     "en": "In men",
+     "te": "పురుషులలో"
+    },
+    {
+     "en": "In Reptiles",
+     "te": "సరీసృపాలలో"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0141",
+   "section": "biology",
+   "number": 141,
+   "question": {
+    "en": "Phenotypic ratio in F_2generation when Mendel crossed plants with two contrasting characters",
+    "te": "మెండల్ రెండు జతల వ్యతిరేక లక్షణంశాలున్న మొక్కల మధ్య సంకరణం చేసినప్పుడు F_2తరంలోని మొక్కల దృశ్యరూప నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "1:3:1",
+     "te": null
+    },
+    {
+     "en": "3:1",
+     "te": null
+    },
+    {
+     "en": "9:3:3:1",
+     "te": null
+    },
+    {
+     "en": "9:3:1",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0142",
+   "section": "biology",
+   "number": 142,
+   "question": {
+    "en": "Plant even with a single copy of ‘T’ gene appear tall every time while short plants should have a double copy of ‘t’. So the dominant trait here is",
+    "te": "ఒక్క T జన్యువును కలిగినప్పటికి మొక్కలు ప్రతిసారీ పొడవైనవే అవుతాయి కానీ, పొట్టి మొక్కలు రెండు t జన్యువులను కలిగి ఉండాలి. ఇక్కడ బహిర్గత లక్షణాంశం"
+   },
+   "options": [
+    {
+     "en": "Tallness",
+     "te": "పొడవు"
+    },
+    {
+     "en": "Shortness",
+     "te": "పొట్టి"
+    },
+    {
+     "en": "Medium height",
+     "te": "మధ్యస్థ ఎత్తు"
+    },
+    {
+     "en": "Both tall and short",
+     "te": "పొడవు మరియు పొట్టి రెండూ"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0143",
+   "section": "biology",
+   "number": 143,
+   "question": {
+    "en": "Genotypic ratio in F2 generation of Mendels monohybrid cross",
+    "te": "మెండల్ ఏకసంకరణంలో F_2తరంలో జన్యురూప నిష్పత్తి"
+   },
+   "options": [
+    {
+     "en": "2:3:1",
+     "te": null
+    },
+    {
+     "en": "3:1",
+     "te": null
+    },
+    {
+     "en": "1:3:1",
+     "te": null
+    },
+    {
+     "en": "1:2:1",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 197,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0144",
+   "section": "biology",
+   "number": 144,
+   "question": {
+    "en": "When Mendel crossed two plants having one pair of contrasting traits such as tall and short, F_1plants appeared as",
+    "te": "మెండల్ పొడవు, పొట్టి వంటి ఒక జత వ్యతిరేక లక్షణాంశాలున్న మొక్కలను సంకరణం చేసినప్పుడు, F_1 తరంలో మొక్కలు ఇలా ఏర్పడ్డాయి"
+   },
+   "options": [
+    {
+     "en": "All are tall plants",
+     "te": "మొక్కలన్నీ పొడవైనవి"
+    },
+    {
+     "en": "All are short plants",
+     "te": "మొక్కలన్నీ పొట్టివి"
+    },
+    {
+     "en": "Some are tall and some are short plants",
+     "te": "కొన్ని పొడవు మొక్కలు మరియు కొన్ని పొట్టి మొక్కలు"
+    },
+    {
+     "en": "All are medium sized plants",
+     "te": "మొక్కలన్నీ మధ్యస్థమైన పొడవుగలవి"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0145",
+   "section": "biology",
+   "number": 145,
+   "question": {
+    "en": "Food relations are shown linear in this",
+    "te": "ఆహార సంబంధాలను సరళరేఖాత్మకంగా దీనిలో చూపుతారు"
+   },
+   "options": [
+    {
+     "en": "Food web",
+     "te": "ఆహార జాలకం"
+    },
+    {
+     "en": "Trophic level",
+     "te": "పోషక స్థాయి"
+    },
+    {
+     "en": "Ecological pyramid",
+     "te": "ఆవరణ వ్యవస్థ పిరమిడ్"
+    },
+    {
+     "en": "Food chain",
+     "te": "ఆహార గొలుసు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0146",
+   "section": "biology",
+   "number": 146,
+   "question": {
+    "en": null,
+    "te": null
+   },
+   "options": [
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    },
+    {
+     "en": null,
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": "img/b73525e34f.png",
+   "imageW": 788,
+   "imageH": 730,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0147",
+   "section": "biology",
+   "number": 147,
+   "question": {
+    "en": "Natural ecosystems among the following",
+    "te": "క్రింది వానిలో సహజ ఆవరణ వ్యవస్థలు"
+   },
+   "options": [
+    {
+     "en": "Forest and pond",
+     "te": "అడవి మరియు కొలను"
+    },
+    {
+     "en": "Park and crop field",
+     "te": "పార్కు మరియు పంట పొలం"
+    },
+    {
+     "en": "Garden and lake",
+     "te": "తోట మరియు సరస్సు"
+    },
+    {
+     "en": "Zoological park and wildlife sanctuary",
+     "te": "జులాజికల్ పార్క్ మరియు వన్యప్రాణ సంరక్షణ కేంద్రం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0148",
+   "section": "biology",
+   "number": 148,
+   "question": {
+    "en": "The substance formed by the action of",
+    "te": "విచ్ఛిన్నకారుల చర్యల ఫలితంగా ఏర్పడే పదార్ధం"
+   },
+   "options": [
+    {
+     "en": "Compost",
+     "te": "కంపోస్ట్"
+    },
+    {
+     "en": "Humus",
+     "te": "హ్యుమస్"
+    },
+    {
+     "en": "Minerals",
+     "te": "ఖనిజాలు"
+    },
+    {
+     "en": "Detritus",
+     "te": "డెట్రిటస్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0149",
+   "section": "biology",
+   "number": 149,
+   "question": {
+    "en": "Find the primary consumer among the following",
+    "te": "క్రింది వానిలో ప్రాథమిక వినియోగదారుని గుర్తించండి"
+   },
+   "options": [
+    {
+     "en": "Moss",
+     "te": "మాస్"
+    },
+    {
+     "en": "Insect",
+     "te": "కీటకం"
+    },
+    {
+     "en": "Crane",
+     "te": "కొంగ"
+    },
+    {
+     "en": "Lion",
+     "te": "సింహం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0150",
+   "section": "biology",
+   "number": 150,
+   "question": {
+    "en": "Find the decomposer",
+    "te": "విచ్ఛిన్నకారిని గుర్తించండి."
+   },
+   "options": [
+    {
+     "en": "Amoeba",
+     "te": "అమీబా"
+    },
+    {
+     "en": "Fungi",
+     "te": "శిలీంధ్రం"
+    },
+    {
+     "en": "Crow",
+     "te": "కాకి"
+    },
+    {
+     "en": "Ant",
+     "te": "చీమ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0151",
+   "section": "biology",
+   "number": 151,
+   "question": {
+    "en": "The amount of organic matter available at each trophic level for the next level is",
+    "te": "ప్రతి పోషక స్థాయిలోను, తరువాతి స్థాయి కోసం లభ్యమయ్యే సేంద్రీయ పదార్ధం యొక్క పరిమాణం"
+   },
+   "options": [
+    {
+     "en": "90%",
+     "te": null
+    },
+    {
+     "en": "100%",
+     "te": null
+    },
+    {
+     "en": "10%",
+     "te": null
+    },
+    {
+     "en": "0.1%",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0152",
+   "section": "biology",
+   "number": 152,
+   "question": {
+    "en": "Primary consumers",
+    "te": "ప్రాధమిక వినియోగదారులు"
+   },
+   "options": [
+    {
+     "en": "Feed on herbivores",
+     "te": "ఉత్పత్తిదారులను ఆహారంగా తీసుకుంటాయి"
+    },
+    {
+     "en": "Feed on animals eat plant and plant products",
+     "te": "శాఖాహారులను ఆహారంగా తీసుకుంటాయి"
+    },
+    {
+     "en": "Feed on carnivores",
+     "te": "మాంసాహరులను ఆహారంగా తీసుకుంటాయి"
+    },
+    {
+     "en": "Feed on dead matter",
+     "te": "నిర్జీవ పదార్ధాలను ఆహారంగా తీసుకుంటాయి"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 198,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0153",
+   "section": "biology",
+   "number": 153,
+   "question": {
+    "en": "The green plants belonging to the terrestrial ecosystem capture this much percentage of total sunlight reaching the earth",
+    "te": "భౌమ్యావరణ వ్యవస్థలోని ఆకుపచ్చని మొక్కలు భూమిపై పడే సూర్యకాంతిలో ఇంత మొత్తాన్ని గ్రహిస్తున్నాయి"
+   },
+   "options": [
+    {
+     "en": "10%",
+     "te": null
+    },
+    {
+     "en": "90%",
+     "te": null
+    },
+    {
+     "en": "1%",
+     "te": null
+    },
+    {
+     "en": "0.1%",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0154",
+   "section": "biology",
+   "number": 154,
+   "question": {
+    "en": "This organism does not belong to the second trophic level of a food chain\nA) Frog\nB) Rabbit\nC) Tiger\nD) Grasshopper",
+    "te": "ఈ జీవి ఆహార గోలుసులో రెండవ పోషక స్థాయిది కాదు\nA) కప్ప\nB) కుందేలు\nC) పులి\nD) గొల్లభామ"
+   },
+   "options": [
+    {
+     "en": "A only",
+     "te": null
+    },
+    {
+     "en": "A and C only",
+     "te": null
+    },
+    {
+     "en": "A, C and D only",
+     "te": null
+    },
+    {
+     "en": "B, C and D only",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0155",
+   "section": "biology",
+   "number": 155,
+   "question": {
+    "en": "The odd one regarding the abiotic components of an ecosystem",
+    "te": "ఆవరణ వ్యవస్థలోని నిర్జీవ అంశాల పరంగా భిన్నమైనది"
+   },
+   "options": [
+    {
+     "en": "Temperature",
+     "te": "ఉష్ణోగ్రత"
+    },
+    {
+     "en": "Oxygen",
+     "te": "ఆక్సిజన్"
+    },
+    {
+     "en": "Decomposer",
+     "te": "విచ్ఛిన్నకారి"
+    },
+    {
+     "en": "Salinity",
+     "te": "లవణీయత"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0156",
+   "section": "biology",
+   "number": 156,
+   "question": {
+    "en": "Example for Phytoplankton living in an aquatic ecosystem",
+    "te": "జలావరణ వ్యవస్థలో జీవించే వృక్ష ప్లవకానికి ఉదాహరణ"
+   },
+   "options": [
+    {
+     "en": "Pitsea",
+     "te": "పిస్టియా"
+    },
+    {
+     "en": "Volvox",
+     "te": "వాల్వాక్స్"
+    },
+    {
+     "en": "Daphnia",
+     "te": "డాఫ్నియా"
+    },
+    {
+     "en": "Water Lilly",
+     "te": "కలువ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0157",
+   "section": "biology",
+   "number": 157,
+   "question": {
+    "en": "The finest Indian Teak is found in",
+    "te": "భారతదేశంలో అత్యుత్తమ టేకు చెట్లు ఇక్కడ లభిస్తాయి"
+   },
+   "options": [
+    {
+     "en": "Srisailam Tiger Reserve",
+     "te": "శ్రీశైలం టైగర్ రిజర్వ్"
+    },
+    {
+     "en": "Sathpura National Park",
+     "te": "సాత్పురా జాతీయ పార్క్"
+    },
+    {
+     "en": "Khaziranga National Park",
+     "te": "ఖజిరంగా జాతీయ పార్క్"
+    },
+    {
+     "en": "Pachmarhi Wildlife Sanctuary",
+     "te": "పచ్మర్వి వన్యప్రాణ సంరక్షణా కేంద్రం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0158",
+   "section": "biology",
+   "number": 158,
+   "question": {
+    "en": "The first Reserve Forest in India is",
+    "te": "భారతదేశంలోని మొదటి రిజర్వ్ అటవీప్రాంతం"
+   },
+   "options": [
+    {
+     "en": "Pachmarhi Wildlife Sanctuary",
+     "te": "పచ్మర్వి వన్యప్రాణ సంరక్షణా కేంద్రం"
+    },
+    {
+     "en": "Sathpura National Park",
+     "te": "సాత్పురా జాతీయ పార్క్"
+    },
+    {
+     "en": "Bori Reserve Forest",
+     "te": "బోరి రిజర్వ్ ఫారెస్ట్"
+    },
+    {
+     "en": "Pachmarhi Biosphere Reserve",
+     "te": "పచ్మర్వి బయోస్పియర్ రిజర్వ్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0159",
+   "section": "biology",
+   "number": 159,
+   "question": {
+    "en": "This is called ‘The Lungs of Our Planet’",
+    "te": "దీనిని ‘మన గ్రహానికి ఊపిరితిత్తులు’ గా పిలుస్తారు."
+   },
+   "options": [
+    {
+     "en": "Desert",
+     "te": "ఎడారి"
+    },
+    {
+     "en": "Forest",
+     "te": "అడవి"
+    },
+    {
+     "en": "Industry",
+     "te": "కర్మాగారం"
+    },
+    {
+     "en": "School",
+     "te": "పాఠశాల"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0160",
+   "section": "biology",
+   "number": 160,
+   "question": {
+    "en": "These organisms are exclusively found in a particular area",
+    "te": "ఒక నిర్ధిష్ట ప్రాంతంలో మాత్రమే ప్రత్యేకంగా కనిపించే జీవులు"
+   },
+   "options": [
+    {
+     "en": "Endemic species",
+     "te": "ఎండమిక్ జాతులు"
+    },
+    {
+     "en": "Endangered species",
+     "te": "అంతరించిపోయే జాతులు"
+    },
+    {
+     "en": "Extinct species",
+     "te": "అంతరించిపోయిన జాతులు"
+    },
+    {
+     "en": "Exotic species",
+     "te": "విదేశీ జాతులు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0161",
+   "section": "biology",
+   "number": 161,
+   "question": {
+    "en": "Fauna means",
+    "te": "ఫానా అనగా"
+   },
+   "options": [
+    {
+     "en": "Plants and animals living exclusively in a particular area",
+     "te": "ఒక ప్రదేశంలో మాత్రమే జీవించే మొక్కలు మరియు జంతువులు"
+    },
+    {
+     "en": "Plants found in a particular area",
+     "te": "ఒక ప్రదేశంలో లభ్యమయ్యే మొక్కలు"
+    },
+    {
+     "en": "Animals found in a particular area",
+     "te": "ఒక ప్రదేశంలోని జంతువులు"
+    },
+    {
+     "en": "Plants protected in a particular area",
+     "te": "ఒక ప్రదేశంలో సంరక్షించబడుతున్న మొక్కలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0162",
+   "section": "biology",
+   "number": 162,
+   "question": {
+    "en": "Species means",
+    "te": "జాతి అనగా"
+   },
+   "options": [
+    {
+     "en": "A group of population live in a particular area",
+     "te": "ఒక ప్రదేశంలో జీవించే జనాభా యొక్క సమూహము"
+    },
+    {
+     "en": "A group of members that can produce sterile offsprings",
+     "te": "వంధ్య సంతానాన్ని ఉత్పత్తిచేయగలిగిన సమూహ సభ్యులు"
+    },
+    {
+     "en": "A group of members living exclusively in an area",
+     "te": "ఒక ప్రదేశానికే పరిమితమై ఉన్న జీవుల సమూహము"
+    },
+    {
+     "en": "A group of population which are capable of interbreeding",
+     "te": "అంతర సంతానోత్పత్తి సామర్ధ్యం కలిగిన జీవుల సమూహము"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 199,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0163",
+   "section": "biology",
+   "number": 163,
+   "question": {
+    "en": "These organisms numbers are dangerously diminishing to the level of extinction",
+    "te": "విలుప్తమయ్యే దశకు చేరువగా ప్రమాదకరంగా తగ్గిపోతున్న జనాభా గల జీవులు"
+   },
+   "options": [
+    {
+     "en": "Extinct organisms",
+     "te": "అంతరించిన జీవులు"
+    },
+    {
+     "en": "Endemic organisms",
+     "te": "ఎండమిక్ జీవులు"
+    },
+    {
+     "en": "Endangered organisms",
+     "te": "ఆపదలో ఉన్న జంతువులు"
+    },
+    {
+     "en": "In – situ Organisms",
+     "te": "ఇన్ – సిటు జీవులు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0164",
+   "section": "biology",
+   "number": 164,
+   "question": {
+    "en": "This contain the data of endangered species",
+    "te": "ఆపదలో ఉన్న జీవుల యొక్క సమాచారాన్ని కలిగి ఉందునది"
+   },
+   "options": [
+    {
+     "en": "Red data book",
+     "te": "రెడ్డేటా బుక్"
+    },
+    {
+     "en": "Blue data book",
+     "te": "బ్లూడేటా బుక్"
+    },
+    {
+     "en": "Yellow data book",
+     "te": "ఎల్లోడేటా బుక్"
+    },
+    {
+     "en": "Green data book",
+     "te": "గ్రీన్డేటా బుక్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0165",
+   "section": "biology",
+   "number": 165,
+   "question": {
+    "en": "Siberian Cranes from Russia migrates to this place in Haryana every year",
+    "te": "రష్యా నుండి సైబీరియా కొంగలు ప్రతి సంవత్సరం హర్యానాలోని ఈ ప్రదేశానికి వలస వస్తాయి"
+   },
+   "options": [
+    {
+     "en": "Bharatpur",
+     "te": "భరత్పూర్"
+    },
+    {
+     "en": "Khaziranga",
+     "te": "ఖజిరంగా"
+    },
+    {
+     "en": "Ghana",
+     "te": "ఘనా"
+    },
+    {
+     "en": "Sulthanpur",
+     "te": "సుల్తాన్పూర్"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0166",
+   "section": "biology",
+   "number": 166,
+   "question": {
+    "en": "This is not the flora of Pachmarhi Biosphere Reserve",
+    "te": "ఇది పచ్మర్వి బయోస్ఫియర్ రిజర్వ్ కు చెందిన ఫ్లోరా కాదు"
+   },
+   "options": [
+    {
+     "en": "Sal",
+     "te": "సాల్"
+    },
+    {
+     "en": "Wild mango",
+     "te": "అడవి మామిడి"
+    },
+    {
+     "en": "Bison",
+     "te": "బైసన్"
+    },
+    {
+     "en": "Jamun",
+     "te": "నేరేడు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0167",
+   "section": "biology",
+   "number": 167,
+   "question": {
+    "en": "This is not the reason for bird migration",
+    "te": "పక్షుల వలసకు ఇది కారణం కాదు"
+   },
+   "options": [
+    {
+     "en": "To protect themselves from predators",
+     "te": "పరభక్షకాల నుండి తమను తాము కాపాడుకోవడం కోసం"
+    },
+    {
+     "en": "To protect themselves from environment conditions",
+     "te": "పర్యావరణ పరిస్థితుల నుండి తమను తాము కాపాడుకోవడం కోసం"
+    },
+    {
+     "en": "For breeding",
+     "te": "సంతానోత్పత్తి కోసం"
+    },
+    {
+     "en": "For feeding",
+     "te": "ఆహారం కోసం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0168",
+   "section": "biology",
+   "number": 168,
+   "question": {
+    "en": "Red Data Book is published by",
+    "te": "రెడ్ డేటాబుక్ ను ప్రచురించునది"
+   },
+   "options": [
+    {
+     "en": "IUCN",
+     "te": null
+    },
+    {
+     "en": "WWN",
+     "te": null
+    },
+    {
+     "en": "WES",
+     "te": null
+    },
+    {
+     "en": "ICZN",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0169",
+   "section": "biology",
+   "number": 169,
+   "question": {
+    "en": "The poisonous producing by burning of fossil fuels is",
+    "te": "శిలాజ ఇంధనాలను దహనంచేయడం వలన విడుదలయ్యే విషపూరిత వాయువు"
+   },
+   "options": [
+    {
+     "en": "CO",
+     "te": null
+    },
+    {
+     "en": "NO_2",
+     "te": null
+    },
+    {
+     "en": "Water vapour",
+     "te": "నీటిఆవిరి"
+    },
+    {
+     "en": "CO_2",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0170",
+   "section": "biology",
+   "number": 170,
+   "question": {
+    "en": "This is not an inorganic impurity in sewage",
+    "te": "మురుగునీటిలోని ఆకర్బన మలినం కానిది"
+   },
+   "options": [
+    {
+     "en": "Metals",
+     "te": "లోహాలు"
+    },
+    {
+     "en": "Oil",
+     "te": "నూనె"
+    },
+    {
+     "en": "Phosphorus",
+     "te": "ఫాస్ఫరస్"
+    },
+    {
+     "en": "Nitrates",
+     "te": "నైట్రేట్లు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0171",
+   "section": "biology",
+   "number": 171,
+   "question": {
+    "en": "The ‘World Water Day’ is on",
+    "te": "‘ప్రపంచ నీటి దినోత్సవం’ జరిపే రోజు"
+   },
+   "options": [
+    {
+     "en": "21 June",
+     "te": null
+    },
+    {
+     "en": "22 May",
+     "te": null
+    },
+    {
+     "en": "25 April",
+     "te": null
+    },
+    {
+     "en": "22 March",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0172",
+   "section": "biology",
+   "number": 172,
+   "question": {
+    "en": "Uppermost layer of the forest – A Lowermost layer of the forest – B. If both are formed by the plants, find out A and B.",
+    "te": "అడవులలో అత్యంత పైనున్న మొక్కల పొర - A అడవులలో అత్యంత క్రిందనున్న మొక్కల పొర -B A, B లను కనుగొనండి"
+   },
+   "options": [
+    {
+     "en": "A – Shrubs B - Trees",
+     "te": "A – పొదలు B – వృక్షాలు"
+    },
+    {
+     "en": "A – Trees B - Herbs",
+     "te": "A- వృక్షాలు B – గుల్మాలు"
+    },
+    {
+     "en": "A – Trees B – Mosses",
+     "te": "A – వృక్షాలు B – మాస్ లు"
+    },
+    {
+     "en": "A – Herbs B - Shrubs",
+     "te": "A – గుల్మాలు B – పొదలు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0173",
+   "section": "biology",
+   "number": 173,
+   "question": {
+    "en": "Acid rains are caused by",
+    "te": "ఆమ్ల వర్షాలకు కారణమైనవి"
+   },
+   "options": [
+    {
+     "en": "CO_2and SO_2",
+     "te": null
+    },
+    {
+     "en": "SO_2and NO_2",
+     "te": null
+    },
+    {
+     "en": "CO and CO_2",
+     "te": null
+    },
+    {
+     "en": "CO_2and NO_2",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 200,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0174",
+   "section": "biology",
+   "number": 174,
+   "question": {
+    "en": "Examples of organic impurities in water",
+    "te": "నీటిలోని సేంద్రీయ వ్యర్దాలకు ఉదాహరణలు"
+   },
+   "options": [
+    {
+     "en": "Protozoans",
+     "te": "ప్రోటోజోవన్లు"
+    },
+    {
+     "en": "Phosphorus and Nitrogen",
+     "te": "ఫాస్ఫరస్ మరియు నైట్రోజన్"
+    },
+    {
+     "en": "Urea and Pesticides",
+     "te": "యూరియా మరియు క్రిమిసంహారకాలు"
+    },
+    {
+     "en": "Metals",
+     "te": "లోహాలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0175",
+   "section": "biology",
+   "number": 175,
+   "question": {
+    "en": "Sewage is a",
+    "te": "మురుగునీరు ఒక"
+   },
+   "options": [
+    {
+     "en": "Solid waste produced in houses",
+     "te": "ఇండ్లలో ఏర్పడే ఘనరూప వ్యర్ధం"
+    },
+    {
+     "en": "Liquid waste produced in houses",
+     "te": "ద్రవరూప వ్యర్ధం"
+    },
+    {
+     "en": "Decomposed matter formed from plant wastes",
+     "te": "మొక్కల వ్యర్ధాల నుండి ఏర్పడిన కుళ్ళిన పదార్ధం"
+    },
+    {
+     "en": "Dry dung",
+     "te": "ఎండిన పేడ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0176",
+   "section": "biology",
+   "number": 176,
+   "question": {
+    "en": "These are the examples of onsite sewage disposal system\n(A) Compost pits\n(B) Canals\n(C) Chemical toilets\n(D) Springs",
+    "te": "అక్కడికక్కడ మురుగును పారవేసే వ్యవస్థకు ఉదాహరణ\n(A) కంపోస్ట్ గుంతలు\n(B) కాలువలు\n(C) రసాయన మరుగుదొడ్లు\n(D) నీటిబుగ్గలు"
+   },
+   "options": [
+    {
+     "en": "A and B only",
+     "te": null
+    },
+    {
+     "en": "A and C only",
+     "te": null
+    },
+    {
+     "en": "B and C only",
+     "te": null
+    },
+    {
+     "en": "B and D only",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0177",
+   "section": "biology",
+   "number": 177,
+   "question": {
+    "en": "97% of the activated sludge contains",
+    "te": "క్రియాశీల మురుగులో 97% ఉండేది"
+   },
+   "options": [
+    {
+     "en": "Water",
+     "te": "నీరు"
+    },
+    {
+     "en": "Floating wastes",
+     "te": "తేలియాడే వ్యర్ధాలు"
+    },
+    {
+     "en": "Aerobic bacteria",
+     "te": "వాయుగత బాక్టీరియా"
+    },
+    {
+     "en": "Dried wastes",
+     "te": "ఎండిన వ్యర్ధాలు"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0178",
+   "section": "biology",
+   "number": 178,
+   "question": {
+    "en": "Waste water is disinfected by using",
+    "te": "వ్యర్ధజలం దీనిని కలపడం ద్వారా క్రిమిరహితం చేయబడుతుంది"
+   },
+   "options": [
+    {
+     "en": "Ozone",
+     "te": "ఓజోన్"
+    },
+    {
+     "en": "Aerobic bacteria",
+     "te": "వాయుసహిత బాక్టీరియా"
+    },
+    {
+     "en": "Anaerobic bacteria",
+     "te": "అవాయు బాక్టీరియా"
+    },
+    {
+     "en": "Pesticide",
+     "te": "క్రిమిసంహారకం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0179",
+   "section": "biology",
+   "number": 179,
+   "question": {
+    "en": "Chloro Floro carbons are used in",
+    "te": "క్లోరోఫ్లోరో కార్బన్లను ఇక్కడ ఉపయోగిస్తారు"
+   },
+   "options": [
+    {
+     "en": "Refrigerators",
+     "te": "రిఫ్రిజిరేటర్లు"
+    },
+    {
+     "en": "Combustion of vehicle fuels",
+     "te": "వాహనాల ఇంధనాలను మండించడానికి"
+    },
+    {
+     "en": "Fire extinguishers",
+     "te": "మంటలను ఆర్పే యంత్రాలలో"
+    },
+    {
+     "en": "Making paper",
+     "te": "పేపర్ తయారీలో"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0180",
+   "section": "biology",
+   "number": 180,
+   "question": {
+    "en": "‘Ganga Action Plan’ was launched in",
+    "te": "‘గంగానది కార్యాచరణ ప్రణాళిక’ ప్రారంభమైన సంవత్సరం"
+   },
+   "options": [
+    {
+     "en": "1985",
+     "te": null
+    },
+    {
+     "en": "1987",
+     "te": null
+    },
+    {
+     "en": "1972",
+     "te": null
+    },
+    {
+     "en": "1978",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0181",
+   "section": "biology",
+   "number": 181,
+   "question": {
+    "en": "Examples for cleaner fuels that do not damage Environment",
+    "te": "పర్యావరణానికి హాని కలుగచేయని ఇంధనాలకు ఉదాహరణలు"
+   },
+   "options": [
+    {
+     "en": "Leaded petrol",
+     "te": "లెడ్ కలిగిన పెట్రోల్"
+    },
+    {
+     "en": "CNG and LPG",
+     "te": null
+    },
+    {
+     "en": "Petrol",
+     "te": "పెట్రోల్"
+    },
+    {
+     "en": "CFC and CNG",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0182",
+   "section": "biology",
+   "number": 182,
+   "question": {
+    "en": "The poisonous gas released from incomplete burning of fuels",
+    "te": "పాక్షికంగా దహనం చెందిన ఇంధనాల నుండి విడుదలయ్యే విషపూరిత వాయువు"
+   },
+   "options": [
+    {
+     "en": "Sulphur dioxide",
+     "te": "సల్ఫర్ డైఆక్సైడ్"
+    },
+    {
+     "en": "Ozone",
+     "te": "ఓజోన్"
+    },
+    {
+     "en": "Carbon monoxide",
+     "te": "కార్బన్ మోనాక్సైడ్"
+    },
+    {
+     "en": "Oxides of Nitrogen",
+     "te": "నైట్రోజన్ యొక్క ఆక్సైడ్లు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0183",
+   "section": "biology",
+   "number": 183,
+   "question": {
+    "en": "‘Marble cancer’ is not caused by",
+    "te": "‘మార్బుల్ కాన్సర్’ కి కారణం కానిది"
+   },
+   "options": [
+    {
+     "en": "Sulphur dioxide and Nitrogen dioxide",
+     "te": "సల్ఫర్ డైఆక్సైడ్ మరియు నైట్రోజన్ డైఆక్సైడ్"
+    },
+    {
+     "en": "Suspended particular matter",
+     "te": "గాలిలో తేలియాడే పదార్ధాలు"
+    },
+    {
+     "en": "Chloro Floro carbons",
+     "te": "క్లోరోఫ్లోరో కార్బన్లు"
+    },
+    {
+     "en": "Acid rains",
+     "te": "ఆమ్ల వర్షాలు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0184",
+   "section": "biology",
+   "number": 184,
+   "question": {
+    "en": "Residual persistence of pesticides in grains is due to",
+    "te": "ఆహారధాన్యాలలో పురుగుమందుల అవశేషాలు కొనసాగడం దీని వలన జరుగుతుంది"
+   },
+   "options": [
+    {
+     "en": "Biological magnification",
+     "te": "జైవికవృద్ధీకరణ"
+    },
+    {
+     "en": "Global warming",
+     "te": "భౌగోళిక వెచ్చదనము"
+    },
+    {
+     "en": "Biodegradable wastes",
+     "te": "జీవ విచ్ఛిన్నం అయ్యే వ్యర్ధాలు"
+    },
+    {
+     "en": "Formation of ozone layer",
+     "te": "ఓజోన్ పొర ఏర్పడటం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0185",
+   "section": "biology",
+   "number": 185,
+   "question": {
+    "en": "Examples of greenhouse gases",
+    "te": "గ్రీన్హౌస్ వాయువులకు ఉదాహరణలు"
+   },
+   "options": [
+    {
+     "en": "Carbon monoxide and carbon dioxide",
+     "te": "కార్బన్ మోనాక్సైడ్ మరియు కార్బన్ డైఆక్సైడ్"
+    },
+    {
+     "en": "Methane and Propane",
+     "te": "మీథేన్ మరియు ప్రొపేన్"
+    },
+    {
+     "en": "Carbon dioxide and Methane",
+     "te": "కార్బన్ డైఆక్సైడ్ మరియు మీథేన్"
+    },
+    {
+     "en": "Ozone and Carbon dioxide",
+     "te": "ఓజోన్ మరియు కార్బన్ డైఆక్సైడ్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 201,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0186",
+   "section": "biology",
+   "number": 186,
+   "question": {
+    "en": "Ozone is formed at higher levels of atmosphere",
+    "te": "ఓజోన్ ఎత్తైన ప్రదేశాలలో ఈ విధంగా ఏర్పడుతుంది"
+   },
+   "options": [
+    {
+     "en": "Breaking down of oxygen molecules by UV radiation",
+     "te": "UV వికిరణము ద్వారా ఆక్సిజన్ అణువులు విడిపోవడం"
+    },
+    {
+     "en": "Combining free oxygen atoms with oxygen molecules",
+     "te": "ఆక్సిజన్ స్వేచ్ఛాయుత పరమాణువులు ఆక్సిజన్ అణువులతో కలవడం"
+    },
+    {
+     "en": "Forming a shield to prevent UV radiation",
+     "te": "UV వికిరణమును నిరోధిస్తూ రక్షక కవచంగా ఏర్పడటం"
+    },
+    {
+     "en": "Combining of three free oxygen atoms with each another",
+     "te": "మూడు స్వేచ్ఛాయుత ఆక్సిజన్ పరమాణువులు ఒకదానితో ఒకటి కలవడం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0187",
+   "section": "biology",
+   "number": 187,
+   "question": {
+    "en": "The group containing biodegradable items only",
+    "te": "కేవలం జీవ విచ్ఛిన్నమయ్యే పదార్ధాలు గల సమూహము"
+   },
+   "options": [
+    {
+     "en": "Grass, flowers and leather",
+     "te": "గడ్డి, పుష్పాలు మరియు తోలు"
+    },
+    {
+     "en": "Grass, wood and plastic clip",
+     "te": "గడ్డి, చెక్క మరియు ప్లాస్టిక్ క్లిప్పు"
+    },
+    {
+     "en": "Fruit peels, coke tin and leather",
+     "te": "పండ్ల తొక్కలు, కోక్ టిన్ మరియు తోలు"
+    },
+    {
+     "en": "Dry cell, cake and plastic bottle",
+     "te": "నిర్జలఘటం, కేకు మరియు ప్లాస్టిక్ సీసా"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0188",
+   "section": "biology",
+   "number": 188,
+   "question": {
+    "en": "Non-biodegradable wastes are",
+    "te": "జీవ విచ్ఛిన్నం కాని వ్యర్ధాలు"
+   },
+   "options": [
+    {
+     "en": "Broken down by enzymes",
+     "te": "ఎంజైముల చేత విచ్ఛిన్నం చెందుతాయి"
+    },
+    {
+     "en": "Broken down under ambient conditions",
+     "te": "సహజ పరిస్థితులలో విచ్ఛిన్నం చెందుతాయి"
+    },
+    {
+     "en": "Not Broken down by the action of bacteria",
+     "te": "బాక్టీరియాల చర్యల వలన విచ్ఛిన్నం కావు"
+    },
+    {
+     "en": "Broken down by the action of saprophytes",
+     "te": "పూతికాహారుల చర్యల వలన విచ్ఛిన్నం చెందుతాయి"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0189",
+   "section": "biology",
+   "number": 189,
+   "question": {
+    "en": "During 1970s the movement run by local communities to prevent cutting of trees",
+    "te": "1970 లలో స్థానిక సమూహాల ద్వారా చెట్ల నరికివేతను నివారించడం కోసం జరుపబడిన ఉద్యమం"
+   },
+   "options": [
+    {
+     "en": "Jhum Cultivation",
+     "te": "జూమ్ వ్యవసాయం"
+    },
+    {
+     "en": "Joint Forest Management Programme",
+     "te": "ఉమ్మడి అటవీ నిర్వహణ పధకం"
+    },
+    {
+     "en": "Chipko Movement",
+     "te": "చిప్కోఉద్యమం"
+    },
+    {
+     "en": "Kyoto Protocol",
+     "te": "క్యోటో ప్రోటోకాల్"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0190",
+   "section": "biology",
+   "number": 190,
+   "question": {
+    "en": "Indiscriminate usage of non-biodegradable pesticides affect mostly",
+    "te": "నేలలో విచ్ఛిన్నం కాని క్రిమిసంహారకాల వాడకం ప్రధానంగా వీటిపై ప్రభావం చూపుతుంది"
+   },
+   "options": [
+    {
+     "en": "Plants",
+     "te": "మొక్కలు"
+    },
+    {
+     "en": "Rats",
+     "te": "ఎలుకలు"
+    },
+    {
+     "en": "Humans",
+     "te": "మానవులు"
+    },
+    {
+     "en": "Snakes",
+     "te": "పాములు"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0191",
+   "section": "biology",
+   "number": 191,
+   "question": {
+    "en": "The deadly poisonous gas that protects us from the radiation of the Sun is",
+    "te": "సూర్యుని వికిరణము బారి నుండి మనను కాపాడుతున్న ప్రాణాంతకమైన విషవాయువు"
+   },
+   "options": [
+    {
+     "en": "CO",
+     "te": null
+    },
+    {
+     "en": "N_2",
+     "te": null
+    },
+    {
+     "en": "CO_2",
+     "te": null
+    },
+    {
+     "en": "O_3",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0192",
+   "section": "biology",
+   "number": 192,
+   "question": {
+    "en": "Droughts and desertification are the results of",
+    "te": "కరువులు మరియు ఎడారీకరణ దీని యొక్క ఫలితాలు"
+   },
+   "options": [
+    {
+     "en": "Water pollution",
+     "te": "నీటి కాలుష్యం"
+    },
+    {
+     "en": "Deforestation",
+     "te": "అడవుల నరికివేత"
+    },
+    {
+     "en": "Grazing and Animal Breeding",
+     "te": "పశువులను మేపడం మరియు ప్రజననం చేయడం"
+    },
+    {
+     "en": "Natural Reforestation",
+     "te": "సహజమైన అడవుల పునరుద్ధరణ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0193",
+   "section": "biology",
+   "number": 193,
+   "question": {
+    "en": "“Science is that organised knowledge by testing and getting truth by observing this society, laws of nature, physical world” said by",
+    "te": "“భౌతిక ప్రపంచాన్ని, ప్రకృతి నియమాలను, సమాజాన్ని పరిశీలించడం ద్వారా వచ్చిన వ్యవస్థీకరించిన జ్ఞానమే విజ్ఞాన శాస్త్రం” అని నిర్వచించినది"
+   },
+   "options": [
+    {
+     "en": "James Randy",
+     "te": "జేమ్స్ రాండీ"
+    },
+    {
+     "en": "Oxford Advanced Learner Dictionary",
+     "te": "ఆక్స్ఫర్డ్ అడ్వాన్స్డ్ లెర్నర్స్ డిక్షనరీ"
+    },
+    {
+     "en": "The Science Man power project",
+     "te": "శాస్త్రీయ మానవ శక్తి పథకం"
+    },
+    {
+     "en": "J. B. Conant",
+     "te": "జేమ్స్. బి. కొనాంట్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0194",
+   "section": "biology",
+   "number": 194,
+   "question": {
+    "en": "Choose the correct match/s\nA. “Science is the treasure of Knowledge that teachers how to be” - Einstein\nB. “Science is a process of research” -A.W.Green",
+    "te": "సరైన జతను /లను గుర్తించండి\n“విజ్ఞానశాస్త్రం మనం ఎలా ఉండాలో నేర్పే జ్ఞానరాశి”- ఐన్స్టీన్\n“విజ్ఞానశాస్త్రమనేది ఒక పరిశోధనా విధానం”- A. W. గ్రీస్"
+   },
+   "options": [
+    {
+     "en": "A- Correct, B- incorrect",
+     "te": "A- సత్యం, B- అసత్యం"
+    },
+    {
+     "en": "A- incorrect, B- correct",
+     "te": "A- అసత్యం, B- సత్యం"
+    },
+    {
+     "en": "A and B both are correct",
+     "te": "A మరియు B రెండూ సత్యం"
+    },
+    {
+     "en": "A and B both are correct",
+     "te": "A మరియు B రెండూ అసత్యం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 202,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0195",
+   "section": "biology",
+   "number": 195,
+   "question": {
+    "en": "This is not the Nature of Science from the below",
+    "te": "క్రింది వానిలో విజ్ఞానశాస్త్రం యొక్క స్వభావం కానిది"
+   },
+   "options": [
+    {
+     "en": "Explorative Nature",
+     "te": "అన్వేషణాత్మక స్వభావం"
+    },
+    {
+     "en": "Rigid in Nature",
+     "te": "మార్పుకు లోనుకాని స్వభావం"
+    },
+    {
+     "en": "Cumulative in Nature",
+     "te": "సంచిత స్వభావం"
+    },
+    {
+     "en": "Scientific Scepticism in Nature",
+     "te": "శాస్త్రీయ సంశయాత్మక స్వభావం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 203,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0196",
+   "section": "biology",
+   "number": 196,
+   "question": {
+    "en": "“Inheritance of Acquired Characters” the Theory proposed by Lamark, was disproved by Wiesemen later by his experiments on Rats is explains this nature of Science",
+    "te": "లామార్క్ ప్రతిపాదించిన “ఆర్జిత గుణాల అనువంశికత” సిద్ధాంతం తప్పని తర్వాత ఎలుకల పైన చేసిన ప్రయోగాల ద్వారా వీజ్మన్ అనే శాస్త్రవేత్త నిరూపించడం సైన్స్ యొక్క ఈ స్వభావాన్ని తెలియజేస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Dynamic in Nature",
+     "te": "మార్పుకు లోనయ్యే స్వభావం"
+    },
+    {
+     "en": "Curious in Nature",
+     "te": "కుతూహల స్వభావం"
+    },
+    {
+     "en": "Cumulative in Nature",
+     "te": "సంచిత స్వభావం"
+    },
+    {
+     "en": "Problem solving in Nature",
+     "te": "సమస్యను పరిష్కరించే స్వభావం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 203,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0197",
+   "section": "biology",
+   "number": 197,
+   "question": {
+    "en": "When Lamark explained the Giraffe evolution through his ‘Inheritance of Acquired Characters’ got lot of acceptance. Later Wiesemen’s experiments on Rats by cutting its tails. Lamark Evaluation theory got criticism- This explains the development of Science is",
+    "te": "లామార్క్ జిరాఫీ పరిణామ క్రమం గురించి, ఆర్జిత గుణాల అనువంశికత ద్వారా చాలా మద్దతు లభించడం, అనంతరం వీజ్మన్ ఎలుకల తోకలను కత్తిరించి చేసిన ప్రయోగాల ద్వారా లామార్క్ జీవ పరిణామ సిద్ధాంతం విమర్శలకు లోనైంది- ఇది సైన్స్ అభివృద్ధి ఈ రకంగా ఉంటుందని తెలుపుతుంది"
+   },
+   "options": [
+    {
+     "en": "Unidirectional",
+     "te": "ఏక దిశాత్మకం"
+    },
+    {
+     "en": "Bidirectional",
+     "te": "ద్వి దిశాత్మకం"
+    },
+    {
+     "en": "Tri directional",
+     "te": "త్రి దిశాత్మకం"
+    },
+    {
+     "en": "Tetra directional",
+     "te": "చతుర్ దిశాత్మకం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 203,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0198",
+   "section": "biology",
+   "number": 198,
+   "question": {
+    "en": "Identify the Aims of Teaching learning of science from the following\nA) Developing honesty\nB) Gender equality\nC) Training in Scientific Method\nD) Optimum use of leisure time",
+    "te": "క్రింది వానిలో సైన్స్ బోధనాభ్యసనా ఉద్దేశ్యాలను గుర్తించండి\nA) నిజాయితీని పెంపొందించడం\nB) లింగ సమానత్వం\nC) శాస్త్రీయ పద్ధతిలోశిక్షణ\nవిరామ కాల సద్వినియోగం"
+   },
+   "options": [
+    {
+     "en": "A, B, C only",
+     "te": null
+    },
+    {
+     "en": "B, C, D only",
+     "te": null
+    },
+    {
+     "en": "A, C, D only",
+     "te": null
+    },
+    {
+     "en": "A, B, C, D",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 203,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0199",
+   "section": "biology",
+   "number": 199,
+   "question": {
+    "en": "The primary Science process skill from the following is",
+    "te": "క్రింది వానిలో ప్రాధమిక విజ్ఞానశాస్త్ర ప్రక్రియ నైపుణ్యము"
+   },
+   "options": [
+    {
+     "en": "Developing Hypothesis",
+     "te": "పరికల్పనను రూపొందించుట"
+    },
+    {
+     "en": "Conducting Experiments",
+     "te": "ప్రయోగాలు చేయుట"
+    },
+    {
+     "en": "Using tools",
+     "te": "పరికరాలను వినియోగించుటకు"
+    },
+    {
+     "en": "Classification",
+     "te": "వర్గీకరణ"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 203,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0200",
+   "section": "biology",
+   "number": 200,
+   "question": {
+    "en": "A teacher planned an introductory programme on ‘Sericulture’ for his students- this shown this Aim of Biological study",
+    "te": "ఒక ఉపాధ్యాయుడు తన విద్యార్ధులకు “పట్టు సంవర్ధనం” పై పరిచయ కార్యక్రమాన్ని రూపొందించారు. ఇది జీవశాస్త్రం అధ్యయనం యొక్క ఈ ఉద్దేశ్యాన్ని సూచిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Utilizing leisure time Aim",
+     "te": "విరామకాల సద్వినియోగ ఉద్దేశ్యం"
+    },
+    {
+     "en": "Utilizing Scientific Knowledge for the development humanity aim",
+     "te": "శాస్త్ర విజ్ఞానాన్ని మానవ కళ్యాణానికి వినియోగించే ఉద్దేశ్యం"
+    },
+    {
+     "en": "Preparing base for better life aim",
+     "te": "ఉన్నత జీవనానికి భూమిక నేర్పించే ఉద్దేశ్యం"
+    },
+    {
+     "en": "Preparing best citizens for society aim",
+     "te": "సమాజానికి ఉత్తమ పౌరులను అందించే ఉద్దేశ్యం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 203,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0201",
+   "section": "biology",
+   "number": 201,
+   "question": {
+    "en": "These are known as ‘Abstract goals’",
+    "te": "వీటిని ‘అమూర్త గమ్యాలు’ అనికూడా అంటారు"
+   },
+   "options": [
+    {
+     "en": "Aims",
+     "te": "ఉద్దేశ్యాలు"
+    },
+    {
+     "en": "Objectives",
+     "te": "లక్ష్యాలు"
+    },
+    {
+     "en": "Specifications",
+     "te": "స్పష్టీకరణలు"
+    },
+    {
+     "en": "Values",
+     "te": "విలువలు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 203,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0202",
+   "section": "biology",
+   "number": 202,
+   "question": {
+    "en": "A student developed alternative tool for an experiment – this shows this value of science teaching",
+    "te": "ఒక విద్యార్ధి ఒక ప్రయోగానికి కావలసిన ప్రత్యామ్నాయ పరికరాలు తయారుచేశాడు- ఇది ఈ విజ్ఞానశాస్త్ర బోధనావిలువను సూచిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Vocational value",
+     "te": "వృత్తిపరమైన విలువ"
+    },
+    {
+     "en": "Utilitarian value",
+     "te": "ఉపయోగిక విలువ"
+    },
+    {
+     "en": "Creative value",
+     "te": "సృజనాత్మక విలువ"
+    },
+    {
+     "en": "Interpretative value",
+     "te": "వివరణాత్మక విలువ"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 203,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0203",
+   "section": "biology",
+   "number": 203,
+   "question": {
+    "en": "Identify the Primary process skill of science\nA) Conducting experiments\nB) Observations\nC) Estimation\nD) Developing Hypothesis",
+    "te": "క్రింది వానిలో విజ్ఞానశాస్త్ర ప్రాథమిక ప్రక్రియా నైపుణ్యాలను గుర్తించండి\nA) ప్రయోగాలు చేయడం\nB) పరిశీలించడం\nC) అంచనా వేయడం\nD) ప్రకల్పనలు రూపొందించడం"
+   },
+   "options": [
+    {
+     "en": "A, B only",
+     "te": null
+    },
+    {
+     "en": "A, B, C only",
+     "te": null
+    },
+    {
+     "en": "C, D only",
+     "te": null
+    },
+    {
+     "en": "B, C only",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 204,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0204",
+   "section": "biology",
+   "number": 204,
+   "question": {
+    "en": "The institute called ‘Deficiency diseases enquiry’ in 1928, later developed into",
+    "te": "1928 లో ‘డెఫిసియన్సీ డిసీజ్ ఎంక్వైరీ’ గా పిలువబడిన సంస్థ తరువాత కాలంలో ఇలా అభివృద్ధి చెందింది"
+   },
+   "options": [
+    {
+     "en": "NIN",
+     "te": null
+    },
+    {
+     "en": "ICRISAT",
+     "te": null
+    },
+    {
+     "en": "NACO",
+     "te": null
+    },
+    {
+     "en": "CCMB",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 204,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0205",
+   "section": "biology",
+   "number": 205,
+   "question": {
+    "en": "According to comparison of Biological science teaching learning Aims, Objectives. Identify the correct statements\nA. When compared to Aims, Objectives take more time to achieve\nB. Objectives are influenced by Aims",
+    "te": "జీవశాస్త్ర బోధనా అభ్యసనా – ఉద్దేశ్యాలు, లక్ష్యాలు మధ్య పోలికల ఆధారంగా సరైన వాక్యాలను గుర్తించండి\nఉద్దేశ్యాలతో పోల్చితే లక్ష్యాలు సాధించుటకు ఎక్కువ సమయం అవసరం.\nలక్ష్యాలు ఉద్దేశ్యాలచే ప్రభావితమవుతాయి"
+   },
+   "options": [
+    {
+     "en": "A only Correct",
+     "te": "A మాత్రమే సత్యం"
+    },
+    {
+     "en": "B only correct",
+     "te": "B మాత్రమే సత్యం"
+    },
+    {
+     "en": "A and B both are correct",
+     "te": "A మరియు B రెండూ సత్యం"
+    },
+    {
+     "en": "A and B both are correct",
+     "te": "A మరియు B రెండూ అసత్యం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 204,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0206",
+   "section": "biology",
+   "number": 206,
+   "question": {
+    "en": "‘Having Objective means working meaningfully’ said by",
+    "te": "‘లక్ష్యం కలిగి ఉండడమంటే అర్ధవంతంగా పనిచేయడమే’ అని తెలిపినది"
+   },
+   "options": [
+    {
+     "en": "John Deuy",
+     "te": "జాన్ డ్యూయి"
+    },
+    {
+     "en": "Carlile",
+     "te": "కార్లైల్"
+    },
+    {
+     "en": "B. D. Bhatia",
+     "te": "బి. డి. భాటియా"
+    },
+    {
+     "en": "Abraham Maslow",
+     "te": "అబ్రహం మాస్లో"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 204,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0207",
+   "section": "biology",
+   "number": 207,
+   "question": {
+    "en": "These are not socio educational objectives",
+    "te": "ఇవి సామాజిక విద్యాలక్ష్యాలు కావు"
+   },
+   "options": [
+    {
+     "en": "Globalization, Ethical development",
+     "te": "ప్రపంచీకరణ, నైతికాభివృద్ధి"
+    },
+    {
+     "en": "Intellectual development, Emotional balance",
+     "te": "బౌద్ధికాభివృద్ధి, ఉద్వేగ సమతుల్యత"
+    },
+    {
+     "en": "Environmental protection, Modernization",
+     "te": "పర్యావరణ సమైక్యత, ఆధునికీకరణ"
+    },
+    {
+     "en": "National integrity, Protection of Democracy",
+     "te": "జాతీయ సమైక్యత, ప్రజాస్వామ్య పరిరక్షణ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 204,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0208",
+   "section": "biology",
+   "number": 208,
+   "question": {
+    "en": "“Inculcate Scientific attitude, Scientific interest for environmental protection – Biodiversity among the children” is a",
+    "te": "“విద్యార్ధులు పర్యావరణ పరిరక్షణ – జీవ వైవిధ్యం పట్ల శాస్త్రీయ వైఖరిని,శాస్త్రీయ అభిరుచిని కలుగజేయడం” అనునది"
+   },
+   "options": [
+    {
+     "en": "Goal",
+     "te": "గమ్యం"
+    },
+    {
+     "en": "Aim",
+     "te": "ఉద్దేశ్యం"
+    },
+    {
+     "en": "Objective",
+     "te": "లక్ష్యం"
+    },
+    {
+     "en": "Specification",
+     "te": "స్పష్టీకరణ"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 204,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0209",
+   "section": "biology",
+   "number": 209,
+   "question": {
+    "en": "“Student will be able to explain the uses of Biotechnology” is a",
+    "te": "“విద్యార్ధి బయోటెక్నాలజీ ప్రయోగాలను వివరిస్తారు”- అనునది"
+   },
+   "options": [
+    {
+     "en": "Objective",
+     "te": "లక్ష్యం"
+    },
+    {
+     "en": "Specification",
+     "te": "స్పష్టీకరణ"
+    },
+    {
+     "en": "Goal",
+     "te": "గమ్యం"
+    },
+    {
+     "en": "Aim",
+     "te": "ఉద్దేశ్యం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 204,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0210",
+   "section": "biology",
+   "number": 210,
+   "question": {
+    "en": "Identify the correct pairs regarding classification of educational objectives\nA) Sensations (or) Emotional process – R. H. Dave, Elizabeth Simpson\nB) Physical strength -Mental strength – David R. Krathwohl\nC) Intellectual process – Benjiman S. Blooms",
+    "te": "విద్యాలక్ష్యాల వర్గీకరణకు సంబంధించి సరైన జతలను గుర్తించండి\nమానసిక ప్రక్రియ - R. H. దవే, ఎలిజబెత్ సింప్సన్\nశారీరక శక్తి – మానసిక శక్తుల మధ్య అనుసంధానం – డేవిడ్ R. క్రాత్హాల్\nమేధోపరమైన ప్రక్రియ – బెంజిమన్ S. బ్లూమ్స్"
+   },
+   "options": [
+    {
+     "en": "A, C only",
+     "te": null
+    },
+    {
+     "en": "B, C only",
+     "te": null
+    },
+    {
+     "en": "C only",
+     "te": null
+    },
+    {
+     "en": "A, B, C",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 204,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0211",
+   "section": "biology",
+   "number": 211,
+   "question": {
+    "en": "This belongs to Psychomotor domine",
+    "te": "మానసిక చలనాత్మక రంగానికి చెందినది"
+   },
+   "options": [
+    {
+     "en": "Receiving",
+     "te": "గ్రహించడం"
+    },
+    {
+     "en": "Valuing",
+     "te": "విలువకట్టడం"
+    },
+    {
+     "en": "Organization",
+     "te": "వ్యవస్థాపనం"
+    },
+    {
+     "en": "Imitation",
+     "te": "అనుకరణ"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0212",
+   "section": "biology",
+   "number": 212,
+   "question": {
+    "en": "“Extrapolation” is step in this educational objective",
+    "te": "“బహిర్శీశనం” అనునది ఈ విద్యాలక్ష్యంలోని సోపానం"
+   },
+   "options": [
+    {
+     "en": "Application",
+     "te": "అన్వయం"
+    },
+    {
+     "en": "Analysis",
+     "te": "విశ్లేషణ"
+    },
+    {
+     "en": "Synthesis",
+     "te": "సంశ్లేషణ"
+    },
+    {
+     "en": "Understanding",
+     "te": "అవగాహన"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0213",
+   "section": "biology",
+   "number": 213,
+   "question": {
+    "en": "This domine represents emotions, feelings, values, interests, likes, attitudes etc. of a student is",
+    "te": "విద్యార్ధి యొక్క ఉద్వేగాలను, అనుభవాలను, విలువలను, అభిరుచులను, ఇష్టాలు, వైఖరులు మొదలైన వాటిని సూచించే రంగం"
+   },
+   "options": [
+    {
+     "en": "Affective domine",
+     "te": "భావావేశ రంగం"
+    },
+    {
+     "en": "Cognitive domine",
+     "te": "జ్ఞాన రంగం"
+    },
+    {
+     "en": "Physical domine",
+     "te": "భౌతిక రంగం"
+    },
+    {
+     "en": "Psychomotor domine",
+     "te": "మానసిక చలనాత్మక రంగం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0214",
+   "section": "biology",
+   "number": 214,
+   "question": {
+    "en": "According to Anderson and Krathwohl classification these are belonging to “Factual Knowledge”",
+    "te": "ఆండర్సన్ మరియు క్రాత్వోల్ వర్గీకరణ ప్రకారం ఇది “యదార్ధ సంబంధ జ్ఞానానికి” చెందినది"
+   },
+   "options": [
+    {
+     "en": "Facts, Definitions",
+     "te": "సత్యాలు, నిర్వచనాలు"
+    },
+    {
+     "en": "Theories, Generalizations",
+     "te": "సిద్ధాంతాలు, సాధారణీకరణాలు"
+    },
+    {
+     "en": "Demonstration of Activities",
+     "te": "కృత్యాలను ప్రదర్శించుట"
+    },
+    {
+     "en": "Knowledge about the usage of tools and instruments",
+     "te": "పరికరాలు, సామాగ్రి వాడకానికి సంబందించిన జ్ఞానం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0215",
+   "section": "biology",
+   "number": 215,
+   "question": {
+    "en": "According to State Curriculum frame work APSCF- 2011 number of biological standards to be acquired by the students are",
+    "te": "రాష్ట్ర విద్యా ప్రణాళికా పరిధి పత్రం APSCF- 2011 ప్రకారం విద్యార్ధి సాధించాల్సిన విద్యా ప్రమాణాల సంఖ్య"
+   },
+   "options": [
+    {
+     "en": "5",
+     "te": null
+    },
+    {
+     "en": "7",
+     "te": null
+    },
+    {
+     "en": "8",
+     "te": null
+    },
+    {
+     "en": "9",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0216",
+   "section": "biology",
+   "number": 216,
+   "question": {
+    "en": "“Students will arrange the instruments with speed and accurately” is belongs to this educational objective",
+    "te": "విద్యార్ధి ప్రయోగం నిర్వహించడానికి పరికరాలను త్వరగా, ఖచ్చితంగా అమర్చుట” అనేది ఈ విద్యాలక్ష్యాన్ని సూచిస్తుంది"
+   },
+   "options": [
+    {
+     "en": "Imitation",
+     "te": "అనుకరణ"
+    },
+    {
+     "en": "Precision",
+     "te": "సునిశితత్వం"
+    },
+    {
+     "en": "Naturalisation",
+     "te": "సహజీకరణం"
+    },
+    {
+     "en": "Characterisation",
+     "te": "శీలస్థాపనం"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0217",
+   "section": "biology",
+   "number": 217,
+   "question": {
+    "en": "This is not the advantage of “Lecture Method”",
+    "te": "ఇది “ఉపన్యాస పద్ధతి” ప్రయోజనం కాదు"
+   },
+   "options": [
+    {
+     "en": "This is easiest way in teaching methods",
+     "te": "ఇది అన్నీ బోధనాపద్ధతులకంటే సులభమైనది"
+    },
+    {
+     "en": "It will take more time for preparation for a teacher for teaching",
+     "te": "దీనిలో బోధనకు ఉపాధ్యాయుడు తయారు కావడానికి ఎక్కువ సమయం అవసరం"
+    },
+    {
+     "en": "One can teach more people, more content with in the less time",
+     "te": "తక్కువ సమయంలో ఎక్కువ మందికి, ఎక్కువ విషయాలను బోధించవచ్చు"
+    },
+    {
+     "en": "Can complete syllabus according to time table",
+     "te": "కాలనిర్ణయపట్టిక ప్రకారం సిలబస్ పూర్తి చేయవచ్చు"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0218",
+   "section": "biology",
+   "number": 218,
+   "question": {
+    "en": "According to Thurber and Collate “Lecture Demonstration Method” can be used in this contest\nA) Setting / Posing problem\nB) Solving problem\nC) Verification of fact\nD) Development of skills",
+    "te": "ధర్బర్, కొల్లెట్ ప్రకారం“ఉపన్యాస ప్రదర్శనా పద్ధతి” ఈ సందర్భాలలో వాడవచ్చు\nసమస్యను సృష్టించడం\nసమస్యను పరిష్కరించడం\nవిషయ నిరూపణ\nనైపుణ్యాల అభివృద్ధి"
+   },
+   "options": [
+    {
+     "en": "A, B only",
+     "te": null
+    },
+    {
+     "en": "A, B, C only",
+     "te": null
+    },
+    {
+     "en": "B, C, D only",
+     "te": null
+    },
+    {
+     "en": "A, B, C, D",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0219",
+   "section": "biology",
+   "number": 219,
+   "question": {
+    "en": "This is not advantage of Lecture Demonstration method",
+    "te": "ఉపన్యాస ప్రదర్శనా పద్ధతి ప్రయోజనం కానిది"
+   },
+   "options": [
+    {
+     "en": "Develop concrete concepts",
+     "te": "మూర్త భావనలు కలుగుతాయి"
+    },
+    {
+     "en": "Develop Scientific attitudes",
+     "te": "శాస్త్రీయ దృక్పధం అభివృద్ధి"
+    },
+    {
+     "en": "Not a child centred method",
+     "te": "శిశు కేంద్రిత పద్ధతి కాదు"
+    },
+    {
+     "en": "Develops knowledge through direct observations",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 205,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0220",
+   "section": "biology",
+   "number": 220,
+   "question": {
+    "en": "The principle that the “Inductive approach” does not depend",
+    "te": "క్రింది వానిలో “ఆగమన ఉపగమం” ఆధారపడని అభ్యసన సూత్రం"
+   },
+   "options": [
+    {
+     "en": "Formulating Generalization from examples",
+     "te": "ఉదాహరణాల నుండి సామాన్యీకరణాన్ని చేయడం"
+    },
+    {
+     "en": "Formulating Generalization from individual items",
+     "te": "ప్రత్యేకాంశం నుండి సామాన్యీకరణాన్ని చేయడం"
+    },
+    {
+     "en": "Going from concrete concepts to abstract concepts",
+     "te": "మూర్త విషయాల నుండి అమూర్త విషయాలకు"
+    },
+    {
+     "en": "Abstract concepts to concrete concepts",
+     "te": "అమూర్త విషయాల నుండి మూర్త విషయాలకు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0221",
+   "section": "biology",
+   "number": 221,
+   "question": {
+    "en": "Teaching of a single concept done by a pupil teacher to acquire teaching skills, using specified teaching skill to a small number of pupils in a short duration of time is",
+    "te": "బోధనా నైపుణ్యాల సాధన కొరకు తక్కువ సమయంలో, తక్కువ సంఖ్యలో గల విద్యార్ధులకు నిర్ధిష్ట బోధనా నైపుణ్యాన్ని ఉపయోగించి ఒకే ఒక భావనతో ఛాత్రోపాధ్యాయుడు చేసే బోధన"
+   },
+   "options": [
+    {
+     "en": "Macro Teaching",
+     "te": "స్థూల బోధన"
+    },
+    {
+     "en": "Micro Teaching",
+     "te": "సూక్ష్మ బోధన"
+    },
+    {
+     "en": "Peer Teaching",
+     "te": "బృంద బోధన"
+    },
+    {
+     "en": "Remedial Teaching",
+     "te": "పరిహారాత్మక బోధన"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0222",
+   "section": "biology",
+   "number": 222,
+   "question": {
+    "en": "On this method the students listens while the teacher is explaining or writing",
+    "te": "ఈ పద్ధతిలో ఉపాధ్యాయుడు ఉపన్యసిస్తూ లేదా రాతపూర్వకంగా వివరిస్తూ ఉంటే విద్యార్ధి వింటూ ఉంటాడు"
+   },
+   "options": [
+    {
+     "en": "Laboratory method",
+     "te": "ప్రయోగశాల పద్ధతి"
+    },
+    {
+     "en": "Scientific method",
+     "te": "శాస్త్రీయ పద్ధతి"
+    },
+    {
+     "en": "Project method",
+     "te": "ప్రాజెక్టు పద్ధతి"
+    },
+    {
+     "en": "Lecture method",
+     "te": "ఉపన్యాస పద్ధతి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0223",
+   "section": "biology",
+   "number": 223,
+   "question": {
+    "en": "The method used to derive specific items from general items is",
+    "te": "సాధారణ అంశాల నుంచి ప్రత్యేక విషయాలను రాబట్టేందుకు ఉపయోగించే పద్ధతి"
+   },
+   "options": [
+    {
+     "en": "Laboratory method",
+     "te": "ప్రయోగశాల పద్ధతి"
+    },
+    {
+     "en": "Deductive method",
+     "te": "నిగమన పద్ధతి"
+    },
+    {
+     "en": "Project method",
+     "te": "ప్రాజెక్ట్ పద్ధతి"
+    },
+    {
+     "en": "Lecture demonstration method",
+     "te": "ఉపన్యాస ప్రదర్శనా పద్ధతి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0224",
+   "section": "biology",
+   "number": 224,
+   "question": {
+    "en": "The method used to derive general principles from specific examples",
+    "te": "నిర్ధిష్ట ఉదాహరణల నుండి సామాన్య సూత్రాలను రాబట్టడానికి ఉపయోగించే పద్ధతి"
+   },
+   "options": [
+    {
+     "en": "Laboratory method",
+     "te": "ప్రయోగశాల పద్ధతి"
+    },
+    {
+     "en": "Inductive method",
+     "te": "ఆగమన పద్ధతి"
+    },
+    {
+     "en": "Project method",
+     "te": "ప్రాజెక్ట్ పద్ధతి"
+    },
+    {
+     "en": "Lecture demonstration method",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0225",
+   "section": "biology",
+   "number": 225,
+   "question": {
+    "en": "In this method, students find ways to solve problems in natural environment",
+    "te": "ఈ పద్ధతిలో విద్యార్ధులు సహజ వాతావరణంలో సమస్యకు పరిష్కార మార్గాలు కనిపెడతారు"
+   },
+   "options": [
+    {
+     "en": "Lecture method",
+     "te": "ఉపన్యాస ప్రదర్శనా పద్ధతి"
+    },
+    {
+     "en": "Lecture demonstration method",
+     "te": "ఉపన్యాస ప్రదర్శనా పద్ధతి"
+    },
+    {
+     "en": "Laboratory method",
+     "te": "ప్రయోగశాల పద్ధతి"
+    },
+    {
+     "en": "Project method",
+     "te": "ప్రాజెక్ట్ పద్ధతి"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0226",
+   "section": "biology",
+   "number": 226,
+   "question": {
+    "en": "To prepare an Aquarium by the pupil, this method can be used",
+    "te": "విద్యార్ధులచే అక్వేరియం తయారు చేయించడానికి ఈ క్రింది పద్ధతిని ఉపయోగిస్తారు"
+   },
+   "options": [
+    {
+     "en": "Explorative method",
+     "te": "అన్వేషణ పద్ధతి"
+    },
+    {
+     "en": "Project method",
+     "te": "ప్రకల్పన పద్ధతి"
+    },
+    {
+     "en": "Problem solving method",
+     "te": "సమస్యా పరిష్కార పద్ధతి"
+    },
+    {
+     "en": "Demonstration method",
+     "te": "ప్రదర్శనా పద్ధతి"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0227",
+   "section": "biology",
+   "number": 227,
+   "question": {
+    "en": "The best learning Experience among the following",
+    "te": "క్రింది వానిలో ఉత్తమమైన అభ్యాసనానుభవం"
+   },
+   "options": [
+    {
+     "en": "Direct Experience",
+     "te": "ప్రత్యక్ష అనుభవం"
+    },
+    {
+     "en": "Indirect Experience",
+     "te": "పరోక్ష అనుభవం"
+    },
+    {
+     "en": "Vicarious Experience",
+     "te": "ప్రాతినిధ్య అనుభవం"
+    },
+    {
+     "en": "Bilateral Experience",
+     "te": "ద్విపార్శ్వ అనుభవం"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0228",
+   "section": "biology",
+   "number": 228,
+   "question": {
+    "en": "This is useful in learning Utilization of Natural resources",
+    "te": "సహజ వనరుల వినియోగానికి అభ్యసనలో ఇవి ఉపకరిస్తాయి"
+   },
+   "options": [
+    {
+     "en": "Demonstrations",
+     "te": "ప్రదర్శనలు"
+    },
+    {
+     "en": "Field trips",
+     "te": "క్షేత్ర పర్యటనలు"
+    },
+    {
+     "en": "Experiments",
+     "te": "ప్రయోగాలు"
+    },
+    {
+     "en": "Collection of objects",
+     "te": "వస్తుసేకరణ"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0229",
+   "section": "biology",
+   "number": 229,
+   "question": {
+    "en": "Fundamental characteristics of a textbook among the following\nA. Should encourage self-learning\nB. Activities in the textbook should relate to daily life\nC. Should have scope for cocurricular activities.",
+    "te": "కింది వానిలో పాఠ్యపుస్తకం ప్రాథమిక లక్షణాలు\nస్వయం అభ్యసనాన్ని ప్రోత్సహించేదిగా ఉండాలి\nపాఠ్య పుస్తకంలోని కృత్యాలు దైనందిన జీవితంతో సంబంధాన్ని కలిగి ఉండాలి.\nసహపాఠ్య కార్యక్రమాలకు అవకాశం ఉండాలి."
+   },
+   "options": [
+    {
+     "en": "A, B only",
+     "te": null
+    },
+    {
+     "en": "B, C only",
+     "te": null
+    },
+    {
+     "en": "A, C only",
+     "te": null
+    },
+    {
+     "en": "A, B, C",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 206,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0230",
+   "section": "biology",
+   "number": 230,
+   "question": {
+    "en": "Total marks in Vogal’s spot check evaluation scale are",
+    "te": "వోగెల్ పాఠ్య పుస్తకమాపనిలో మొత్తం గణన మార్కులు"
+   },
+   "options": [
+    {
+     "en": "10",
+     "te": null
+    },
+    {
+     "en": "500",
+     "te": null
+    },
+    {
+     "en": "150",
+     "te": null
+    },
+    {
+     "en": "1000",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0231",
+   "section": "biology",
+   "number": 231,
+   "question": {
+    "en": "According to R.H White house proposed lay out of lecture room cum laboratory is",
+    "te": "R.H వైట్హౌస్ సూచించిన ఉపన్యాస ప్రయోగశాల భూపటలం కొలత"
+   },
+   "options": [
+    {
+     "en": "45 × 25 feet",
+     "te": null
+    },
+    {
+     "en": "40 × 20 feet",
+     "te": null
+    },
+    {
+     "en": "55 × 25 feet",
+     "te": null
+    },
+    {
+     "en": "25 × 25 feet",
+     "te": null
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0232",
+   "section": "biology",
+   "number": 232,
+   "question": {
+    "en": "“Mobile science Laboratory” first introduced in India by",
+    "te": "మొట్టమొదటి “సంచార ప్రయోగశాల”ను భారతదేశంలో రూపొందించినవారు"
+   },
+   "options": [
+    {
+     "en": "NCTE",
+     "te": null
+    },
+    {
+     "en": "SITE",
+     "te": null
+    },
+    {
+     "en": "NCERT",
+     "te": null
+    },
+    {
+     "en": "NIEPA",
+     "te": null
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0233",
+   "section": "biology",
+   "number": 233,
+   "question": {
+    "en": "This percentage of learning will be done by seeing in students.",
+    "te": "విద్యార్ధులలో చూడటం ద్వారా ఇంత శాతం అభ్యసనం జరుగుతుంది."
+   },
+   "options": [
+    {
+     "en": "45%",
+     "te": null
+    },
+    {
+     "en": "83%",
+     "te": null
+    },
+    {
+     "en": "65%",
+     "te": null
+    },
+    {
+     "en": "4%",
+     "te": null
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0234",
+   "section": "biology",
+   "number": 234,
+   "question": {
+    "en": "The projected teaching aid from the following.",
+    "te": "కింది వానిలో ప్రక్షేపిత బోధనోపకరణం"
+   },
+   "options": [
+    {
+     "en": "Epidiascope",
+     "te": "ఎపిడయోస్కోప్"
+    },
+    {
+     "en": "Diorama",
+     "te": "డయోరమ"
+    },
+    {
+     "en": "Peg board",
+     "te": "పెగ్బోర్డు"
+    },
+    {
+     "en": "Globe",
+     "te": "గ్లోబ్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0235",
+   "section": "biology",
+   "number": 235,
+   "question": {
+    "en": "Patron of the “school science club” is",
+    "te": "“పాఠశాల విజ్ఞానశాస్త్ర సంఘం” యొక్క పోషకుడు"
+   },
+   "options": [
+    {
+     "en": "Librarian",
+     "te": "గ్రంధాలయాధికారి"
+    },
+    {
+     "en": "Selected student",
+     "te": "ఎన్నుకోబడిన విధ్యార్ధి"
+    },
+    {
+     "en": "Science teacher",
+     "te": "విజ్ఞానశాస్త్ర ఉపాధ్యాయులు"
+    },
+    {
+     "en": "Head master",
+     "te": "ప్రధానోపాధ్యాయులు"
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0236",
+   "section": "biology",
+   "number": 236,
+   "question": {
+    "en": "This is not the advantage of the objective question",
+    "te": "కింది వానిలో లక్ష్యాత్మక ప్రశ్నల ప్రయోజనం కానిది."
+   },
+   "options": [
+    {
+     "en": "More scope for conceptual expression",
+     "te": "భావ వ్యక్తీకరణకు అవకాశం ఎక్కువ"
+    },
+    {
+     "en": "having relatability",
+     "te": "విశ్వసనీయతను కలిగి ఉంటాయి"
+    },
+    {
+     "en": "No scope for dilemma",
+     "te": "సంధిగ్థతకు తావు ఉండదు"
+    },
+    {
+     "en": "Objectivity in awarding marks",
+     "te": "మార్కులు ఇవ్వడంలో లక్ష్యాత్మకత ఉంటుంది."
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0237",
+   "section": "biology",
+   "number": 237,
+   "question": {
+    "en": "The book that records student’s behaviour in special situations is",
+    "te": "ప్రత్యేక సంఘటనలలో విద్యార్ధి చూపే ప్రవర్తనను నమోదుచేసే పుస్తకం"
+   },
+   "options": [
+    {
+     "en": "Check list",
+     "te": "చెక్ లిస్ట్"
+    },
+    {
+     "en": "Cumulative record",
+     "te": "సంచిత పత్రం"
+    },
+    {
+     "en": "Anecdotal record",
+     "te": "ఎనక్టోడల్ రికార్డ్"
+    },
+    {
+     "en": "Progress card",
+     "te": "ప్రగతి పత్రం"
+    }
+   ],
+   "answer": 3,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0238",
+   "section": "biology",
+   "number": 238,
+   "question": {
+    "en": "“The activities conducted by pupil under the monitoring of the teacher is called educational planning” – said by",
+    "te": "“ఉపాధ్యాయుని పర్యవేక్షణలో విద్యార్ధులు నిర్వహించే కృత్యాల సముదాయమే విద్యాప్రణాళిక” – అని తెలిపినది"
+   },
+   "options": [
+    {
+     "en": "Spears",
+     "te": "స్పియర్స్"
+    },
+    {
+     "en": "Murre",
+     "te": "ముర్రే"
+    },
+    {
+     "en": "Cunning Hamm",
+     "te": "కన్నింగ్ హామ్"
+    },
+    {
+     "en": "W. S. Jacobson",
+     "te": "W. S. జాకబ్ సన్"
+    }
+   ],
+   "answer": 1,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0239",
+   "section": "biology",
+   "number": 239,
+   "question": {
+    "en": "The principles of curriculum development from the following are\nA. Diversity, Flexible principle\nB. Activity centred principle\nC. Child centred principle",
+    "te": "క్రింది వానిలో పాఠ్యప్రణాళికా నిర్మాణ సూత్రాలు\nA. వైవిధ్యసడలింపు సూత్రం\nB. కృత్య కేంద్రీకృత నియమం\nC. శిశు కేంద్రీకృత నియమం"
+   },
+   "options": [
+    {
+     "en": "A only",
+     "te": null
+    },
+    {
+     "en": "A, B only",
+     "te": null
+    },
+    {
+     "en": "B, C only",
+     "te": null
+    },
+    {
+     "en": "A, B, C",
+     "te": null
+    }
+   ],
+   "answer": 4,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  },
+  {
+   "id": "biology-0240",
+   "section": "biology",
+   "number": 240,
+   "question": {
+    "en": "Brass articles in Biological laboratory should be cleaned with this",
+    "te": "జీవశాస్త్ర ప్రయోగశాలలోని ఇత్తడి వస్తువులను దీనితో శుభ్రం చేస్తారు"
+   },
+   "options": [
+    {
+     "en": "Spirit",
+     "te": "స్పిరిట్"
+    },
+    {
+     "en": "Braso",
+     "te": "బ్రాసో"
+    },
+    {
+     "en": "Grease",
+     "te": "గ్రీజ్"
+    },
+    {
+     "en": "Formalin",
+     "te": "ఫార్మాలిన్"
+    }
+   ],
+   "answer": 2,
+   "image": null,
+   "imageW": null,
+   "imageH": null,
+   "sourcePage": 207,
+   "needsReview": false
+  }
+ ]
+}
